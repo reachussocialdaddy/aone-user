@@ -4946,7 +4946,7 @@ const driveData = [
 const categoryMap = {
     'single_tier': 'cake', '2_tier': 'cake', '3_tier': 'cake', '4_tier': 'cake', '5_tier': 'cake',
     'kids': 'cake', 'regular_cakes': 'cake', 'cup_cakes': 'cup_cakes', 'cup_cake_clamshell': 'cup_cakes',
-    'round_biscuits': 'biscuits', 'rectangular_biscuits': 'biscuits', 'biscuits_2.5lbs': 'biscuits',
+    'round_biscuits': 'biscuits', 'rectangular_biscuits': 'biscuits', "biscuits_2.5lbs": 'biscuits',
     'biscuits_340gms': 'biscuits', 'biscuits_5lbs': 'biscuits', 'biscuits_700g': 'biscuits',
     'sooji_milk_rusk': 'biscuits', 'tasty_tea_rusk': 'biscuits', 'whole_wheat_tea_rusk': 'biscuits',
     'rusk_400gm': 'biscuits', 'rusk_700gms': 'biscuits',
@@ -5037,7 +5037,7 @@ function createProductCard(product, index) {
         cup_cakes: '🧁', round_biscuits: '🍪', rectangular_biscuits: '🍪',
         cake_slice: '🍰', cream_rolls: '🥐', cup_cake_clamshell: '🧁',
         kids: '🎈', pastries_in_clamshell: '🍰', pudding_cups: '🍮',
-        biscuits_2.5lbs: '🍪', biscuits_340gms: '🍪', biscuits_5lbs: '🍪', biscuits_700g: '🍪',
+        "biscuits_2.5lbs": '🍪', biscuits_340gms: '🍪', biscuits_5lbs: '🍪', biscuits_700g: '🍪',
         regular_cakes: '🎂', sooji_milk_rusk: '🥖', tasty_tea_rusk: '🥖', whole_wheat_tea_rusk: '🥖'
     };
 
@@ -5160,7 +5160,7 @@ function quickView(productId) {
         cup_cakes: '🧁', round_biscuits: '🍪', rectangular_biscuits: '🍪',
         cake_slice: '🍰', cream_rolls: '🥐', cup_cake_clamshell: '🧁',
         kids: '🎈', pastries_in_clamshell: '🍰', pudding_cups: '🍮',
-        biscuits_2.5lbs: '🍪', biscuits_340gms: '🍪', biscuits_5lbs: '🍪', biscuits_700g: '🍪',
+        "biscuits_2.5lbs": '🍪', biscuits_340gms: '🍪', biscuits_5lbs: '🍪', biscuits_700g: '🍪',
         regular_cakes: '🎂', sooji_milk_rusk: '🥖', tasty_tea_rusk: '🥖', whole_wheat_tea_rusk: '🥖'
     };
 
