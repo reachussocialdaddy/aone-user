@@ -4,7 +4,7 @@
 // ========================================
 
 // Product Data
-const products = [];
+products = [];
 
 // ========================================
 // DRIVE PRODUCTS DATA (Inlined for reliability)

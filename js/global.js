@@ -17,7 +17,7 @@ document.addEventListener('dragstart', (e) => {
 });
 
 // Product Data
-const products = [
+let products = [
     {
         id: 1,
         name: "Classic Sourdough",
