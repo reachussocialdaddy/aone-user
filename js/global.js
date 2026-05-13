@@ -222,29 +222,29 @@ let products = [
 let cart = JSON.parse(localStorage.getItem('a1_cart')) || [];
 
 // DOM Elements
-const navbar = document.getElementById('navbar');
-const cartBtn = document.getElementById('cartBtn');
-const cartSidebar = document.getElementById('cartSidebar');
-const cartOverlay = document.getElementById('cartOverlay');
-const closeCart = document.getElementById('closeCart');
-const cartItems = document.getElementById('cartItems');
-const cartCount = document.getElementById('cartCount');
-const cartTotal = document.getElementById('cartTotal');
-const searchBtn = document.getElementById('searchBtn');
-const searchOverlay = document.getElementById('searchOverlay');
-const closeSearch = document.getElementById('closeSearch');
-const searchInput = document.getElementById('searchInput');
-const searchResults = document.getElementById('searchResults');
-const mobileMenuBtn = document.getElementById('mobileMenuBtn');
-const mobileMenu = document.getElementById('mobileMenu');
-const closeMobile = document.getElementById('closeMobile');
-const toast = document.getElementById('toast');
-const toastMessage = document.getElementById('toastMessage');
-const productModal = document.getElementById('productModal');
-const modalClose = document.getElementById('modalClose');
-const modalBody = document.getElementById('modalBody');
-const checkoutBtn = document.getElementById('checkoutBtn');
-const placeOrderBtn = document.getElementById('placeOrderBtn');
+let navbar = document.getElementById('navbar');
+let cartBtn = document.getElementById('cartBtn');
+let cartSidebar = document.getElementById('cartSidebar');
+let cartOverlay = document.getElementById('cartOverlay');
+let closeCart = document.getElementById('closeCart');
+let cartItems = document.getElementById('cartItems');
+let cartCount = document.getElementById('cartCount');
+let cartTotal = document.getElementById('cartTotal');
+let searchBtn = document.getElementById('searchBtn');
+let searchOverlay = document.getElementById('searchOverlay');
+let closeSearch = document.getElementById('closeSearch');
+let searchInput = document.getElementById('searchInput');
+let searchResults = document.getElementById('searchResults');
+let mobileMenuBtn = document.getElementById('mobileMenuBtn');
+let mobileMenu = document.getElementById('mobileMenu');
+let closeMobile = document.getElementById('closeMobile');
+let toast = document.getElementById('toast');
+let toastMessage = document.getElementById('toastMessage');
+let productModal = document.getElementById('productModal');
+let modalClose = document.getElementById('modalClose');
+let modalBody = document.getElementById('modalBody');
+let checkoutBtn = document.getElementById('checkoutBtn');
+let placeOrderBtn = document.getElementById('placeOrderBtn');
 
 // ========================================
 // INITIALIZATION
