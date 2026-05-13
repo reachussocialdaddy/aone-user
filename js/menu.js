@@ -15,7 +15,7 @@ const driveData = [
         "name": "Bread Pakora",
         "category": "snacks",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=16yPatZpmVqi6At2b6_aEloU6_pKSiGKG",
+        "image": "https://drive.google.com/thumbnail?id=16yPatZpmVqi6At2b6_aEloU6_pKSiGKG&sz=w1000",
         "description": "Fresh Bread Pakora from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -25,7 +25,7 @@ const driveData = [
         "name": "Bread Pakora",
         "category": "snacks",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1QUMB_jc-RZFigE82fEUS8J4jqTWTGKx9",
+        "image": "https://drive.google.com/thumbnail?id=1QUMB_jc-RZFigE82fEUS8J4jqTWTGKx9&sz=w1000",
         "description": "Fresh Bread Pakora from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -35,7 +35,7 @@ const driveData = [
         "name": "Mix Pakora",
         "category": "snacks",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1aSY0xtxtYYEZrxXdSFngvvnSzf69KUNh",
+        "image": "https://drive.google.com/thumbnail?id=1aSY0xtxtYYEZrxXdSFngvvnSzf69KUNh&sz=w1000",
         "description": "Fresh Mix Pakora from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -45,7 +45,7 @@ const driveData = [
         "name": "Mix Pakora",
         "category": "snacks",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1NM1wJOvphmMv3uVrNxZficr6qxbLZcsA",
+        "image": "https://drive.google.com/thumbnail?id=1NM1wJOvphmMv3uVrNxZficr6qxbLZcsA&sz=w1000",
         "description": "Fresh Mix Pakora from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -55,7 +55,7 @@ const driveData = [
         "name": "Onion Rings",
         "category": "snacks",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=19GPEvlp1agKQW34MDEuVku7dZ9LRN7sA",
+        "image": "https://drive.google.com/thumbnail?id=19GPEvlp1agKQW34MDEuVku7dZ9LRN7sA&sz=w1000",
         "description": "Fresh Onion Rings from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -65,7 +65,7 @@ const driveData = [
         "name": "Onion Rings",
         "category": "snacks",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1IWPf52_w8DVyDjDdQYhOyQFJG_YB8y_O",
+        "image": "https://drive.google.com/thumbnail?id=1IWPf52_w8DVyDjDdQYhOyQFJG_YB8y_O&sz=w1000",
         "description": "Fresh Onion Rings from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -75,7 +75,7 @@ const driveData = [
         "name": "Paneer Pakora",
         "category": "snacks",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1fNhdQd65J69_aNKN0OV1MT9tPmFOZyo2",
+        "image": "https://drive.google.com/thumbnail?id=1fNhdQd65J69_aNKN0OV1MT9tPmFOZyo2&sz=w1000",
         "description": "Fresh Paneer Pakora from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -85,7 +85,7 @@ const driveData = [
         "name": "Paneer Pakora",
         "category": "snacks",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1fjdVipxSx0VJiYn1rKNxq9ns0F7qlSPS",
+        "image": "https://drive.google.com/thumbnail?id=1fjdVipxSx0VJiYn1rKNxq9ns0F7qlSPS&sz=w1000",
         "description": "Fresh Paneer Pakora from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -95,7 +95,7 @@ const driveData = [
         "name": "Samosa",
         "category": "snacks",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=13bI2QBquW9O7gOZAnL6OA-RI4a4OrrCd",
+        "image": "https://drive.google.com/thumbnail?id=13bI2QBquW9O7gOZAnL6OA-RI4a4OrrCd&sz=w1000",
         "description": "Fresh Samosa from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -105,7 +105,7 @@ const driveData = [
         "name": "Samosa",
         "category": "snacks",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1LpEdUGorK-rGqOjbdF8hRpyrEoZv0bet",
+        "image": "https://drive.google.com/thumbnail?id=1LpEdUGorK-rGqOjbdF8hRpyrEoZv0bet&sz=w1000",
         "description": "Fresh Samosa from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -115,7 +115,7 @@ const driveData = [
         "name": "Spring Roll",
         "category": "snacks",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1mec0OFYsoLi-mW2xHVU_RKPE6oRRCt46",
+        "image": "https://drive.google.com/thumbnail?id=1mec0OFYsoLi-mW2xHVU_RKPE6oRRCt46&sz=w1000",
         "description": "Fresh Spring Roll from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -125,7 +125,7 @@ const driveData = [
         "name": "Spring Roll",
         "category": "snacks",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1H272Mqi5La0MCRXbrUupwaR8PXNvJHRo",
+        "image": "https://drive.google.com/thumbnail?id=1H272Mqi5La0MCRXbrUupwaR8PXNvJHRo&sz=w1000",
         "description": "Fresh Spring Roll from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -135,7 +135,7 @@ const driveData = [
         "name": "Tikki",
         "category": "snacks",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=17mVtAyB9-1TJlJIHOLLe_3Rg9XpoMl80",
+        "image": "https://drive.google.com/thumbnail?id=17mVtAyB9-1TJlJIHOLLe_3Rg9XpoMl80&sz=w1000",
         "description": "Fresh Tikki from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -145,7 +145,7 @@ const driveData = [
         "name": "Tikki",
         "category": "snacks",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1J4ie1CsV69vw2xE2xEjn-ko6P5VhCr-v",
+        "image": "https://drive.google.com/thumbnail?id=1J4ie1CsV69vw2xE2xEjn-ko6P5VhCr-v&sz=w1000",
         "description": "Fresh Tikki from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -155,7 +155,7 @@ const driveData = [
         "name": "Veg Pakora",
         "category": "snacks",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1mcRpZbcOxQVqWndpKT1In6Vy2WN1AY8w",
+        "image": "https://drive.google.com/thumbnail?id=1mcRpZbcOxQVqWndpKT1In6Vy2WN1AY8w&sz=w1000",
         "description": "Fresh Veg Pakora from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -165,7 +165,7 @@ const driveData = [
         "name": "Veg Pakora",
         "category": "snacks",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=19VtlMdzsv-6ARaUM9hf7PrlfwWOBiZfO",
+        "image": "https://drive.google.com/thumbnail?id=19VtlMdzsv-6ARaUM9hf7PrlfwWOBiZfO&sz=w1000",
         "description": "Fresh Veg Pakora from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -175,7 +175,7 @@ const driveData = [
         "name": "Jungle Theme 1",
         "category": "2_tier",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1SOhEKr8k5tlJARtmWXycM1_udvMWTtH1",
+        "image": "https://drive.google.com/thumbnail?id=1SOhEKr8k5tlJARtmWXycM1_udvMWTtH1&sz=w1000",
         "description": "Fresh Jungle Theme 1 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -185,7 +185,7 @@ const driveData = [
         "name": "Jungle Theme",
         "category": "2_tier",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1aXVZ1iS_c8BtYIrmpu1FynsLhe9BXJwc",
+        "image": "https://drive.google.com/thumbnail?id=1aXVZ1iS_c8BtYIrmpu1FynsLhe9BXJwc&sz=w1000",
         "description": "Fresh Jungle Theme from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -195,7 +195,7 @@ const driveData = [
         "name": "3 Tier red rose",
         "category": "3_tier",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=19qxYxQE09JhiJJDQbqjw3udvAP_e9tYy",
+        "image": "https://drive.google.com/thumbnail?id=19qxYxQE09JhiJJDQbqjw3udvAP_e9tYy&sz=w1000",
         "description": "Fresh 3 Tier red rose from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -205,7 +205,7 @@ const driveData = [
         "name": "Baby Boss",
         "category": "3_tier",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=15tIqEeEhd0ORljFhb2RfpRQBqoz1oMdz",
+        "image": "https://drive.google.com/thumbnail?id=15tIqEeEhd0ORljFhb2RfpRQBqoz1oMdz&sz=w1000",
         "description": "Fresh Baby Boss from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -215,7 +215,7 @@ const driveData = [
         "name": "Mr&amp;Mrs",
         "category": "3_tier",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1pqSOKhaOeSyozsNWotUCoTOEs4aJWn3L",
+        "image": "https://drive.google.com/thumbnail?id=1pqSOKhaOeSyozsNWotUCoTOEs4aJWn3L&sz=w1000",
         "description": "Fresh Mr&amp;Mrs from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -225,7 +225,7 @@ const driveData = [
         "name": "Super Heros",
         "category": "3_tier",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1wH-htQGxXxH50SIOllOK5lEdTkr5po6q",
+        "image": "https://drive.google.com/thumbnail?id=1wH-htQGxXxH50SIOllOK5lEdTkr5po6q&sz=w1000",
         "description": "Fresh Super Heros from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -235,7 +235,7 @@ const driveData = [
         "name": "Cream gold",
         "category": "4_tier",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1E-jxkw9jhC9Z4MunzUBOPS6Y2WdUrLZW",
+        "image": "https://drive.google.com/thumbnail?id=1E-jxkw9jhC9Z4MunzUBOPS6Y2WdUrLZW&sz=w1000",
         "description": "Fresh Cream gold from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -245,7 +245,7 @@ const driveData = [
         "name": "Cream Ornamental",
         "category": "4_tier",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1jKyB5qz_bk4aHnorgtlUYUZhubCI5C5f",
+        "image": "https://drive.google.com/thumbnail?id=1jKyB5qz_bk4aHnorgtlUYUZhubCI5C5f&sz=w1000",
         "description": "Fresh Cream Ornamental from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -255,7 +255,7 @@ const driveData = [
         "name": "Green Gold",
         "category": "4_tier",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=12MxtCOgYkuN7FfHdmHkh-nhRopTqfZWb",
+        "image": "https://drive.google.com/thumbnail?id=12MxtCOgYkuN7FfHdmHkh-nhRopTqfZWb&sz=w1000",
         "description": "Fresh Green Gold from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -265,7 +265,7 @@ const driveData = [
         "name": "Cake",
         "category": "5_tier",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1sJUZ_HUAqXmD0-geyGs0li23kQ-EOsfN",
+        "image": "https://drive.google.com/thumbnail?id=1sJUZ_HUAqXmD0-geyGs0li23kQ-EOsfN&sz=w1000",
         "description": "Fresh Cake from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -275,7 +275,7 @@ const driveData = [
         "name": "AC5A9308",
         "category": "cake_slice",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=15r_O3Yux447lhJJS-0AQTo2U37wSAi8Q",
+        "image": "https://drive.google.com/thumbnail?id=15r_O3Yux447lhJJS-0AQTo2U37wSAi8Q&sz=w1000",
         "description": "Fresh AC5A9308 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -285,7 +285,7 @@ const driveData = [
         "name": "AC5A9314",
         "category": "cake_slice",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1V_8FmNakqGtEzXRxhlcwP5QQ1MjmOGlg",
+        "image": "https://drive.google.com/thumbnail?id=1V_8FmNakqGtEzXRxhlcwP5QQ1MjmOGlg&sz=w1000",
         "description": "Fresh AC5A9314 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -295,7 +295,7 @@ const driveData = [
         "name": "AC5A9317",
         "category": "cake_slice",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=13z634I5YobNsHK-Yo1dGVNpx-ff1I6XI",
+        "image": "https://drive.google.com/thumbnail?id=13z634I5YobNsHK-Yo1dGVNpx-ff1I6XI&sz=w1000",
         "description": "Fresh AC5A9317 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -305,7 +305,7 @@ const driveData = [
         "name": "3D AC5A9345 2",
         "category": "cream_rolls",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1oxFg0x3cA7F1r5IiDMvYQDw7mmvJI5Wp",
+        "image": "https://drive.google.com/thumbnail?id=1oxFg0x3cA7F1r5IiDMvYQDw7mmvJI5Wp&sz=w1000",
         "description": "Fresh 3D AC5A9345 2 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -315,7 +315,7 @@ const driveData = [
         "name": "3D AC5A9345 copy",
         "category": "cream_rolls",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1mzjUa6SUelph3y-gOjMV8xAjGEcXzFJZ",
+        "image": "https://drive.google.com/thumbnail?id=1mzjUa6SUelph3y-gOjMV8xAjGEcXzFJZ&sz=w1000",
         "description": "Fresh 3D AC5A9345 copy from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -325,7 +325,7 @@ const driveData = [
         "name": "3D AC5A9345",
         "category": "cream_rolls",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=114rtgBeLPMW19oK1E_8Lcm3Pp-L8QnGL",
+        "image": "https://drive.google.com/thumbnail?id=114rtgBeLPMW19oK1E_8Lcm3Pp-L8QnGL&sz=w1000",
         "description": "Fresh 3D AC5A9345 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -335,7 +335,7 @@ const driveData = [
         "name": "3D AC5A9346",
         "category": "cream_rolls",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ZL2RICA5P2fDs9fOk7kIM4KcSE7cDlCg",
+        "image": "https://drive.google.com/thumbnail?id=1ZL2RICA5P2fDs9fOk7kIM4KcSE7cDlCg&sz=w1000",
         "description": "Fresh 3D AC5A9346 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -345,7 +345,7 @@ const driveData = [
         "name": "3D AC5A9347",
         "category": "cream_rolls",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=16MnND-iW52UiEtP9p_-lj278LKYJMkPG",
+        "image": "https://drive.google.com/thumbnail?id=16MnND-iW52UiEtP9p_-lj278LKYJMkPG&sz=w1000",
         "description": "Fresh 3D AC5A9347 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -355,7 +355,7 @@ const driveData = [
         "name": "3D AC5A9348",
         "category": "cream_rolls",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1KNWHkFw9fKeYJzE8ImHRk4iNgdaH4jy5",
+        "image": "https://drive.google.com/thumbnail?id=1KNWHkFw9fKeYJzE8ImHRk4iNgdaH4jy5&sz=w1000",
         "description": "Fresh 3D AC5A9348 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -365,7 +365,7 @@ const driveData = [
         "name": "3D AC5A9349",
         "category": "cream_rolls",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1LPwtXuI3BS8CWgXogeVZRFDj4Y5CGTg4",
+        "image": "https://drive.google.com/thumbnail?id=1LPwtXuI3BS8CWgXogeVZRFDj4Y5CGTg4&sz=w1000",
         "description": "Fresh 3D AC5A9349 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -375,7 +375,7 @@ const driveData = [
         "name": "IMG_0187",
         "category": "cream_rolls",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=18ZkRPSwfHu40Tmfvu-j_o8LnXiJF7rhm",
+        "image": "https://drive.google.com/thumbnail?id=18ZkRPSwfHu40Tmfvu-j_o8LnXiJF7rhm&sz=w1000",
         "description": "Fresh IMG_0187 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -385,7 +385,7 @@ const driveData = [
         "name": "IMG_0188",
         "category": "cream_rolls",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Jy6l4ZKKkWqfIhoLoAY_uf8oIUTQDitY",
+        "image": "https://drive.google.com/thumbnail?id=1Jy6l4ZKKkWqfIhoLoAY_uf8oIUTQDitY&sz=w1000",
         "description": "Fresh IMG_0188 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -395,7 +395,7 @@ const driveData = [
         "name": "IMG_0189",
         "category": "cream_rolls",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1oHol8qt248WbF7yut_MOPU2NMYO5-136",
+        "image": "https://drive.google.com/thumbnail?id=1oHol8qt248WbF7yut_MOPU2NMYO5-136&sz=w1000",
         "description": "Fresh IMG_0189 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -405,7 +405,7 @@ const driveData = [
         "name": "IMG_0190",
         "category": "cream_rolls",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=15B0JjKovJTfRD7tiD3_5ln3B43TfOsT8",
+        "image": "https://drive.google.com/thumbnail?id=15B0JjKovJTfRD7tiD3_5ln3B43TfOsT8&sz=w1000",
         "description": "Fresh IMG_0190 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -415,7 +415,7 @@ const driveData = [
         "name": "IMG_0191",
         "category": "cream_rolls",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1LfqPWTyeKqE1RtPoYdF0WeiePHMfTruX",
+        "image": "https://drive.google.com/thumbnail?id=1LfqPWTyeKqE1RtPoYdF0WeiePHMfTruX&sz=w1000",
         "description": "Fresh IMG_0191 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -425,7 +425,7 @@ const driveData = [
         "name": "IMG_0193",
         "category": "cream_rolls",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ZSvpFeT29KyN568xZS1vfwFQB7rdmrYX",
+        "image": "https://drive.google.com/thumbnail?id=1ZSvpFeT29KyN568xZS1vfwFQB7rdmrYX&sz=w1000",
         "description": "Fresh IMG_0193 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -435,7 +435,7 @@ const driveData = [
         "name": "3D AC5A9351",
         "category": "cup_cake_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1yG-VBzddWaHGKWu8yXIZXAX8-7rmikNN",
+        "image": "https://drive.google.com/thumbnail?id=1yG-VBzddWaHGKWu8yXIZXAX8-7rmikNN&sz=w1000",
         "description": "Fresh 3D AC5A9351 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -445,7 +445,7 @@ const driveData = [
         "name": "3D AC5A9352",
         "category": "cup_cake_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1uR_n--J3-FHsJDZF1Yxm88TIe1kyfQfI",
+        "image": "https://drive.google.com/thumbnail?id=1uR_n--J3-FHsJDZF1Yxm88TIe1kyfQfI&sz=w1000",
         "description": "Fresh 3D AC5A9352 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -455,7 +455,7 @@ const driveData = [
         "name": "3D AC5A9353",
         "category": "cup_cake_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=10CL3mLK2VJmmD7bpDpCmro4h7VwMowU-",
+        "image": "https://drive.google.com/thumbnail?id=10CL3mLK2VJmmD7bpDpCmro4h7VwMowU-&sz=w1000",
         "description": "Fresh 3D AC5A9353 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -465,7 +465,7 @@ const driveData = [
         "name": "3D AC5A9354",
         "category": "cup_cake_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=16qBkFoV5wbR5p54oLDW7LuMYdnfBtL_O",
+        "image": "https://drive.google.com/thumbnail?id=16qBkFoV5wbR5p54oLDW7LuMYdnfBtL_O&sz=w1000",
         "description": "Fresh 3D AC5A9354 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -475,7 +475,7 @@ const driveData = [
         "name": "3D AC5A9366",
         "category": "cup_cake_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1DBJUTa0ENhqIk3dTUOZrjqSWv45P7fe0",
+        "image": "https://drive.google.com/thumbnail?id=1DBJUTa0ENhqIk3dTUOZrjqSWv45P7fe0&sz=w1000",
         "description": "Fresh 3D AC5A9366 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -485,7 +485,7 @@ const driveData = [
         "name": "IMG_0192",
         "category": "cup_cake_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Zyq49-Upgqz9FWp8fnU9jYLT4WU0Ojwm",
+        "image": "https://drive.google.com/thumbnail?id=1Zyq49-Upgqz9FWp8fnU9jYLT4WU0Ojwm&sz=w1000",
         "description": "Fresh IMG_0192 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -495,7 +495,7 @@ const driveData = [
         "name": "IMG_0193",
         "category": "cup_cake_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1DY90_rPprTfQj57kLIHKYFeYCE0HD8VJ",
+        "image": "https://drive.google.com/thumbnail?id=1DY90_rPprTfQj57kLIHKYFeYCE0HD8VJ&sz=w1000",
         "description": "Fresh IMG_0193 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -505,7 +505,7 @@ const driveData = [
         "name": "IMG_0194",
         "category": "cup_cake_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1hosOw-kaFcmlUHPGbWJ0PqagF9R_uHUa",
+        "image": "https://drive.google.com/thumbnail?id=1hosOw-kaFcmlUHPGbWJ0PqagF9R_uHUa&sz=w1000",
         "description": "Fresh IMG_0194 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -515,7 +515,7 @@ const driveData = [
         "name": "IMG_0195",
         "category": "cup_cake_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1yUjS0c3IemovX-0r9qXuqjt0iil77wov",
+        "image": "https://drive.google.com/thumbnail?id=1yUjS0c3IemovX-0r9qXuqjt0iil77wov&sz=w1000",
         "description": "Fresh IMG_0195 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -525,7 +525,7 @@ const driveData = [
         "name": "AC5A9302",
         "category": "cup_cakes",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1B1CxGR-UpfgCnoEwvoJu2JhMAd3_sM7q",
+        "image": "https://drive.google.com/thumbnail?id=1B1CxGR-UpfgCnoEwvoJu2JhMAd3_sM7q&sz=w1000",
         "description": "Fresh AC5A9302 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -535,7 +535,7 @@ const driveData = [
         "name": "AC5A9303",
         "category": "cup_cakes",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1diZtpP8FVGCFgoERzRDUkciPQ-O2YNfn",
+        "image": "https://drive.google.com/thumbnail?id=1diZtpP8FVGCFgoERzRDUkciPQ-O2YNfn&sz=w1000",
         "description": "Fresh AC5A9303 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -545,7 +545,7 @@ const driveData = [
         "name": "AC5A9304",
         "category": "cup_cakes",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1AP9Kra0jkbi63dcp5oaZ2okuxbnlP0qY",
+        "image": "https://drive.google.com/thumbnail?id=1AP9Kra0jkbi63dcp5oaZ2okuxbnlP0qY&sz=w1000",
         "description": "Fresh AC5A9304 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -555,7 +555,7 @@ const driveData = [
         "name": "AC5A9305",
         "category": "cup_cakes",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1oF4bSqwQhyn-yaa6UeHkyy4SmwzDfxN2",
+        "image": "https://drive.google.com/thumbnail?id=1oF4bSqwQhyn-yaa6UeHkyy4SmwzDfxN2&sz=w1000",
         "description": "Fresh AC5A9305 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -565,7 +565,7 @@ const driveData = [
         "name": "Spiderman",
         "category": "kids",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1pFHK0V-DEKjeZh0phGofyLpo2pMjwK_N",
+        "image": "https://drive.google.com/thumbnail?id=1pFHK0V-DEKjeZh0phGofyLpo2pMjwK_N&sz=w1000",
         "description": "Fresh Spiderman from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -575,7 +575,7 @@ const driveData = [
         "name": "3D AC5A9373",
         "category": "pastries_in_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1zaDx5iwhnBXS-zjsph-FmysF70C7cj4Z",
+        "image": "https://drive.google.com/thumbnail?id=1zaDx5iwhnBXS-zjsph-FmysF70C7cj4Z&sz=w1000",
         "description": "Fresh 3D AC5A9373 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -585,7 +585,7 @@ const driveData = [
         "name": "3D Black Forest",
         "category": "pastries_in_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Q80gIbe2PvYtU14Lh0MmrO8jPK38N_Xt",
+        "image": "https://drive.google.com/thumbnail?id=1Q80gIbe2PvYtU14Lh0MmrO8jPK38N_Xt&sz=w1000",
         "description": "Fresh 3D Black Forest from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -595,7 +595,7 @@ const driveData = [
         "name": "3D Mango",
         "category": "pastries_in_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1tMmVfoEo9v3q2h8y_QiD46tEiBHxz75v",
+        "image": "https://drive.google.com/thumbnail?id=1tMmVfoEo9v3q2h8y_QiD46tEiBHxz75v&sz=w1000",
         "description": "Fresh 3D Mango from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -605,7 +605,7 @@ const driveData = [
         "name": "3D Marble",
         "category": "pastries_in_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1yIoCls4ACkqBFIioQ-gu2tdc4T2WdDEM",
+        "image": "https://drive.google.com/thumbnail?id=1yIoCls4ACkqBFIioQ-gu2tdc4T2WdDEM&sz=w1000",
         "description": "Fresh 3D Marble from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -615,7 +615,7 @@ const driveData = [
         "name": "3D Pineapple",
         "category": "pastries_in_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1eCoy-drRYXT6dZl_jeAFqwl_kCv4MM_0",
+        "image": "https://drive.google.com/thumbnail?id=1eCoy-drRYXT6dZl_jeAFqwl_kCv4MM_0&sz=w1000",
         "description": "Fresh 3D Pineapple from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -625,7 +625,7 @@ const driveData = [
         "name": "3D Vanilla",
         "category": "pastries_in_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1EhzSI_TKjW-sXAJnPY0sGuTZV3_EP3x8",
+        "image": "https://drive.google.com/thumbnail?id=1EhzSI_TKjW-sXAJnPY0sGuTZV3_EP3x8&sz=w1000",
         "description": "Fresh 3D Vanilla from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -635,7 +635,7 @@ const driveData = [
         "name": "AC5A9367",
         "category": "pastries_in_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1rQFV3NIIjb0lSYY586YStjfcyuHu9kw2",
+        "image": "https://drive.google.com/thumbnail?id=1rQFV3NIIjb0lSYY586YStjfcyuHu9kw2&sz=w1000",
         "description": "Fresh AC5A9367 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -645,7 +645,7 @@ const driveData = [
         "name": "Black forest",
         "category": "pastries_in_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1dS0YbmMJ8nMOfxMxGIPLjpxxAdPEO38V",
+        "image": "https://drive.google.com/thumbnail?id=1dS0YbmMJ8nMOfxMxGIPLjpxxAdPEO38V&sz=w1000",
         "description": "Fresh Black forest from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -655,7 +655,7 @@ const driveData = [
         "name": "Mango",
         "category": "pastries_in_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1kR5DRHv4FZNaqF0dVXc42jYhpBCF4BgR",
+        "image": "https://drive.google.com/thumbnail?id=1kR5DRHv4FZNaqF0dVXc42jYhpBCF4BgR&sz=w1000",
         "description": "Fresh Mango from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -665,7 +665,7 @@ const driveData = [
         "name": "Marble",
         "category": "pastries_in_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1o53Ww_tmVi8s-mp8NasfQU3J4t_pvkwX",
+        "image": "https://drive.google.com/thumbnail?id=1o53Ww_tmVi8s-mp8NasfQU3J4t_pvkwX&sz=w1000",
         "description": "Fresh Marble from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -675,7 +675,7 @@ const driveData = [
         "name": "Pineapple",
         "category": "pastries_in_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1wdsBP3zyvWnYnXwb4eVcqyLwMN6bZb79",
+        "image": "https://drive.google.com/thumbnail?id=1wdsBP3zyvWnYnXwb4eVcqyLwMN6bZb79&sz=w1000",
         "description": "Fresh Pineapple from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -685,7 +685,7 @@ const driveData = [
         "name": "Vanilla",
         "category": "pastries_in_clamshell",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Tt49313xXv_PoerFeVQWBSe9oCQx7_un",
+        "image": "https://drive.google.com/thumbnail?id=1Tt49313xXv_PoerFeVQWBSe9oCQx7_un&sz=w1000",
         "description": "Fresh Vanilla from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -695,7 +695,7 @@ const driveData = [
         "name": "AC5A9319",
         "category": "pudding_cups",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1AXFeuDAyow8WKfwKBhf7i1KEJKz-Z45N",
+        "image": "https://drive.google.com/thumbnail?id=1AXFeuDAyow8WKfwKBhf7i1KEJKz-Z45N&sz=w1000",
         "description": "Fresh AC5A9319 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -705,7 +705,7 @@ const driveData = [
         "name": "AC5A9320",
         "category": "pudding_cups",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1-dgsNQRIGXNxv5PPaYZGqYz6W1OLPdC5",
+        "image": "https://drive.google.com/thumbnail?id=1-dgsNQRIGXNxv5PPaYZGqYz6W1OLPdC5&sz=w1000",
         "description": "Fresh AC5A9320 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -715,7 +715,7 @@ const driveData = [
         "name": "AC5A9321",
         "category": "pudding_cups",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1v7Q-d8xyJ0bHhRyKhbR7yhRrYGRzYkTp",
+        "image": "https://drive.google.com/thumbnail?id=1v7Q-d8xyJ0bHhRyKhbR7yhRrYGRzYkTp&sz=w1000",
         "description": "Fresh AC5A9321 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -725,7 +725,7 @@ const driveData = [
         "name": "AC5A9323",
         "category": "pudding_cups",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1o5UKdjaFw08-29pVueoeSU09-8jKMGDq",
+        "image": "https://drive.google.com/thumbnail?id=1o5UKdjaFw08-29pVueoeSU09-8jKMGDq&sz=w1000",
         "description": "Fresh AC5A9323 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -735,7 +735,7 @@ const driveData = [
         "name": "AC5A9324",
         "category": "pudding_cups",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1xAgsHVJJMwgtwzWZRNZeEhgLNbr5MvG7",
+        "image": "https://drive.google.com/thumbnail?id=1xAgsHVJJMwgtwzWZRNZeEhgLNbr5MvG7&sz=w1000",
         "description": "Fresh AC5A9324 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -745,7 +745,7 @@ const driveData = [
         "name": "AC5A9325",
         "category": "pudding_cups",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1I0u3LerRKD7lskZqOeGyaLtszH6VkUHJ",
+        "image": "https://drive.google.com/thumbnail?id=1I0u3LerRKD7lskZqOeGyaLtszH6VkUHJ&sz=w1000",
         "description": "Fresh AC5A9325 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -755,7 +755,7 @@ const driveData = [
         "name": "AC5A9326",
         "category": "pudding_cups",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1U8KVXN-SAMTVA--MvmZhdf9fKx8Gd89l",
+        "image": "https://drive.google.com/thumbnail?id=1U8KVXN-SAMTVA--MvmZhdf9fKx8Gd89l&sz=w1000",
         "description": "Fresh AC5A9326 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -765,7 +765,7 @@ const driveData = [
         "name": "AC5A9327",
         "category": "pudding_cups",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ZB11h1uFlEo9TMAvyaMqZppKos9NPicG",
+        "image": "https://drive.google.com/thumbnail?id=1ZB11h1uFlEo9TMAvyaMqZppKos9NPicG&sz=w1000",
         "description": "Fresh AC5A9327 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -775,7 +775,7 @@ const driveData = [
         "name": "AC5A9328",
         "category": "pudding_cups",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1EJCKHL476MFvj0waYk40c1l0nCssZ0Av",
+        "image": "https://drive.google.com/thumbnail?id=1EJCKHL476MFvj0waYk40c1l0nCssZ0Av&sz=w1000",
         "description": "Fresh AC5A9328 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -785,7 +785,7 @@ const driveData = [
         "name": "AC5A9329",
         "category": "pudding_cups",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1rB5fZRrarU1pFxYVL0SvtUqVkjuvpZHP",
+        "image": "https://drive.google.com/thumbnail?id=1rB5fZRrarU1pFxYVL0SvtUqVkjuvpZHP&sz=w1000",
         "description": "Fresh AC5A9329 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -795,7 +795,7 @@ const driveData = [
         "name": "AC5A9341",
         "category": "pudding_cups",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1r-Qt8i0q1SVZHW7qNtAlZNn9jyUDOpAL",
+        "image": "https://drive.google.com/thumbnail?id=1r-Qt8i0q1SVZHW7qNtAlZNn9jyUDOpAL&sz=w1000",
         "description": "Fresh AC5A9341 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -805,7 +805,7 @@ const driveData = [
         "name": "AC5A9342",
         "category": "pudding_cups",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1YpwfUMcIcisYFxihCJwwo5M9Bq2X2rHm",
+        "image": "https://drive.google.com/thumbnail?id=1YpwfUMcIcisYFxihCJwwo5M9Bq2X2rHm&sz=w1000",
         "description": "Fresh AC5A9342 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -815,7 +815,7 @@ const driveData = [
         "name": "AC5A9343",
         "category": "pudding_cups",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1vLU0EjCtmG3OFiZSC1dBnitbV5CGcE96",
+        "image": "https://drive.google.com/thumbnail?id=1vLU0EjCtmG3OFiZSC1dBnitbV5CGcE96&sz=w1000",
         "description": "Fresh AC5A9343 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -825,7 +825,7 @@ const driveData = [
         "name": "AC5A9344",
         "category": "pudding_cups",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=13GZGSfO-8T9zwxmj_GWTrFg7BdDEpL0n",
+        "image": "https://drive.google.com/thumbnail?id=13GZGSfO-8T9zwxmj_GWTrFg7BdDEpL0n&sz=w1000",
         "description": "Fresh AC5A9344 from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -835,7 +835,7 @@ const driveData = [
         "name": "Emrald Green",
         "category": "regular_cakes",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1t9GNCj_7KiXUKz-HKA1Xn9Sihn2UjAdv",
+        "image": "https://drive.google.com/thumbnail?id=1t9GNCj_7KiXUKz-HKA1Xn9Sihn2UjAdv&sz=w1000",
         "description": "Fresh Emrald Green from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -845,7 +845,7 @@ const driveData = [
         "name": "Emrald Green",
         "category": "regular_cakes",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Ru20-CyyujWuJPNO5ycKWhimlWu2Eb-2",
+        "image": "https://drive.google.com/thumbnail?id=1Ru20-CyyujWuJPNO5ycKWhimlWu2Eb-2&sz=w1000",
         "description": "Fresh Emrald Green from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -855,7 +855,7 @@ const driveData = [
         "name": "Ribbon",
         "category": "regular_cakes",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ypefvxdDVMrp44Rc6Xb7y1w8Y92BbNgH",
+        "image": "https://drive.google.com/thumbnail?id=1ypefvxdDVMrp44Rc6Xb7y1w8Y92BbNgH&sz=w1000",
         "description": "Fresh Ribbon from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -865,7 +865,7 @@ const driveData = [
         "name": "Barbei",
         "category": "single_tier",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1MV7DhtwezyRFqH284nUELJxRvozJgd34",
+        "image": "https://drive.google.com/thumbnail?id=1MV7DhtwezyRFqH284nUELJxRvozJgd34&sz=w1000",
         "description": "Fresh Barbei from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -875,7 +875,7 @@ const driveData = [
         "name": "Cars",
         "category": "single_tier",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1VbkoQlggg16KreWf2m2QUdv0X7x277Ck",
+        "image": "https://drive.google.com/thumbnail?id=1VbkoQlggg16KreWf2m2QUdv0X7x277Ck&sz=w1000",
         "description": "Fresh Cars from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -885,7 +885,7 @@ const driveData = [
         "name": "Casino",
         "category": "single_tier",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1SESKLXYg09TkBzLSGNG0W4sK3n-z5XoC",
+        "image": "https://drive.google.com/thumbnail?id=1SESKLXYg09TkBzLSGNG0W4sK3n-z5XoC&sz=w1000",
         "description": "Fresh Casino from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -895,7 +895,7 @@ const driveData = [
         "name": "Retierment",
         "category": "single_tier",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1dRbfwkhKEq2qNfKJme9woDpHETDpP2Lm",
+        "image": "https://drive.google.com/thumbnail?id=1dRbfwkhKEq2qNfKJme9woDpHETDpP2Lm&sz=w1000",
         "description": "Fresh Retierment from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -905,7 +905,7 @@ const driveData = [
         "name": "Pani Puri full label",
         "category": "pani_puri",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1KlcoSNqke0sub_ReOneL4EqD_D6Tr60Y",
+        "image": "https://drive.google.com/thumbnail?id=1KlcoSNqke0sub_ReOneL4EqD_D6Tr60Y&sz=w1000",
         "description": "Fresh Pani Puri full label from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -915,7 +915,7 @@ const driveData = [
         "name": "Pani Puri Ingredients",
         "category": "pani_puri",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1hVLGto9qzWDDc0R2FaRMja_RuhAZ0oZ7",
+        "image": "https://drive.google.com/thumbnail?id=1hVLGto9qzWDDc0R2FaRMja_RuhAZ0oZ7&sz=w1000",
         "description": "Fresh Pani Puri Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -925,7 +925,7 @@ const driveData = [
         "name": "Pani Puri Nutrition Facts",
         "category": "pani_puri",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1pKgd5nURg1C4FB5oShjqpCbnQW3GeKb6",
+        "image": "https://drive.google.com/thumbnail?id=1pKgd5nURg1C4FB5oShjqpCbnQW3GeKb6&sz=w1000",
         "description": "Fresh Pani Puri Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -935,7 +935,7 @@ const driveData = [
         "name": "Pani Puri Top View",
         "category": "pani_puri",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1_Jgqf6uDJ3PjBnOAx2_hMNJ1QKepJGGy",
+        "image": "https://drive.google.com/thumbnail?id=1_Jgqf6uDJ3PjBnOAx2_hMNJ1QKepJGGy&sz=w1000",
         "description": "Fresh Pani Puri Top View from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -945,7 +945,7 @@ const driveData = [
         "name": "Group",
         "category": "rectangular_biscuits",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1BqfpUZadeX41qdxLc7zoOJL6MFM6xhuH",
+        "image": "https://drive.google.com/thumbnail?id=1BqfpUZadeX41qdxLc7zoOJL6MFM6xhuH&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -955,7 +955,7 @@ const driveData = [
         "name": "Single",
         "category": "rectangular_biscuits",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1MwNgzmtCNpovb0-vccmxtJBY3A1Wp6ye",
+        "image": "https://drive.google.com/thumbnail?id=1MwNgzmtCNpovb0-vccmxtJBY3A1Wp6ye&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -965,7 +965,7 @@ const driveData = [
         "name": "Group",
         "category": "round_biscuits",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1f-6zCNjrOGUUBHGThYS439sclqidYYJA",
+        "image": "https://drive.google.com/thumbnail?id=1f-6zCNjrOGUUBHGThYS439sclqidYYJA&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -975,7 +975,7 @@ const driveData = [
         "name": "Single",
         "category": "round_biscuits",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1yeV2ccjKHFi9iUF8Cn-8K5BhSwrFgwtV",
+        "image": "https://drive.google.com/thumbnail?id=1yeV2ccjKHFi9iUF8Cn-8K5BhSwrFgwtV&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -985,7 +985,7 @@ const driveData = [
         "name": "Square",
         "category": "black_forest",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=17NzzJ5lLuWKvBNtZ5MYj2kdayi8FyIeI",
+        "image": "https://drive.google.com/thumbnail?id=17NzzJ5lLuWKvBNtZ5MYj2kdayi8FyIeI&sz=w1000",
         "description": "Fresh Square from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -995,7 +995,7 @@ const driveData = [
         "name": "Round",
         "category": "chocolate",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ueM3JmN60AjYpctisRrdeXYXCcJpvHAF",
+        "image": "https://drive.google.com/thumbnail?id=1ueM3JmN60AjYpctisRrdeXYXCcJpvHAF&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1005,7 +1005,7 @@ const driveData = [
         "name": "Round",
         "category": "chocolate",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1EoLjv7ZGeMQtcv7bp8QOZ7oFmTQFiioR",
+        "image": "https://drive.google.com/thumbnail?id=1EoLjv7ZGeMQtcv7bp8QOZ7oFmTQFiioR&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1015,7 +1015,7 @@ const driveData = [
         "name": "Round",
         "category": "coconut",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1SVC3VF4kOBsMt21S6luqeL8QOpN55r6O",
+        "image": "https://drive.google.com/thumbnail?id=1SVC3VF4kOBsMt21S6luqeL8QOpN55r6O&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1025,7 +1025,7 @@ const driveData = [
         "name": "Round",
         "category": "coconut",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=17rQ9C1qimBXeJqcVIzWuq0IB306NcZxj",
+        "image": "https://drive.google.com/thumbnail?id=17rQ9C1qimBXeJqcVIzWuq0IB306NcZxj&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1035,7 +1035,7 @@ const driveData = [
         "name": "Round",
         "category": "fruit_nuts_&amp;_jaggery",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1fBK0y8ovZUdecz1yAUAU7BeHvH3kYmn6",
+        "image": "https://drive.google.com/thumbnail?id=1fBK0y8ovZUdecz1yAUAU7BeHvH3kYmn6&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1045,7 +1045,7 @@ const driveData = [
         "name": "Round",
         "category": "fruit_nuts_&amp;_jaggery",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1iKM4WndLH1pqpl4HvAQlrgWtmb1Vipb_",
+        "image": "https://drive.google.com/thumbnail?id=1iKM4WndLH1pqpl4HvAQlrgWtmb1Vipb_&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1055,7 +1055,7 @@ const driveData = [
         "name": "Round",
         "category": "gulab_jamun",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1pGb6qViLw5MpIXGO8kSAG2t8tDUpDOLq",
+        "image": "https://drive.google.com/thumbnail?id=1pGb6qViLw5MpIXGO8kSAG2t8tDUpDOLq&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1065,7 +1065,7 @@ const driveData = [
         "name": "Round",
         "category": "gulab_jamun",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Zfapp_TSK_ARRUO7o0Egj4Pv_CRoMqqS",
+        "image": "https://drive.google.com/thumbnail?id=1Zfapp_TSK_ARRUO7o0Egj4Pv_CRoMqqS&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1075,7 +1075,7 @@ const driveData = [
         "name": "Round Front large",
         "category": "lotus_biscoff",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1fxZGnFzrX2j50GvUu46d7TVOE0tBF2EX",
+        "image": "https://drive.google.com/thumbnail?id=1fxZGnFzrX2j50GvUu46d7TVOE0tBF2EX&sz=w1000",
         "description": "Fresh Round Front large from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1085,7 +1085,7 @@ const driveData = [
         "name": "Round",
         "category": "lotus_biscoff",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1xHS0pt27FnJIZzY9zPp7PCC_GQkzaoQw",
+        "image": "https://drive.google.com/thumbnail?id=1xHS0pt27FnJIZzY9zPp7PCC_GQkzaoQw&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1095,7 +1095,7 @@ const driveData = [
         "name": "Round Top large",
         "category": "lotus_biscoff",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1rvO5nkxIFeHoMw7nXnkod4VguiLJXmzo",
+        "image": "https://drive.google.com/thumbnail?id=1rvO5nkxIFeHoMw7nXnkod4VguiLJXmzo&sz=w1000",
         "description": "Fresh Round Top large from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1105,7 +1105,7 @@ const driveData = [
         "name": "Round",
         "category": "lotus_biscoff",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1GfAe3LjcPCWVCX1QXGv2GcFmZeiPFKIs",
+        "image": "https://drive.google.com/thumbnail?id=1GfAe3LjcPCWVCX1QXGv2GcFmZeiPFKIs&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1115,7 +1115,7 @@ const driveData = [
         "name": "Square 3D",
         "category": "lotus_biscoff",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1rVQlGDhHW9cz4F0bERUw_n1AZZrojxij",
+        "image": "https://drive.google.com/thumbnail?id=1rVQlGDhHW9cz4F0bERUw_n1AZZrojxij&sz=w1000",
         "description": "Fresh Square 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1125,7 +1125,7 @@ const driveData = [
         "name": "Square",
         "category": "lotus_biscoff",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=17qA26_aK8KHZZg5BWl0TpaCjIDvu1W1B",
+        "image": "https://drive.google.com/thumbnail?id=17qA26_aK8KHZZg5BWl0TpaCjIDvu1W1B&sz=w1000",
         "description": "Fresh Square from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1135,7 +1135,7 @@ const driveData = [
         "name": "Round",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1d1S0XO0piFilHxqnG68WDS7YzT_oIrtJ",
+        "image": "https://drive.google.com/thumbnail?id=1d1S0XO0piFilHxqnG68WDS7YzT_oIrtJ&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1145,7 +1145,7 @@ const driveData = [
         "name": "Round",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ksw_GFBfLnEYYYUhTPjnbQJxRt0GUp47",
+        "image": "https://drive.google.com/thumbnail?id=1ksw_GFBfLnEYYYUhTPjnbQJxRt0GUp47&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1155,7 +1155,7 @@ const driveData = [
         "name": "Square 3D",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1w3OieRXIZjxmZN1sBpXdjqeywxWttyKv",
+        "image": "https://drive.google.com/thumbnail?id=1w3OieRXIZjxmZN1sBpXdjqeywxWttyKv&sz=w1000",
         "description": "Fresh Square 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1165,7 +1165,7 @@ const driveData = [
         "name": "Square",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1j_bX_aBJyqkNOO-Ppd7dnd-drOLabE5N",
+        "image": "https://drive.google.com/thumbnail?id=1j_bX_aBJyqkNOO-Ppd7dnd-drOLabE5N&sz=w1000",
         "description": "Fresh Square from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1175,7 +1175,7 @@ const driveData = [
         "name": "Round",
         "category": "marble",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1PXuuXNaiVWt4J6x7LWlS83dm98j3PAFE",
+        "image": "https://drive.google.com/thumbnail?id=1PXuuXNaiVWt4J6x7LWlS83dm98j3PAFE&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1185,7 +1185,7 @@ const driveData = [
         "name": "Round",
         "category": "marble",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1iC0qAYbBCsEvEHgnLhiKiVyhXr0k7L2p",
+        "image": "https://drive.google.com/thumbnail?id=1iC0qAYbBCsEvEHgnLhiKiVyhXr0k7L2p&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1195,7 +1195,7 @@ const driveData = [
         "name": "Square 3D",
         "category": "marble",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1KpU5kOuU-2jrBwgjXQPdnXvtPx1Qfnvy",
+        "image": "https://drive.google.com/thumbnail?id=1KpU5kOuU-2jrBwgjXQPdnXvtPx1Qfnvy&sz=w1000",
         "description": "Fresh Square 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1205,7 +1205,7 @@ const driveData = [
         "name": "Square",
         "category": "marble",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1dABRSCi_MQl4YBdUzXF3r7sQBDFuAWmA",
+        "image": "https://drive.google.com/thumbnail?id=1dABRSCi_MQl4YBdUzXF3r7sQBDFuAWmA&sz=w1000",
         "description": "Fresh Square from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1215,7 +1215,7 @@ const driveData = [
         "name": "Round",
         "category": "oreo",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1xUBXuINVZ1AYigZ2zeZR4poGiAp7dO5T",
+        "image": "https://drive.google.com/thumbnail?id=1xUBXuINVZ1AYigZ2zeZR4poGiAp7dO5T&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1225,7 +1225,7 @@ const driveData = [
         "name": "Round",
         "category": "oreo",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1I_I4VYmTyDGy3H4hgG1Dq9596rbkm7Mv",
+        "image": "https://drive.google.com/thumbnail?id=1I_I4VYmTyDGy3H4hgG1Dq9596rbkm7Mv&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1235,7 +1235,7 @@ const driveData = [
         "name": "Square 3D",
         "category": "oreo",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1JTAAuRXJYfznzdhP2qLlXQoDLCBD67B3",
+        "image": "https://drive.google.com/thumbnail?id=1JTAAuRXJYfznzdhP2qLlXQoDLCBD67B3&sz=w1000",
         "description": "Fresh Square 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1245,7 +1245,7 @@ const driveData = [
         "name": "Square",
         "category": "oreo",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1zQ20HsBNIt3PPkXE7mIi-ETwn2DwMGge",
+        "image": "https://drive.google.com/thumbnail?id=1zQ20HsBNIt3PPkXE7mIi-ETwn2DwMGge&sz=w1000",
         "description": "Fresh Square from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1255,7 +1255,7 @@ const driveData = [
         "name": "Round",
         "category": "pineapple",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1xyfyC16RQ3B0M1mMciQSTt0GYxr1T1IK",
+        "image": "https://drive.google.com/thumbnail?id=1xyfyC16RQ3B0M1mMciQSTt0GYxr1T1IK&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1265,7 +1265,7 @@ const driveData = [
         "name": "Round",
         "category": "pineapple",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1r-9EctS6j-l50OtEnh4ZrUVGNxDFpEh9",
+        "image": "https://drive.google.com/thumbnail?id=1r-9EctS6j-l50OtEnh4ZrUVGNxDFpEh9&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1275,7 +1275,7 @@ const driveData = [
         "name": "Round",
         "category": "pistachio",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1bRZ4BoLZ6M5SdmGMhesQ3S4_bGJrBdKB",
+        "image": "https://drive.google.com/thumbnail?id=1bRZ4BoLZ6M5SdmGMhesQ3S4_bGJrBdKB&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1285,7 +1285,7 @@ const driveData = [
         "name": "Round",
         "category": "pistachio",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1AGn7qkWB-p_PnRs9lIUG4txBduJVUsoE",
+        "image": "https://drive.google.com/thumbnail?id=1AGn7qkWB-p_PnRs9lIUG4txBduJVUsoE&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1295,7 +1295,7 @@ const driveData = [
         "name": "Round",
         "category": "ras_malai",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1xiIx-3mXoidEyF1tD7zbaIzcBEgBA99t",
+        "image": "https://drive.google.com/thumbnail?id=1xiIx-3mXoidEyF1tD7zbaIzcBEgBA99t&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1305,7 +1305,7 @@ const driveData = [
         "name": "Round",
         "category": "ras_malai",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1f64kbQheXS5rkaBEoZvxPzSZMRBYxENT",
+        "image": "https://drive.google.com/thumbnail?id=1f64kbQheXS5rkaBEoZvxPzSZMRBYxENT&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1315,7 +1315,7 @@ const driveData = [
         "name": "Round",
         "category": "red_velvet",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ruKv4x4tNj7NuL_c3ywtuw8Z1M1tm10H",
+        "image": "https://drive.google.com/thumbnail?id=1ruKv4x4tNj7NuL_c3ywtuw8Z1M1tm10H&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1325,7 +1325,7 @@ const driveData = [
         "name": "Round",
         "category": "red_velvet",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1h_TFPLLV0d091xv12Ud1GVztGuzGmmVe",
+        "image": "https://drive.google.com/thumbnail?id=1h_TFPLLV0d091xv12Ud1GVztGuzGmmVe&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1335,7 +1335,7 @@ const driveData = [
         "name": "Square 3D",
         "category": "red_velvet",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ZITCqi0bOvHyFNMPV2m7nUbI6jIvv907",
+        "image": "https://drive.google.com/thumbnail?id=1ZITCqi0bOvHyFNMPV2m7nUbI6jIvv907&sz=w1000",
         "description": "Fresh Square 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1345,7 +1345,7 @@ const driveData = [
         "name": "Square",
         "category": "red_velvet",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1HuLwZqM6xqDp-4l1ipLwk2-YrTeHZ1KZ",
+        "image": "https://drive.google.com/thumbnail?id=1HuLwZqM6xqDp-4l1ipLwk2-YrTeHZ1KZ&sz=w1000",
         "description": "Fresh Square from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1355,7 +1355,7 @@ const driveData = [
         "name": "Round",
         "category": "strawberry",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1PYsRB1pOdceDib8aQZr-RaUe5uZTwCHh",
+        "image": "https://drive.google.com/thumbnail?id=1PYsRB1pOdceDib8aQZr-RaUe5uZTwCHh&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1365,7 +1365,7 @@ const driveData = [
         "name": "Round",
         "category": "strawberry",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1iVI2i8ynt7v7E_wap5iEWvGmhsDe82I2",
+        "image": "https://drive.google.com/thumbnail?id=1iVI2i8ynt7v7E_wap5iEWvGmhsDe82I2&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1375,7 +1375,7 @@ const driveData = [
         "name": "Round",
         "category": "strawberry_short_cake",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1kfGa8lfRqE27WjFqVUyP8VHndAyfRR3t",
+        "image": "https://drive.google.com/thumbnail?id=1kfGa8lfRqE27WjFqVUyP8VHndAyfRR3t&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1385,7 +1385,7 @@ const driveData = [
         "name": "Round",
         "category": "strawberry_short_cake",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1uYSz_ifBSKZruO0oBH7tsGkk1Lbwx2iJ",
+        "image": "https://drive.google.com/thumbnail?id=1uYSz_ifBSKZruO0oBH7tsGkk1Lbwx2iJ&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1395,7 +1395,7 @@ const driveData = [
         "name": "Round",
         "category": "vanilla",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1LtfEgoZASKm3eTxzNTTYdMOpQXlqrW2H",
+        "image": "https://drive.google.com/thumbnail?id=1LtfEgoZASKm3eTxzNTTYdMOpQXlqrW2H&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1405,7 +1405,7 @@ const driveData = [
         "name": "Round",
         "category": "vanilla",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1TO5ebDfr5GG5eLzto33OF5_roSHyCF4Z",
+        "image": "https://drive.google.com/thumbnail?id=1TO5ebDfr5GG5eLzto33OF5_roSHyCF4Z&sz=w1000",
         "description": "Fresh Round from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1415,7 +1415,7 @@ const driveData = [
         "name": "3D",
         "category": "ajwain",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1UFk2xModZdrCjSxmgbulruu0PJ3N0QUJ",
+        "image": "https://drive.google.com/thumbnail?id=1UFk2xModZdrCjSxmgbulruu0PJ3N0QUJ&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1425,7 +1425,7 @@ const driveData = [
         "name": "Front",
         "category": "ajwain",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1BNcv7XgV5nOdqrxmAHzvMTxDt6dNvovq",
+        "image": "https://drive.google.com/thumbnail?id=1BNcv7XgV5nOdqrxmAHzvMTxDt6dNvovq&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1435,7 +1435,7 @@ const driveData = [
         "name": "Group",
         "category": "ajwain",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1m327O1siJX_Kz6LSIWJFF5HsiIk6gTua",
+        "image": "https://drive.google.com/thumbnail?id=1m327O1siJX_Kz6LSIWJFF5HsiIk6gTua&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1445,7 +1445,7 @@ const driveData = [
         "name": "Ingridents",
         "category": "ajwain",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ozjp6yt9yLJ0QWboFlitNEgcDO-OHEnM",
+        "image": "https://drive.google.com/thumbnail?id=1ozjp6yt9yLJ0QWboFlitNEgcDO-OHEnM&sz=w1000",
         "description": "Fresh Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1455,7 +1455,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "ajwain",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1glmiX_hWJB6ySPQXQpqstkJB_vPOujxg",
+        "image": "https://drive.google.com/thumbnail?id=1glmiX_hWJB6ySPQXQpqstkJB_vPOujxg&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1465,7 +1465,7 @@ const driveData = [
         "name": "Single",
         "category": "ajwain",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=13pTaqsL-NwdYz-LJppqd9BdQ0zwUss2o",
+        "image": "https://drive.google.com/thumbnail?id=13pTaqsL-NwdYz-LJppqd9BdQ0zwUss2o&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1475,7 +1475,7 @@ const driveData = [
         "name": "Top",
         "category": "ajwain",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=14XNeKierqdi5v9S89j0hLLPT4dUFx1Wg",
+        "image": "https://drive.google.com/thumbnail?id=14XNeKierqdi5v9S89j0hLLPT4dUFx1Wg&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1485,7 +1485,7 @@ const driveData = [
         "name": "3D",
         "category": "almond",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1-0tcGDY5gJnuxdaUOwjq6nulfy2cNcER",
+        "image": "https://drive.google.com/thumbnail?id=1-0tcGDY5gJnuxdaUOwjq6nulfy2cNcER&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1495,7 +1495,7 @@ const driveData = [
         "name": "Front",
         "category": "almond",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1epnlDxdCXOcIdcdwKya-fuJPm1ZbOcgA",
+        "image": "https://drive.google.com/thumbnail?id=1epnlDxdCXOcIdcdwKya-fuJPm1ZbOcgA&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1505,7 +1505,7 @@ const driveData = [
         "name": "Group",
         "category": "almond",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1CyiaeHpigc70SeehGzOfi6JUdYbq6MFU",
+        "image": "https://drive.google.com/thumbnail?id=1CyiaeHpigc70SeehGzOfi6JUdYbq6MFU&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1515,7 +1515,7 @@ const driveData = [
         "name": "Indredients",
         "category": "almond",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1NwVHl5BE2DIW4OV2rGLQl3UnHggA5RAg",
+        "image": "https://drive.google.com/thumbnail?id=1NwVHl5BE2DIW4OV2rGLQl3UnHggA5RAg&sz=w1000",
         "description": "Fresh Indredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1525,7 +1525,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "almond",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1JHeWouMBGbC4M83rW3a7LmrQUnNSGhBr",
+        "image": "https://drive.google.com/thumbnail?id=1JHeWouMBGbC4M83rW3a7LmrQUnNSGhBr&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1535,7 +1535,7 @@ const driveData = [
         "name": "Single",
         "category": "almond",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Nr-i_KhK-i94SPAdy_LT2lhDx_Jfc5xv",
+        "image": "https://drive.google.com/thumbnail?id=1Nr-i_KhK-i94SPAdy_LT2lhDx_Jfc5xv&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1545,7 +1545,7 @@ const driveData = [
         "name": "Top",
         "category": "almond",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1y5cKjwn7jRYRMPG3LYFx4HUWLonendhm",
+        "image": "https://drive.google.com/thumbnail?id=1y5cKjwn7jRYRMPG3LYFx4HUWLonendhm&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1555,7 +1555,7 @@ const driveData = [
         "name": "3D",
         "category": "coconut",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1TksRly7EW7lKE1-Nw2f2CPR1s75m_cYv",
+        "image": "https://drive.google.com/thumbnail?id=1TksRly7EW7lKE1-Nw2f2CPR1s75m_cYv&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1565,7 +1565,7 @@ const driveData = [
         "name": "Front",
         "category": "coconut",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1JARgmdsnrkthXrX9ogHHuhNQGw24q9bK",
+        "image": "https://drive.google.com/thumbnail?id=1JARgmdsnrkthXrX9ogHHuhNQGw24q9bK&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1575,7 +1575,7 @@ const driveData = [
         "name": "Group",
         "category": "coconut",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ElFdPqNdbbWXG23ZFj1btUISmGrn8Rqs",
+        "image": "https://drive.google.com/thumbnail?id=1ElFdPqNdbbWXG23ZFj1btUISmGrn8Rqs&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1585,7 +1585,7 @@ const driveData = [
         "name": "Ingridents",
         "category": "coconut",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1MAmZofRVbu0jr6FHdcHhTLTYqrs7Wo8a",
+        "image": "https://drive.google.com/thumbnail?id=1MAmZofRVbu0jr6FHdcHhTLTYqrs7Wo8a&sz=w1000",
         "description": "Fresh Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1595,7 +1595,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "coconut",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1bisp141iTJzq_aO6gCyle1wi_xvJXe4Q",
+        "image": "https://drive.google.com/thumbnail?id=1bisp141iTJzq_aO6gCyle1wi_xvJXe4Q&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1605,7 +1605,7 @@ const driveData = [
         "name": "Single",
         "category": "coconut",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1oX2B_lSF2uWytSkeNeIlHBN9EsW9H84l",
+        "image": "https://drive.google.com/thumbnail?id=1oX2B_lSF2uWytSkeNeIlHBN9EsW9H84l&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1615,7 +1615,7 @@ const driveData = [
         "name": "Top",
         "category": "coconut",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1p32p-OwFbI-P51crrlLXJ8j2EQMgujNn",
+        "image": "https://drive.google.com/thumbnail?id=1p32p-OwFbI-P51crrlLXJ8j2EQMgujNn&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1625,7 +1625,7 @@ const driveData = [
         "name": "Front",
         "category": "flax_seed_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1gnqTd2Ft3fO3PABE08k-EB6asXJUDiWu",
+        "image": "https://drive.google.com/thumbnail?id=1gnqTd2Ft3fO3PABE08k-EB6asXJUDiWu&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1635,7 +1635,7 @@ const driveData = [
         "name": "Ingridents",
         "category": "flax_seed_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1iJH3C3uoSzcZg_q_5LXWftRK3zu17JGO",
+        "image": "https://drive.google.com/thumbnail?id=1iJH3C3uoSzcZg_q_5LXWftRK3zu17JGO&sz=w1000",
         "description": "Fresh Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1645,7 +1645,7 @@ const driveData = [
         "name": "Multiple pcs",
         "category": "flax_seed_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1AvXEv79ndwABH81fshOgQELPVAUBwQk_",
+        "image": "https://drive.google.com/thumbnail?id=1AvXEv79ndwABH81fshOgQELPVAUBwQk_&sz=w1000",
         "description": "Fresh Multiple pcs from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1655,7 +1655,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "flax_seed_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1UfpqWliVdZhy4GoVLEdlc0gYK32dqKzu",
+        "image": "https://drive.google.com/thumbnail?id=1UfpqWliVdZhy4GoVLEdlc0gYK32dqKzu&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1665,7 +1665,7 @@ const driveData = [
         "name": "Single pc",
         "category": "flax_seed_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1q4fSJNw5MIZ1r47gUhKCrJIozCPBae-S",
+        "image": "https://drive.google.com/thumbnail?id=1q4fSJNw5MIZ1r47gUhKCrJIozCPBae-S&sz=w1000",
         "description": "Fresh Single pc from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1675,7 +1675,7 @@ const driveData = [
         "name": "Top",
         "category": "flax_seed_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1wE8pq0b9mwBG7wObax4iqt4PY861CnPp",
+        "image": "https://drive.google.com/thumbnail?id=1wE8pq0b9mwBG7wObax4iqt4PY861CnPp&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1685,7 +1685,7 @@ const driveData = [
         "name": "Front",
         "category": "ginger_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1RB9284iwn0YuQNhKdBPh-LFX_OR1oD-C",
+        "image": "https://drive.google.com/thumbnail?id=1RB9284iwn0YuQNhKdBPh-LFX_OR1oD-C&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1695,7 +1695,7 @@ const driveData = [
         "name": "Ingridents",
         "category": "ginger_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1kGIoL838JLvGxcwCqWEpPqgY6CGkOREr",
+        "image": "https://drive.google.com/thumbnail?id=1kGIoL838JLvGxcwCqWEpPqgY6CGkOREr&sz=w1000",
         "description": "Fresh Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1705,7 +1705,7 @@ const driveData = [
         "name": "Multiple pcs",
         "category": "ginger_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1U7muymN2isuGaE2poTFbCzFLAR1VCPeO",
+        "image": "https://drive.google.com/thumbnail?id=1U7muymN2isuGaE2poTFbCzFLAR1VCPeO&sz=w1000",
         "description": "Fresh Multiple pcs from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1715,7 +1715,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "ginger_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1UK26BBEJiPdeXsWMq9HFTPQtjMKvOQJ6",
+        "image": "https://drive.google.com/thumbnail?id=1UK26BBEJiPdeXsWMq9HFTPQtjMKvOQJ6&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1725,7 +1725,7 @@ const driveData = [
         "name": "Single pc",
         "category": "ginger_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=18woExUp7kV_GfG4M2ORHyL-oRkevTehV",
+        "image": "https://drive.google.com/thumbnail?id=18woExUp7kV_GfG4M2ORHyL-oRkevTehV&sz=w1000",
         "description": "Fresh Single pc from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1735,7 +1735,7 @@ const driveData = [
         "name": "Top",
         "category": "ginger_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=17w8m2NDZ5b7ZJIEFh7XtcG1-051y0R4o",
+        "image": "https://drive.google.com/thumbnail?id=17w8m2NDZ5b7ZJIEFh7XtcG1-051y0R4o&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1745,7 +1745,7 @@ const driveData = [
         "name": "3D",
         "category": "gur_cookies",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1tzRfVqyyQYHiye7K3hlJiGuJLO8179FL",
+        "image": "https://drive.google.com/thumbnail?id=1tzRfVqyyQYHiye7K3hlJiGuJLO8179FL&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1755,7 +1755,7 @@ const driveData = [
         "name": "Ingridents",
         "category": "gur_cookies",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1nj-rG50DGZKG-RrpfU6_ad3mOiEZEhh6",
+        "image": "https://drive.google.com/thumbnail?id=1nj-rG50DGZKG-RrpfU6_ad3mOiEZEhh6&sz=w1000",
         "description": "Fresh Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1765,7 +1765,7 @@ const driveData = [
         "name": "Multiple pcs",
         "category": "gur_cookies",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1bBmSaJ4TXMdGowW2eE71XlgkksPj8-4w",
+        "image": "https://drive.google.com/thumbnail?id=1bBmSaJ4TXMdGowW2eE71XlgkksPj8-4w&sz=w1000",
         "description": "Fresh Multiple pcs from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1775,7 +1775,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "gur_cookies",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1NahUfdxgTBtJSGDXTqS_Km-HAC9YEmVW",
+        "image": "https://drive.google.com/thumbnail?id=1NahUfdxgTBtJSGDXTqS_Km-HAC9YEmVW&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1785,7 +1785,7 @@ const driveData = [
         "name": "Single pc",
         "category": "gur_cookies",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Pk-aBgo8yPuZNxZYPZGqdK-JoiB2o3y-",
+        "image": "https://drive.google.com/thumbnail?id=1Pk-aBgo8yPuZNxZYPZGqdK-JoiB2o3y-&sz=w1000",
         "description": "Fresh Single pc from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1795,7 +1795,7 @@ const driveData = [
         "name": "Top",
         "category": "gur_cookies",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1cuFIUa2UYskDKPYSGbFRL0Cpr660cikh",
+        "image": "https://drive.google.com/thumbnail?id=1cuFIUa2UYskDKPYSGbFRL0Cpr660cikh&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1805,7 +1805,7 @@ const driveData = [
         "name": "Front",
         "category": "gur_saunf",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1vKPvANmq9KZWj_-GgfQQ1NJgCNOQOdZQ",
+        "image": "https://drive.google.com/thumbnail?id=1vKPvANmq9KZWj_-GgfQQ1NJgCNOQOdZQ&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1815,7 +1815,7 @@ const driveData = [
         "name": "Ingridents",
         "category": "gur_saunf",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1GzLO191rT42O1KydQwJ8ccyuf7vl4nxN",
+        "image": "https://drive.google.com/thumbnail?id=1GzLO191rT42O1KydQwJ8ccyuf7vl4nxN&sz=w1000",
         "description": "Fresh Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1825,7 +1825,7 @@ const driveData = [
         "name": "Multiple pcs",
         "category": "gur_saunf",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1IUUrak8jh6DxEnSZD4EXYuh2AiXemokr",
+        "image": "https://drive.google.com/thumbnail?id=1IUUrak8jh6DxEnSZD4EXYuh2AiXemokr&sz=w1000",
         "description": "Fresh Multiple pcs from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1835,7 +1835,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "gur_saunf",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1R3ijwve8HudX5w3kG10gMsXJTBXOaaWh",
+        "image": "https://drive.google.com/thumbnail?id=1R3ijwve8HudX5w3kG10gMsXJTBXOaaWh&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1845,7 +1845,7 @@ const driveData = [
         "name": "Single pc",
         "category": "gur_saunf",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1LmO0lk8_Ctya9TUgALq2qIEaifcBo8QS",
+        "image": "https://drive.google.com/thumbnail?id=1LmO0lk8_Ctya9TUgALq2qIEaifcBo8QS&sz=w1000",
         "description": "Fresh Single pc from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1855,7 +1855,7 @@ const driveData = [
         "name": "Top",
         "category": "gur_saunf",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1hu1Ddzf7if5iL1FnoDU893R1ZiwowEv0",
+        "image": "https://drive.google.com/thumbnail?id=1hu1Ddzf7if5iL1FnoDU893R1ZiwowEv0&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1865,7 +1865,7 @@ const driveData = [
         "name": "3D",
         "category": "kalounji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1vJNWLCkMelRNkk_focUPMeAdAmS8ft2A",
+        "image": "https://drive.google.com/thumbnail?id=1vJNWLCkMelRNkk_focUPMeAdAmS8ft2A&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1875,7 +1875,7 @@ const driveData = [
         "name": "Front",
         "category": "kalounji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1JEVeOzMpqQYHCukMXPF54u__Gb5r30Ns",
+        "image": "https://drive.google.com/thumbnail?id=1JEVeOzMpqQYHCukMXPF54u__Gb5r30Ns&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1885,7 +1885,7 @@ const driveData = [
         "name": "Group",
         "category": "kalounji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1cVkFyUa01Y1zMGSc2yot_RXcMzu6kRBT",
+        "image": "https://drive.google.com/thumbnail?id=1cVkFyUa01Y1zMGSc2yot_RXcMzu6kRBT&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1895,7 +1895,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "kalounji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Sd_WEPXru5jmZ9odeAZXFEtm9kkZkTJo",
+        "image": "https://drive.google.com/thumbnail?id=1Sd_WEPXru5jmZ9odeAZXFEtm9kkZkTJo&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1905,7 +1905,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "kalounji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Ce1i5xgm1qdftphy6qarzf4sulsCxjjY",
+        "image": "https://drive.google.com/thumbnail?id=1Ce1i5xgm1qdftphy6qarzf4sulsCxjjY&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1915,7 +1915,7 @@ const driveData = [
         "name": "Single",
         "category": "kalounji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1xa0sNmSpy5T4y59mfsjAlnCJGURsOPSU",
+        "image": "https://drive.google.com/thumbnail?id=1xa0sNmSpy5T4y59mfsjAlnCJGURsOPSU&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1925,7 +1925,7 @@ const driveData = [
         "name": "Top",
         "category": "kalounji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1yHQWO2r0BhuQTI0m1wJ4L7pguYtIAU4s",
+        "image": "https://drive.google.com/thumbnail?id=1yHQWO2r0BhuQTI0m1wJ4L7pguYtIAU4s&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1935,7 +1935,7 @@ const driveData = [
         "name": "3D",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1MXD-WcRx9rO8IAEj-OdW809egvpeFRxX",
+        "image": "https://drive.google.com/thumbnail?id=1MXD-WcRx9rO8IAEj-OdW809egvpeFRxX&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1945,7 +1945,7 @@ const driveData = [
         "name": "Front",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ieXoiUrZiOmLI_-BJY_cs-6AmwpCnfIf",
+        "image": "https://drive.google.com/thumbnail?id=1ieXoiUrZiOmLI_-BJY_cs-6AmwpCnfIf&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1955,7 +1955,7 @@ const driveData = [
         "name": "Group",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1rQb2KHKP1gLdoV1_NTGte24V_cJ94tqi",
+        "image": "https://drive.google.com/thumbnail?id=1rQb2KHKP1gLdoV1_NTGte24V_cJ94tqi&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1965,7 +1965,7 @@ const driveData = [
         "name": "Ingridents",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1HcsuZf6PSpIU6Q7NeCUawS7DMFUWYLk1",
+        "image": "https://drive.google.com/thumbnail?id=1HcsuZf6PSpIU6Q7NeCUawS7DMFUWYLk1&sz=w1000",
         "description": "Fresh Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1975,7 +1975,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1wO8cs9PqaWeRJhfjnk1mQnQKHREAEw6P",
+        "image": "https://drive.google.com/thumbnail?id=1wO8cs9PqaWeRJhfjnk1mQnQKHREAEw6P&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1985,7 +1985,7 @@ const driveData = [
         "name": "Single",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1slJwBe5KFUIy46iCBdwxMQJunl8aI-P7",
+        "image": "https://drive.google.com/thumbnail?id=1slJwBe5KFUIy46iCBdwxMQJunl8aI-P7&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -1995,7 +1995,7 @@ const driveData = [
         "name": "Top",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1tnM7iSvPL5tDo549nC-FIP2oM12udTO_",
+        "image": "https://drive.google.com/thumbnail?id=1tnM7iSvPL5tDo549nC-FIP2oM12udTO_&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2005,7 +2005,7 @@ const driveData = [
         "name": "3D",
         "category": "no_sugar_added",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Hoxu38pliKBAxA5LwI6tLnczoF-gpjux",
+        "image": "https://drive.google.com/thumbnail?id=1Hoxu38pliKBAxA5LwI6tLnczoF-gpjux&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2015,7 +2015,7 @@ const driveData = [
         "name": "Front",
         "category": "no_sugar_added",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1bneXBVDtv7pP_SqI78IlzJ6TwEEKij9t",
+        "image": "https://drive.google.com/thumbnail?id=1bneXBVDtv7pP_SqI78IlzJ6TwEEKij9t&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2025,7 +2025,7 @@ const driveData = [
         "name": "Group",
         "category": "no_sugar_added",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1IzHJU_8mwtIeMhSxrPeMDmYc16R7PgVS",
+        "image": "https://drive.google.com/thumbnail?id=1IzHJU_8mwtIeMhSxrPeMDmYc16R7PgVS&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2035,7 +2035,7 @@ const driveData = [
         "name": "Ingridents",
         "category": "no_sugar_added",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1xPStaVPFSsng5cbXm9H1upATSKIszA9Q",
+        "image": "https://drive.google.com/thumbnail?id=1xPStaVPFSsng5cbXm9H1upATSKIszA9Q&sz=w1000",
         "description": "Fresh Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2045,7 +2045,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "no_sugar_added",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1w41k1r5wDPzUmFZj_cAaufMG3V8dfS1T",
+        "image": "https://drive.google.com/thumbnail?id=1w41k1r5wDPzUmFZj_cAaufMG3V8dfS1T&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2055,7 +2055,7 @@ const driveData = [
         "name": "Single",
         "category": "no_sugar_added",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1LRlzA7c32gvgNWzxOlxXtISu5Ty0q-jF",
+        "image": "https://drive.google.com/thumbnail?id=1LRlzA7c32gvgNWzxOlxXtISu5Ty0q-jF&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2065,7 +2065,7 @@ const driveData = [
         "name": "top",
         "category": "no_sugar_added",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=18Qj-qz5GWRojWHqTcwgH0kMd7gXZcAZi",
+        "image": "https://drive.google.com/thumbnail?id=18Qj-qz5GWRojWHqTcwgH0kMd7gXZcAZi&sz=w1000",
         "description": "Fresh top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2075,7 +2075,7 @@ const driveData = [
         "name": "3D",
         "category": "sesame_&amp;_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1QOj3wUn3o-YB7_qvfbo3OaZd_dZ2O_z1",
+        "image": "https://drive.google.com/thumbnail?id=1QOj3wUn3o-YB7_qvfbo3OaZd_dZ2O_z1&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2085,7 +2085,7 @@ const driveData = [
         "name": "Front",
         "category": "sesame_&amp;_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1m-6Ym63Sg3DMpYfmb9fSQ4GlnrZDCo5y",
+        "image": "https://drive.google.com/thumbnail?id=1m-6Ym63Sg3DMpYfmb9fSQ4GlnrZDCo5y&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2095,7 +2095,7 @@ const driveData = [
         "name": "Ingridents",
         "category": "sesame_&amp;_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1yAColYx2i_iALFOUSl_mcuV7MvKAQNdW",
+        "image": "https://drive.google.com/thumbnail?id=1yAColYx2i_iALFOUSl_mcuV7MvKAQNdW&sz=w1000",
         "description": "Fresh Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2105,7 +2105,7 @@ const driveData = [
         "name": "Multiple pcs",
         "category": "sesame_&amp;_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1NVZz5srW302jvI9dNfbyZ8dvPQ1GDFwe",
+        "image": "https://drive.google.com/thumbnail?id=1NVZz5srW302jvI9dNfbyZ8dvPQ1GDFwe&sz=w1000",
         "description": "Fresh Multiple pcs from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2115,7 +2115,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "sesame_&amp;_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1aRFOgMikstpn3nv8f6P5d8RGy7zZLMR8",
+        "image": "https://drive.google.com/thumbnail?id=1aRFOgMikstpn3nv8f6P5d8RGy7zZLMR8&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2125,7 +2125,7 @@ const driveData = [
         "name": "Single pc",
         "category": "sesame_&amp;_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1kXryfXingVFMN_mdU7CQi05RKbb_gJmX",
+        "image": "https://drive.google.com/thumbnail?id=1kXryfXingVFMN_mdU7CQi05RKbb_gJmX&sz=w1000",
         "description": "Fresh Single pc from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2135,7 +2135,7 @@ const driveData = [
         "name": "Top",
         "category": "sesame_&amp;_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1dKpYhMVdWHZChoUKxo_hbFrR0ox7NVRB",
+        "image": "https://drive.google.com/thumbnail?id=1dKpYhMVdWHZChoUKxo_hbFrR0ox7NVRB&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2145,7 +2145,7 @@ const driveData = [
         "name": "3D",
         "category": "sooji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=12rlD3cuYIAqaIbP0PVatIkdLcWxDUNGC",
+        "image": "https://drive.google.com/thumbnail?id=12rlD3cuYIAqaIbP0PVatIkdLcWxDUNGC&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2155,7 +2155,7 @@ const driveData = [
         "name": "Front",
         "category": "sooji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=16Qqfe9-7v9EtFT4xbMRVyoqfnU0ml6GU",
+        "image": "https://drive.google.com/thumbnail?id=16Qqfe9-7v9EtFT4xbMRVyoqfnU0ml6GU&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2165,7 +2165,7 @@ const driveData = [
         "name": "Ingridents",
         "category": "sooji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1sRqHtDbHk-iYE5Eci8WqdIL_kK1Bwifd",
+        "image": "https://drive.google.com/thumbnail?id=1sRqHtDbHk-iYE5Eci8WqdIL_kK1Bwifd&sz=w1000",
         "description": "Fresh Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2175,7 +2175,7 @@ const driveData = [
         "name": "Multiple pcs",
         "category": "sooji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=11WIJVLeKiNCsqMddU17GAOYTE3val_gN",
+        "image": "https://drive.google.com/thumbnail?id=11WIJVLeKiNCsqMddU17GAOYTE3val_gN&sz=w1000",
         "description": "Fresh Multiple pcs from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2185,7 +2185,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "sooji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1mm5zYBFZ9uiKrU1ZsNf3X9PT3OyGbYHP",
+        "image": "https://drive.google.com/thumbnail?id=1mm5zYBFZ9uiKrU1ZsNf3X9PT3OyGbYHP&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2195,7 +2195,7 @@ const driveData = [
         "name": "Single pc",
         "category": "sooji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1M23mPVkYUWRVMuDuv4SiYI9VL4lz3pxp",
+        "image": "https://drive.google.com/thumbnail?id=1M23mPVkYUWRVMuDuv4SiYI9VL4lz3pxp&sz=w1000",
         "description": "Fresh Single pc from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2205,7 +2205,7 @@ const driveData = [
         "name": "Top",
         "category": "sooji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1SvwDWttVa1942dV61fCdzTXRH1FnZT3Q",
+        "image": "https://drive.google.com/thumbnail?id=1SvwDWttVa1942dV61fCdzTXRH1FnZT3Q&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2215,7 +2215,7 @@ const driveData = [
         "name": "3D",
         "category": "vegetarian_punjabi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1fwnYRsrGe9L7cU5eirDimuVsI5QWkDYY",
+        "image": "https://drive.google.com/thumbnail?id=1fwnYRsrGe9L7cU5eirDimuVsI5QWkDYY&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2225,7 +2225,7 @@ const driveData = [
         "name": "Front",
         "category": "vegetarian_punjabi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ECxLpYISrZeqSRsMHvb6qd9TP2p48gY8",
+        "image": "https://drive.google.com/thumbnail?id=1ECxLpYISrZeqSRsMHvb6qd9TP2p48gY8&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2235,7 +2235,7 @@ const driveData = [
         "name": "Ingridents",
         "category": "vegetarian_punjabi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=189i6sCd2WaMqP2gqNgNqWGNXnbmgyZ38",
+        "image": "https://drive.google.com/thumbnail?id=189i6sCd2WaMqP2gqNgNqWGNXnbmgyZ38&sz=w1000",
         "description": "Fresh Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2245,7 +2245,7 @@ const driveData = [
         "name": "Multiple pcs",
         "category": "vegetarian_punjabi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1v6UEfYa0aRpdZIIlELum125-DNg1gYj_",
+        "image": "https://drive.google.com/thumbnail?id=1v6UEfYa0aRpdZIIlELum125-DNg1gYj_&sz=w1000",
         "description": "Fresh Multiple pcs from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2255,7 +2255,7 @@ const driveData = [
         "name": "Nutrition Fact",
         "category": "vegetarian_punjabi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1lXifrRtOGHNsvHjsUbvm57x25W2HrZLM",
+        "image": "https://drive.google.com/thumbnail?id=1lXifrRtOGHNsvHjsUbvm57x25W2HrZLM&sz=w1000",
         "description": "Fresh Nutrition Fact from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2265,7 +2265,7 @@ const driveData = [
         "name": "Single pc",
         "category": "vegetarian_punjabi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1yE8_aeWWxg8natB2nxM3IDED0wfJ4lZ1",
+        "image": "https://drive.google.com/thumbnail?id=1yE8_aeWWxg8natB2nxM3IDED0wfJ4lZ1&sz=w1000",
         "description": "Fresh Single pc from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2275,7 +2275,7 @@ const driveData = [
         "name": "Top",
         "category": "vegetarian_punjabi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1yMzFOZ2MbNkhI3rFl--2X__FvVzFuAMA",
+        "image": "https://drive.google.com/thumbnail?id=1yMzFOZ2MbNkhI3rFl--2X__FvVzFuAMA&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2285,7 +2285,7 @@ const driveData = [
         "name": "Front",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ylCpwddn2NoDkdFv0VHZFK4HaRzWe1V7",
+        "image": "https://drive.google.com/thumbnail?id=1ylCpwddn2NoDkdFv0VHZFK4HaRzWe1V7&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2295,7 +2295,7 @@ const driveData = [
         "name": "Ingridents",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1JdXoWPzHuB01w8UoEswiLV0_7Yxjehb9",
+        "image": "https://drive.google.com/thumbnail?id=1JdXoWPzHuB01w8UoEswiLV0_7Yxjehb9&sz=w1000",
         "description": "Fresh Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2305,7 +2305,7 @@ const driveData = [
         "name": "Multiple pcs",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1qfqK_03pHU0LCczJCKirf1xMZrRl7r6H",
+        "image": "https://drive.google.com/thumbnail?id=1qfqK_03pHU0LCczJCKirf1xMZrRl7r6H&sz=w1000",
         "description": "Fresh Multiple pcs from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2315,7 +2315,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1eZVIQFrEfFrZL5vT-iv9-7DH5AszuCX0",
+        "image": "https://drive.google.com/thumbnail?id=1eZVIQFrEfFrZL5vT-iv9-7DH5AszuCX0&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2325,7 +2325,7 @@ const driveData = [
         "name": "Single pc",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1PO_W9FW4ZrdUVYuZlek-Ak98URIlbtP0",
+        "image": "https://drive.google.com/thumbnail?id=1PO_W9FW4ZrdUVYuZlek-Ak98URIlbtP0&sz=w1000",
         "description": "Fresh Single pc from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2335,7 +2335,7 @@ const driveData = [
         "name": "Top",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1CtGpuzfJutVOfA5qyQCoyxzrDMffgAl3",
+        "image": "https://drive.google.com/thumbnail?id=1CtGpuzfJutVOfA5qyQCoyxzrDMffgAl3&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2345,7 +2345,7 @@ const driveData = [
         "name": "3D",
         "category": "zeera",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1tm09E3rDtNWrFBr_n12s97bWLnoH-yKB",
+        "image": "https://drive.google.com/thumbnail?id=1tm09E3rDtNWrFBr_n12s97bWLnoH-yKB&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2355,7 +2355,7 @@ const driveData = [
         "name": "Group",
         "category": "zeera",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1i030k1jN1-7pJxK14dw2A4hVXi1DngRv",
+        "image": "https://drive.google.com/thumbnail?id=1i030k1jN1-7pJxK14dw2A4hVXi1DngRv&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2365,7 +2365,7 @@ const driveData = [
         "name": "Ingridents",
         "category": "zeera",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1WkCydmruwyeIbk-Z1fsyvm8rIkuioDSc",
+        "image": "https://drive.google.com/thumbnail?id=1WkCydmruwyeIbk-Z1fsyvm8rIkuioDSc&sz=w1000",
         "description": "Fresh Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2375,7 +2375,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "zeera",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1YOajl2wlquGrcB6dDCZRngS87zBtRCbY",
+        "image": "https://drive.google.com/thumbnail?id=1YOajl2wlquGrcB6dDCZRngS87zBtRCbY&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2385,7 +2385,7 @@ const driveData = [
         "name": "Single",
         "category": "zeera",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1YKAZsQ_i3EvxApSjmHFXnkAMqoEZBswL",
+        "image": "https://drive.google.com/thumbnail?id=1YKAZsQ_i3EvxApSjmHFXnkAMqoEZBswL&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2395,7 +2395,7 @@ const driveData = [
         "name": "Top",
         "category": "zeera",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1fLKYRgo-WcZzgBcuWmz_F9xkdGI_EhTr",
+        "image": "https://drive.google.com/thumbnail?id=1fLKYRgo-WcZzgBcuWmz_F9xkdGI_EhTr&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2405,7 +2405,7 @@ const driveData = [
         "name": "Group",
         "category": "ajwain",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1RYOk4SGC-twAVcD9OwU_Id3sHj0pCxbB",
+        "image": "https://drive.google.com/thumbnail?id=1RYOk4SGC-twAVcD9OwU_Id3sHj0pCxbB&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2415,7 +2415,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "ajwain",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Iso0QHfyefA1ix5Nk2_m24o3xtpQ5cs6",
+        "image": "https://drive.google.com/thumbnail?id=1Iso0QHfyefA1ix5Nk2_m24o3xtpQ5cs6&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2425,7 +2425,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "ajwain",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=15evA3ZVYcsDwea-mQIl5-ZeFb_ZYTJKR",
+        "image": "https://drive.google.com/thumbnail?id=15evA3ZVYcsDwea-mQIl5-ZeFb_ZYTJKR&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2435,7 +2435,7 @@ const driveData = [
         "name": "Single",
         "category": "ajwain",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1VOxZ8jKF1kWE9YB0boh8MkV800cJYptb",
+        "image": "https://drive.google.com/thumbnail?id=1VOxZ8jKF1kWE9YB0boh8MkV800cJYptb&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2445,7 +2445,7 @@ const driveData = [
         "name": "Top",
         "category": "ajwain",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1vOWJiVwBmhGWy-Ip9_0iKcCLo491dkgz",
+        "image": "https://drive.google.com/thumbnail?id=1vOWJiVwBmhGWy-Ip9_0iKcCLo491dkgz&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2455,7 +2455,7 @@ const driveData = [
         "name": "Group",
         "category": "almond",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1FLWf2xr4kk23M9f6GP-ejhFYTIeNuhgS",
+        "image": "https://drive.google.com/thumbnail?id=1FLWf2xr4kk23M9f6GP-ejhFYTIeNuhgS&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2465,7 +2465,7 @@ const driveData = [
         "name": "Ingridents",
         "category": "almond",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1yI7IHiiORwGjO3FHfSrTLiQjbuLpbtsH",
+        "image": "https://drive.google.com/thumbnail?id=1yI7IHiiORwGjO3FHfSrTLiQjbuLpbtsH&sz=w1000",
         "description": "Fresh Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2475,7 +2475,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "almond",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Pb0YeN3myvgmyS9x-trbeVaMY29XCvCR",
+        "image": "https://drive.google.com/thumbnail?id=1Pb0YeN3myvgmyS9x-trbeVaMY29XCvCR&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2485,7 +2485,7 @@ const driveData = [
         "name": "Single",
         "category": "almond",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1bSsRYRwc8oEk3o7RUkbIO_eeGEBtzxLz",
+        "image": "https://drive.google.com/thumbnail?id=1bSsRYRwc8oEk3o7RUkbIO_eeGEBtzxLz&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2495,7 +2495,7 @@ const driveData = [
         "name": "Top",
         "category": "almond",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1cN0R4cj9GC_98qjDFZWeNK3wvuAQBKQ0",
+        "image": "https://drive.google.com/thumbnail?id=1cN0R4cj9GC_98qjDFZWeNK3wvuAQBKQ0&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2505,7 +2505,7 @@ const driveData = [
         "name": "Group",
         "category": "cashew",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Rl-gyx2pTpl9fOW0HpIYszu9FJJEcPzX",
+        "image": "https://drive.google.com/thumbnail?id=1Rl-gyx2pTpl9fOW0HpIYszu9FJJEcPzX&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2515,7 +2515,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "cashew",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1_eZXM4beaZlXV8lPMRnDEcrK1qRT5F-8",
+        "image": "https://drive.google.com/thumbnail?id=1_eZXM4beaZlXV8lPMRnDEcrK1qRT5F-8&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2525,7 +2525,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "cashew",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1PJvdGDBO3icZlJLpEcn3gL4fcnj4goSC",
+        "image": "https://drive.google.com/thumbnail?id=1PJvdGDBO3icZlJLpEcn3gL4fcnj4goSC&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2535,7 +2535,7 @@ const driveData = [
         "name": "Single",
         "category": "cashew",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1m-CnZHo9pRH12EjavORyYT6x33rCHb27",
+        "image": "https://drive.google.com/thumbnail?id=1m-CnZHo9pRH12EjavORyYT6x33rCHb27&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2545,7 +2545,7 @@ const driveData = [
         "name": "Top",
         "category": "cashew",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1QhSETtdIG1g-GSIniKhDm8Ej-rB2mmGz",
+        "image": "https://drive.google.com/thumbnail?id=1QhSETtdIG1g-GSIniKhDm8Ej-rB2mmGz&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2555,7 +2555,7 @@ const driveData = [
         "name": "Group",
         "category": "coconut",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1EbNFxE9sxaVJZwL-Dwkt5fPtQViTFf2v",
+        "image": "https://drive.google.com/thumbnail?id=1EbNFxE9sxaVJZwL-Dwkt5fPtQViTFf2v&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2565,7 +2565,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "coconut",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1aFEDLuUegUBf43EtFbKFhWXYlv9RzX1k",
+        "image": "https://drive.google.com/thumbnail?id=1aFEDLuUegUBf43EtFbKFhWXYlv9RzX1k&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2575,7 +2575,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "coconut",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=129LjdfnlYXIFlAFFSE7ujNr5ItWUKUxz",
+        "image": "https://drive.google.com/thumbnail?id=129LjdfnlYXIFlAFFSE7ujNr5ItWUKUxz&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2585,7 +2585,7 @@ const driveData = [
         "name": "Single",
         "category": "coconut",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1h9gtpWJvdPBLgb_hUdf03G4ky0AcFpLz",
+        "image": "https://drive.google.com/thumbnail?id=1h9gtpWJvdPBLgb_hUdf03G4ky0AcFpLz&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2595,7 +2595,7 @@ const driveData = [
         "name": "Top",
         "category": "coconut",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1dd3jPLa-7-SiUVdDKcjP2aWtiJncu9TH",
+        "image": "https://drive.google.com/thumbnail?id=1dd3jPLa-7-SiUVdDKcjP2aWtiJncu9TH&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2605,7 +2605,7 @@ const driveData = [
         "name": "Front",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1O5536-0Wk1lfH-YklswAirjjvSsyjQk8",
+        "image": "https://drive.google.com/thumbnail?id=1O5536-0Wk1lfH-YklswAirjjvSsyjQk8&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2615,7 +2615,7 @@ const driveData = [
         "name": "Group",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1OXkHc_jtKkGQ-w-Kp1sikkZ_5ncscK6w",
+        "image": "https://drive.google.com/thumbnail?id=1OXkHc_jtKkGQ-w-Kp1sikkZ_5ncscK6w&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2625,7 +2625,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1niqGfRnVHwxKRuifrDHyXE_UFJr1ayd5",
+        "image": "https://drive.google.com/thumbnail?id=1niqGfRnVHwxKRuifrDHyXE_UFJr1ayd5&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2635,7 +2635,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=12LRoNz2UrlW2vKwA_69iKFYeTSYv5NDY",
+        "image": "https://drive.google.com/thumbnail?id=12LRoNz2UrlW2vKwA_69iKFYeTSYv5NDY&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2645,7 +2645,7 @@ const driveData = [
         "name": "Single",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1bqZ4fCf_Q25qPDX8lrezpvEHTW5WXvIQ",
+        "image": "https://drive.google.com/thumbnail?id=1bqZ4fCf_Q25qPDX8lrezpvEHTW5WXvIQ&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2655,7 +2655,7 @@ const driveData = [
         "name": "Top",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=175eRM8B3sSKoUerlzTNpZqo0xG-h7U-U",
+        "image": "https://drive.google.com/thumbnail?id=175eRM8B3sSKoUerlzTNpZqo0xG-h7U-U&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2665,7 +2665,7 @@ const driveData = [
         "name": "Group",
         "category": "nan_khatai",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1BX2xKEF_cFdDb_Y0ij5wzCf0snQcpnBa",
+        "image": "https://drive.google.com/thumbnail?id=1BX2xKEF_cFdDb_Y0ij5wzCf0snQcpnBa&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2675,7 +2675,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "nan_khatai",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1E-t0ewdfrspy7GwUFyyAermGHXeDDv4F",
+        "image": "https://drive.google.com/thumbnail?id=1E-t0ewdfrspy7GwUFyyAermGHXeDDv4F&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2685,7 +2685,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "nan_khatai",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1k6k75tTj5mRnKvg7CTQSMHXafmHg3VNV",
+        "image": "https://drive.google.com/thumbnail?id=1k6k75tTj5mRnKvg7CTQSMHXafmHg3VNV&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2695,7 +2695,7 @@ const driveData = [
         "name": "Single",
         "category": "nan_khatai",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=11m2snHyJx9GhXCUnmo2KCMhDsO5obcUI",
+        "image": "https://drive.google.com/thumbnail?id=11m2snHyJx9GhXCUnmo2KCMhDsO5obcUI&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2705,7 +2705,7 @@ const driveData = [
         "name": "Top",
         "category": "nan_khatai",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1bgG1LRK4CPiTeHdSopUa2sjsrzVKvf6h",
+        "image": "https://drive.google.com/thumbnail?id=1bgG1LRK4CPiTeHdSopUa2sjsrzVKvf6h&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2715,7 +2715,7 @@ const driveData = [
         "name": "Front",
         "category": "no_sugar_added",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1IMrRzxlXBup2W9T91Ux_HH6Eepvuiipo",
+        "image": "https://drive.google.com/thumbnail?id=1IMrRzxlXBup2W9T91Ux_HH6Eepvuiipo&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2725,7 +2725,7 @@ const driveData = [
         "name": "Group",
         "category": "no_sugar_added",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1dg-I_pQ-vzk4b1NW1F3OS5R1LU0l1liG",
+        "image": "https://drive.google.com/thumbnail?id=1dg-I_pQ-vzk4b1NW1F3OS5R1LU0l1liG&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2735,7 +2735,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "no_sugar_added",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1e1Pt_atJb8Z5PWL4GTH01dL-atmHd0Zx",
+        "image": "https://drive.google.com/thumbnail?id=1e1Pt_atJb8Z5PWL4GTH01dL-atmHd0Zx&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2745,7 +2745,7 @@ const driveData = [
         "name": "Single",
         "category": "no_sugar_added",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1gyavJeyy1FzaXcTN3GK3iyydi795a7j0",
+        "image": "https://drive.google.com/thumbnail?id=1gyavJeyy1FzaXcTN3GK3iyydi795a7j0&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2755,7 +2755,7 @@ const driveData = [
         "name": "Top",
         "category": "no_sugar_added",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1zW0P4McYpKFM-gkS_Bdap3QdyOW109iX",
+        "image": "https://drive.google.com/thumbnail?id=1zW0P4McYpKFM-gkS_Bdap3QdyOW109iX&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2765,7 +2765,7 @@ const driveData = [
         "name": "Group",
         "category": "pistachio",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1T0fulUtLIt3N8FvInaqxhInESkZAngGa",
+        "image": "https://drive.google.com/thumbnail?id=1T0fulUtLIt3N8FvInaqxhInESkZAngGa&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2775,7 +2775,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "pistachio",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Zolfbr0j9lxn38BE8w6GEBPGMVMe5Diz",
+        "image": "https://drive.google.com/thumbnail?id=1Zolfbr0j9lxn38BE8w6GEBPGMVMe5Diz&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2785,7 +2785,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "pistachio",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1zCLLFFQK_v_aURLYB7UF8lrAwXU9eCT0",
+        "image": "https://drive.google.com/thumbnail?id=1zCLLFFQK_v_aURLYB7UF8lrAwXU9eCT0&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2795,7 +2795,7 @@ const driveData = [
         "name": "Single",
         "category": "pistachio",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1LMDTX724V5ogI0R0tmqPiWSvNIA7l72D",
+        "image": "https://drive.google.com/thumbnail?id=1LMDTX724V5ogI0R0tmqPiWSvNIA7l72D&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2805,7 +2805,7 @@ const driveData = [
         "name": "Top",
         "category": "pistachio",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1uW0NpZJVjWQdpia5oDoLZb0FSdJ1Awrk",
+        "image": "https://drive.google.com/thumbnail?id=1uW0NpZJVjWQdpia5oDoLZb0FSdJ1Awrk&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2815,7 +2815,7 @@ const driveData = [
         "name": "Group",
         "category": "sooji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1F-BNIDt0qh4qhAwr8SfZkHXvLnBRHqHL",
+        "image": "https://drive.google.com/thumbnail?id=1F-BNIDt0qh4qhAwr8SfZkHXvLnBRHqHL&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2825,7 +2825,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "sooji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1WNTstqCSfqvOG_hE4hK3Jq0SCHeBzi_N",
+        "image": "https://drive.google.com/thumbnail?id=1WNTstqCSfqvOG_hE4hK3Jq0SCHeBzi_N&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2835,7 +2835,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "sooji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1IShMU7AeBLvHIOmHRJtp_dHxzi8UNIjx",
+        "image": "https://drive.google.com/thumbnail?id=1IShMU7AeBLvHIOmHRJtp_dHxzi8UNIjx&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2845,7 +2845,7 @@ const driveData = [
         "name": "Single",
         "category": "sooji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Qpz_u_ITeEvK_M3FoBTzsokncrNa7bhT",
+        "image": "https://drive.google.com/thumbnail?id=1Qpz_u_ITeEvK_M3FoBTzsokncrNa7bhT&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2855,7 +2855,7 @@ const driveData = [
         "name": "Top",
         "category": "sooji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1FBl13xO7XaWz11CuLhRUN6HbYREDSy2M",
+        "image": "https://drive.google.com/thumbnail?id=1FBl13xO7XaWz11CuLhRUN6HbYREDSy2M&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2865,7 +2865,7 @@ const driveData = [
         "name": "3D",
         "category": "tutti_fruity",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1JWd691XAYrshyWd4ZKfvuAnb5xqK9k_A",
+        "image": "https://drive.google.com/thumbnail?id=1JWd691XAYrshyWd4ZKfvuAnb5xqK9k_A&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2875,7 +2875,7 @@ const driveData = [
         "name": "Front",
         "category": "tutti_fruity",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1tSvfjCBVEeWjjcFSgK7B8HfSxbv8FtvE",
+        "image": "https://drive.google.com/thumbnail?id=1tSvfjCBVEeWjjcFSgK7B8HfSxbv8FtvE&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2885,7 +2885,7 @@ const driveData = [
         "name": "Group",
         "category": "tutti_fruity",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ZYH1qZrM3bM7ud9OFUnk-6L5-_CJ9J3O",
+        "image": "https://drive.google.com/thumbnail?id=1ZYH1qZrM3bM7ud9OFUnk-6L5-_CJ9J3O&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2895,7 +2895,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "tutti_fruity",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ZcJeD-L1-wY7mRJ0IXXjg4WeRBj3_tE6",
+        "image": "https://drive.google.com/thumbnail?id=1ZcJeD-L1-wY7mRJ0IXXjg4WeRBj3_tE6&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2905,7 +2905,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "tutti_fruity",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1TqAyh0Z88rAx8wAxTchdMdVTq1HQb4UP",
+        "image": "https://drive.google.com/thumbnail?id=1TqAyh0Z88rAx8wAxTchdMdVTq1HQb4UP&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2915,7 +2915,7 @@ const driveData = [
         "name": "Single",
         "category": "tutti_fruity",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1VSQAjj5ukq2tf1OqdJoLTePWQESBoh_I",
+        "image": "https://drive.google.com/thumbnail?id=1VSQAjj5ukq2tf1OqdJoLTePWQESBoh_I&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2925,7 +2925,7 @@ const driveData = [
         "name": "Top",
         "category": "tutti_fruity",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1rIXjCkSpN_GhsBMAs_rJVuu_dDwPuPtT",
+        "image": "https://drive.google.com/thumbnail?id=1rIXjCkSpN_GhsBMAs_rJVuu_dDwPuPtT&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2935,7 +2935,7 @@ const driveData = [
         "name": "Group",
         "category": "veg_punjabi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1bS3VloS3whXEHy1ROJHQ86TVRvK5hy7r",
+        "image": "https://drive.google.com/thumbnail?id=1bS3VloS3whXEHy1ROJHQ86TVRvK5hy7r&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2945,7 +2945,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "veg_punjabi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Jj7StxGhI2d2ankDtqXAictkxq9ulZ13",
+        "image": "https://drive.google.com/thumbnail?id=1Jj7StxGhI2d2ankDtqXAictkxq9ulZ13&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2955,7 +2955,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "veg_punjabi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Zqe0zk4lCAqK55T3K0_aJ5iMnc_KSeCv",
+        "image": "https://drive.google.com/thumbnail?id=1Zqe0zk4lCAqK55T3K0_aJ5iMnc_KSeCv&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2965,7 +2965,7 @@ const driveData = [
         "name": "Single",
         "category": "veg_punjabi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=19acOiWUEjqdOO-JiD1u19Oia99L6A5uX",
+        "image": "https://drive.google.com/thumbnail?id=19acOiWUEjqdOO-JiD1u19Oia99L6A5uX&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2975,7 +2975,7 @@ const driveData = [
         "name": "Top",
         "category": "veg_punjabi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1RcTGL7D-VGf4aHRpTKAO6wU8hwmrTz64",
+        "image": "https://drive.google.com/thumbnail?id=1RcTGL7D-VGf4aHRpTKAO6wU8hwmrTz64&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2985,7 +2985,7 @@ const driveData = [
         "name": "Group",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1io3pgtL7nseGRtN-LTYOaDPQwMBv00vT",
+        "image": "https://drive.google.com/thumbnail?id=1io3pgtL7nseGRtN-LTYOaDPQwMBv00vT&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -2995,7 +2995,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=10xJiNjr96ME3-BMeYdhOto2NT4FDMxr5",
+        "image": "https://drive.google.com/thumbnail?id=10xJiNjr96ME3-BMeYdhOto2NT4FDMxr5&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3005,7 +3005,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Vi6d4uAPYuDV_LxheXU5jffWgB9wQ3Sg",
+        "image": "https://drive.google.com/thumbnail?id=1Vi6d4uAPYuDV_LxheXU5jffWgB9wQ3Sg&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3015,7 +3015,7 @@ const driveData = [
         "name": "Single",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1b5w_UUN99EFMvtaQyhnk398cb-X0GvUI",
+        "image": "https://drive.google.com/thumbnail?id=1b5w_UUN99EFMvtaQyhnk398cb-X0GvUI&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3025,7 +3025,7 @@ const driveData = [
         "name": "Top",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1OIF3FT6995liCH9HorgqoOoPdQdYPKqY",
+        "image": "https://drive.google.com/thumbnail?id=1OIF3FT6995liCH9HorgqoOoPdQdYPKqY&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3035,7 +3035,7 @@ const driveData = [
         "name": "Gur Cookies 3D View",
         "category": "gur_cookies",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1BGsiW_HVxWUBXpar_Ma3cqYt02jzyUBy",
+        "image": "https://drive.google.com/thumbnail?id=1BGsiW_HVxWUBXpar_Ma3cqYt02jzyUBy&sz=w1000",
         "description": "Fresh Gur Cookies 3D View from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3045,7 +3045,7 @@ const driveData = [
         "name": "Gur Cookies Front View",
         "category": "gur_cookies",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1DmpD9UUigLZYK2dw3X-kTcDrwMVtaed1",
+        "image": "https://drive.google.com/thumbnail?id=1DmpD9UUigLZYK2dw3X-kTcDrwMVtaed1&sz=w1000",
         "description": "Fresh Gur Cookies Front View from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3055,7 +3055,7 @@ const driveData = [
         "name": "Gur Cookies Ingridents",
         "category": "gur_cookies",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1oAGZEkQbV0pSPFB7hRSxviER3DwLxfwj",
+        "image": "https://drive.google.com/thumbnail?id=1oAGZEkQbV0pSPFB7hRSxviER3DwLxfwj&sz=w1000",
         "description": "Fresh Gur Cookies Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3065,7 +3065,7 @@ const driveData = [
         "name": "Gur Cookies Nutrition Facts",
         "category": "gur_cookies",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1qLurKr2vr4PKr4XCttykwVzTgp2ihMcU",
+        "image": "https://drive.google.com/thumbnail?id=1qLurKr2vr4PKr4XCttykwVzTgp2ihMcU&sz=w1000",
         "description": "Fresh Gur Cookies Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3075,7 +3075,7 @@ const driveData = [
         "name": "Gur Cookies Top View",
         "category": "gur_cookies",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1wkbheFLN6olu_qcjl1pHIqTabBGTASA5",
+        "image": "https://drive.google.com/thumbnail?id=1wkbheFLN6olu_qcjl1pHIqTabBGTASA5&sz=w1000",
         "description": "Fresh Gur Cookies Top View from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3085,7 +3085,7 @@ const driveData = [
         "name": "Multiple pcs",
         "category": "gur_cookies",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1e6sswGN_FKaE6jTMyJi3bpZje56-M_nm",
+        "image": "https://drive.google.com/thumbnail?id=1e6sswGN_FKaE6jTMyJi3bpZje56-M_nm&sz=w1000",
         "description": "Fresh Multiple pcs from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3095,7 +3095,7 @@ const driveData = [
         "name": "Single pc",
         "category": "gur_cookies",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1BzfPSAbx5bDGm2nMqH7yAiy7GQBeou9z",
+        "image": "https://drive.google.com/thumbnail?id=1BzfPSAbx5bDGm2nMqH7yAiy7GQBeou9z&sz=w1000",
         "description": "Fresh Single pc from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3105,7 +3105,7 @@ const driveData = [
         "name": "Multiple pcs",
         "category": "sooji_biscuits",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=17fiXO02isw47ahE4t2MJ-6yPn7qt0I4M",
+        "image": "https://drive.google.com/thumbnail?id=17fiXO02isw47ahE4t2MJ-6yPn7qt0I4M&sz=w1000",
         "description": "Fresh Multiple pcs from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3115,7 +3115,7 @@ const driveData = [
         "name": "Single pc",
         "category": "sooji_biscuits",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1P1NxxdYUAiAD3ag-ED1fDi93KEJLfDId",
+        "image": "https://drive.google.com/thumbnail?id=1P1NxxdYUAiAD3ag-ED1fDi93KEJLfDId&sz=w1000",
         "description": "Fresh Single pc from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3125,7 +3125,7 @@ const driveData = [
         "name": "Sooji Biscuits 3D View",
         "category": "sooji_biscuits",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1EtykiX_Mm5ybPwOMy1tT4KT2TmZ3pDen",
+        "image": "https://drive.google.com/thumbnail?id=1EtykiX_Mm5ybPwOMy1tT4KT2TmZ3pDen&sz=w1000",
         "description": "Fresh Sooji Biscuits 3D View from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3135,7 +3135,7 @@ const driveData = [
         "name": "Sooji Biscuits Front View",
         "category": "sooji_biscuits",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1kv7Qq5WW5ghHUslcqLrupOnF4Vp5HPyc",
+        "image": "https://drive.google.com/thumbnail?id=1kv7Qq5WW5ghHUslcqLrupOnF4Vp5HPyc&sz=w1000",
         "description": "Fresh Sooji Biscuits Front View from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3145,7 +3145,7 @@ const driveData = [
         "name": "Sooji Biscuits Ingredients",
         "category": "sooji_biscuits",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1M7WMYaRFqpIn5rihh5bgFUTtmPKikBLU",
+        "image": "https://drive.google.com/thumbnail?id=1M7WMYaRFqpIn5rihh5bgFUTtmPKikBLU&sz=w1000",
         "description": "Fresh Sooji Biscuits Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3155,7 +3155,7 @@ const driveData = [
         "name": "Sooji Biscuits Nutritional Facts",
         "category": "sooji_biscuits",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1D01faXnEU7ykaxxMPvScOrm6kh_Omt8R",
+        "image": "https://drive.google.com/thumbnail?id=1D01faXnEU7ykaxxMPvScOrm6kh_Omt8R&sz=w1000",
         "description": "Fresh Sooji Biscuits Nutritional Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3165,7 +3165,7 @@ const driveData = [
         "name": "Sooji Biscuits Top View",
         "category": "sooji_biscuits",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Azq-gGEn_glcAz8UgBOro28t4feyGcjN",
+        "image": "https://drive.google.com/thumbnail?id=1Azq-gGEn_glcAz8UgBOro28t4feyGcjN&sz=w1000",
         "description": "Fresh Sooji Biscuits Top View from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3175,7 +3175,7 @@ const driveData = [
         "name": "Multiple pcs",
         "category": "vegetarian_punjabi_biscuits",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Yki3zRn9aGtUKW6p4nGVlYKq6PNhpqRK",
+        "image": "https://drive.google.com/thumbnail?id=1Yki3zRn9aGtUKW6p4nGVlYKq6PNhpqRK&sz=w1000",
         "description": "Fresh Multiple pcs from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3185,7 +3185,7 @@ const driveData = [
         "name": "Single pc",
         "category": "vegetarian_punjabi_biscuits",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1YOI-WYeM0vt4MAchKef4t_9IebPQ-AH9",
+        "image": "https://drive.google.com/thumbnail?id=1YOI-WYeM0vt4MAchKef4t_9IebPQ-AH9&sz=w1000",
         "description": "Fresh Single pc from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3195,7 +3195,7 @@ const driveData = [
         "name": "Vegetarian Punjabi 3D View",
         "category": "vegetarian_punjabi_biscuits",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=10_Ror1c9RkMuySIamiKOPAvafCtvqB2r",
+        "image": "https://drive.google.com/thumbnail?id=10_Ror1c9RkMuySIamiKOPAvafCtvqB2r&sz=w1000",
         "description": "Fresh Vegetarian Punjabi 3D View from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3205,7 +3205,7 @@ const driveData = [
         "name": "Vegetarian Punjabi Front View",
         "category": "vegetarian_punjabi_biscuits",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1tPi-tKgpA5GCKbscWah_auFI9pa6sGRU",
+        "image": "https://drive.google.com/thumbnail?id=1tPi-tKgpA5GCKbscWah_auFI9pa6sGRU&sz=w1000",
         "description": "Fresh Vegetarian Punjabi Front View from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3215,7 +3215,7 @@ const driveData = [
         "name": "Vegetarian Punjabi Ingredients",
         "category": "vegetarian_punjabi_biscuits",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1fa2-j8PI0I_BLCu6YRJyydLwQrsfkZZW",
+        "image": "https://drive.google.com/thumbnail?id=1fa2-j8PI0I_BLCu6YRJyydLwQrsfkZZW&sz=w1000",
         "description": "Fresh Vegetarian Punjabi Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3225,7 +3225,7 @@ const driveData = [
         "name": "Vegetarian Punjabi Nutritional Facts",
         "category": "vegetarian_punjabi_biscuits",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ynxy81AHGBPtFynW-AzQHEnERGYjDTSF",
+        "image": "https://drive.google.com/thumbnail?id=1ynxy81AHGBPtFynW-AzQHEnERGYjDTSF&sz=w1000",
         "description": "Fresh Vegetarian Punjabi Nutritional Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3235,7 +3235,7 @@ const driveData = [
         "name": "Vegetarian Punjabi Top View",
         "category": "vegetarian_punjabi_biscuits",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Lm2yuyx7vXJ3FSYHF0Nlr--yGkaH6iHc",
+        "image": "https://drive.google.com/thumbnail?id=1Lm2yuyx7vXJ3FSYHF0Nlr--yGkaH6iHc&sz=w1000",
         "description": "Fresh Vegetarian Punjabi Top View from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3245,7 +3245,7 @@ const driveData = [
         "name": "Multiple pcs",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1WRMUuBH9IDYqhAX6CPnXK8sVsX6H61bY",
+        "image": "https://drive.google.com/thumbnail?id=1WRMUuBH9IDYqhAX6CPnXK8sVsX6H61bY&sz=w1000",
         "description": "Fresh Multiple pcs from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3255,7 +3255,7 @@ const driveData = [
         "name": "Single pc",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1MOoesNGrhYGGA5gYotJlEbU7uLg_otDR",
+        "image": "https://drive.google.com/thumbnail?id=1MOoesNGrhYGGA5gYotJlEbU7uLg_otDR&sz=w1000",
         "description": "Fresh Single pc from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3265,7 +3265,7 @@ const driveData = [
         "name": "Whole Wheat Biscuits 3d View",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1jr3oeKjv7nqHPIBWIEIDPj4s7OGWQmz6",
+        "image": "https://drive.google.com/thumbnail?id=1jr3oeKjv7nqHPIBWIEIDPj4s7OGWQmz6&sz=w1000",
         "description": "Fresh Whole Wheat Biscuits 3d View from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3275,7 +3275,7 @@ const driveData = [
         "name": "Whole Wheat Biscuits front View",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=10vZyyQCCQurmOGwPG3-4ZbulSwXK5L_E",
+        "image": "https://drive.google.com/thumbnail?id=10vZyyQCCQurmOGwPG3-4ZbulSwXK5L_E&sz=w1000",
         "description": "Fresh Whole Wheat Biscuits front View from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3285,7 +3285,7 @@ const driveData = [
         "name": "Whole Wheat Biscuits Ingridents",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1CTyaBuTKSro2opmASTLpb58JSgP92tXF",
+        "image": "https://drive.google.com/thumbnail?id=1CTyaBuTKSro2opmASTLpb58JSgP92tXF&sz=w1000",
         "description": "Fresh Whole Wheat Biscuits Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3295,7 +3295,7 @@ const driveData = [
         "name": "Whole Wheat Biscuits Nutrition Facts",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1oqSlacQ_tYPeWiSW-YOnjn7fDGT8CxOG",
+        "image": "https://drive.google.com/thumbnail?id=1oqSlacQ_tYPeWiSW-YOnjn7fDGT8CxOG&sz=w1000",
         "description": "Fresh Whole Wheat Biscuits Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3305,7 +3305,7 @@ const driveData = [
         "name": "Whole Wheat Biscuits Top View",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=10Cw74RZV5rGkK_1tGbMdIX73miBX1FeZ",
+        "image": "https://drive.google.com/thumbnail?id=10Cw74RZV5rGkK_1tGbMdIX73miBX1FeZ&sz=w1000",
         "description": "Fresh Whole Wheat Biscuits Top View from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3315,7 +3315,7 @@ const driveData = [
         "name": "Front",
         "category": "ajwain",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=17JIi_snKtsVeOx1VD4S93taa1zI6WbxV",
+        "image": "https://drive.google.com/thumbnail?id=17JIi_snKtsVeOx1VD4S93taa1zI6WbxV&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3325,7 +3325,7 @@ const driveData = [
         "name": "Group",
         "category": "ajwain",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1E0FSyFWOIWoB9CsoqGpwYAtOHBrwaVt9",
+        "image": "https://drive.google.com/thumbnail?id=1E0FSyFWOIWoB9CsoqGpwYAtOHBrwaVt9&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3335,7 +3335,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "ajwain",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1nIUdmQFe-_Ray-mQOm45uYpNuR8bYdVB",
+        "image": "https://drive.google.com/thumbnail?id=1nIUdmQFe-_Ray-mQOm45uYpNuR8bYdVB&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3345,7 +3345,7 @@ const driveData = [
         "name": "Nutrition Fact",
         "category": "ajwain",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1tpgcNdRT1OvXjukuOgSS0Nq2YPrfMEK3",
+        "image": "https://drive.google.com/thumbnail?id=1tpgcNdRT1OvXjukuOgSS0Nq2YPrfMEK3&sz=w1000",
         "description": "Fresh Nutrition Fact from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3355,7 +3355,7 @@ const driveData = [
         "name": "Single",
         "category": "ajwain",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1So-ZSgRtWC8hpxOjP6XpKUtXZJo1wYM_",
+        "image": "https://drive.google.com/thumbnail?id=1So-ZSgRtWC8hpxOjP6XpKUtXZJo1wYM_&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3365,7 +3365,7 @@ const driveData = [
         "name": "Top",
         "category": "ajwain",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1PHOD0jyMDViBy_pi2fyvInNVECyN6Qvs",
+        "image": "https://drive.google.com/thumbnail?id=1PHOD0jyMDViBy_pi2fyvInNVECyN6Qvs&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3375,7 +3375,7 @@ const driveData = [
         "name": "3D",
         "category": "almond",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1wYl41FvZ9cfDxtLgNwOBHYfMocWt94BC",
+        "image": "https://drive.google.com/thumbnail?id=1wYl41FvZ9cfDxtLgNwOBHYfMocWt94BC&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3385,7 +3385,7 @@ const driveData = [
         "name": "Front",
         "category": "almond",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ZSxR1OtmIGB-PC5dJFt-O0OzuCqhW-uZ",
+        "image": "https://drive.google.com/thumbnail?id=1ZSxR1OtmIGB-PC5dJFt-O0OzuCqhW-uZ&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3395,7 +3395,7 @@ const driveData = [
         "name": "Group",
         "category": "almond",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1XkNSYsx8O0O8Yt4pOoh4wAvgeXRU_kuB",
+        "image": "https://drive.google.com/thumbnail?id=1XkNSYsx8O0O8Yt4pOoh4wAvgeXRU_kuB&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3405,7 +3405,7 @@ const driveData = [
         "name": "Ingridents",
         "category": "almond",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1mMzMkM8F_2sNlwM816u9mrzDbS2nB2ch",
+        "image": "https://drive.google.com/thumbnail?id=1mMzMkM8F_2sNlwM816u9mrzDbS2nB2ch&sz=w1000",
         "description": "Fresh Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3415,7 +3415,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "almond",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1k1WpbhYxT4sTDzYQp8UnSRCM2SYVuCzL",
+        "image": "https://drive.google.com/thumbnail?id=1k1WpbhYxT4sTDzYQp8UnSRCM2SYVuCzL&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3425,7 +3425,7 @@ const driveData = [
         "name": "Single",
         "category": "almond",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1pSi9lSg0KUVuv3BHGRurStS5_NWEY8X3",
+        "image": "https://drive.google.com/thumbnail?id=1pSi9lSg0KUVuv3BHGRurStS5_NWEY8X3&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3435,7 +3435,7 @@ const driveData = [
         "name": "Top",
         "category": "almond",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1FwmuB1mgAa_4b04tQ6HiNaE7dxIFMJfE",
+        "image": "https://drive.google.com/thumbnail?id=1FwmuB1mgAa_4b04tQ6HiNaE7dxIFMJfE&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3445,7 +3445,7 @@ const driveData = [
         "name": "3D",
         "category": "fennel",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=16rf0uuzYQGYqu8jvCClkXZSgtJ-dN9mS",
+        "image": "https://drive.google.com/thumbnail?id=16rf0uuzYQGYqu8jvCClkXZSgtJ-dN9mS&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3455,7 +3455,7 @@ const driveData = [
         "name": "Front",
         "category": "fennel",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=124RK42xyMxiy0vZ6ZOModhIfZUy9lEql",
+        "image": "https://drive.google.com/thumbnail?id=124RK42xyMxiy0vZ6ZOModhIfZUy9lEql&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3465,7 +3465,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "fennel",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1z9VoA8VZjjD2GYO9zIwPPZHJdPGv1mnK",
+        "image": "https://drive.google.com/thumbnail?id=1z9VoA8VZjjD2GYO9zIwPPZHJdPGv1mnK&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3475,7 +3475,7 @@ const driveData = [
         "name": "Multiple pcs",
         "category": "fennel",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1wKNj1LGePi0X1K1FTEmwRmOc8xS-sxhS",
+        "image": "https://drive.google.com/thumbnail?id=1wKNj1LGePi0X1K1FTEmwRmOc8xS-sxhS&sz=w1000",
         "description": "Fresh Multiple pcs from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3485,7 +3485,7 @@ const driveData = [
         "name": "Single pc",
         "category": "fennel",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1YYYG1yDY8-LUf48AMhNMdTk2GKIqIm1m",
+        "image": "https://drive.google.com/thumbnail?id=1YYYG1yDY8-LUf48AMhNMdTk2GKIqIm1m&sz=w1000",
         "description": "Fresh Single pc from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3495,7 +3495,7 @@ const driveData = [
         "name": "Top",
         "category": "fennel",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1aCuaKHZqZFIiRnH_yT9UDzKEUfQXnN5x",
+        "image": "https://drive.google.com/thumbnail?id=1aCuaKHZqZFIiRnH_yT9UDzKEUfQXnN5x&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3505,7 +3505,7 @@ const driveData = [
         "name": "Front",
         "category": "flax_seed_and_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1nLNEO0Y-JIVpdVGF9mjbmy-vZuNPCl1x",
+        "image": "https://drive.google.com/thumbnail?id=1nLNEO0Y-JIVpdVGF9mjbmy-vZuNPCl1x&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3515,7 +3515,7 @@ const driveData = [
         "name": "Group",
         "category": "flax_seed_and_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=10CsGAUAv58G_iCSkzj2CrEpmNXK9m0Oy",
+        "image": "https://drive.google.com/thumbnail?id=10CsGAUAv58G_iCSkzj2CrEpmNXK9m0Oy&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3525,7 +3525,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "flax_seed_and_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1XZJPhZapf_0Wq08Pr4dz_WSu1Flx-uDd",
+        "image": "https://drive.google.com/thumbnail?id=1XZJPhZapf_0Wq08Pr4dz_WSu1Flx-uDd&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3535,7 +3535,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "flax_seed_and_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1EQvCf_WmXdlc3N_22mU9z2dzxTi5GDW8",
+        "image": "https://drive.google.com/thumbnail?id=1EQvCf_WmXdlc3N_22mU9z2dzxTi5GDW8&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3545,7 +3545,7 @@ const driveData = [
         "name": "Single",
         "category": "flax_seed_and_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1oqtUatVMiUu1OoGcWBi5rK3Pz7j-NgDA",
+        "image": "https://drive.google.com/thumbnail?id=1oqtUatVMiUu1OoGcWBi5rK3Pz7j-NgDA&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3555,7 +3555,7 @@ const driveData = [
         "name": "Top",
         "category": "flax_seed_and_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1SHF4cigtn3fV7OrmoZwSS7xaKKAqGBlk",
+        "image": "https://drive.google.com/thumbnail?id=1SHF4cigtn3fV7OrmoZwSS7xaKKAqGBlk&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3565,7 +3565,7 @@ const driveData = [
         "name": "3D",
         "category": "ginger_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1rk6En8FeGmeyoEyjzBYBoEy32OVGU8BS",
+        "image": "https://drive.google.com/thumbnail?id=1rk6En8FeGmeyoEyjzBYBoEy32OVGU8BS&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3575,7 +3575,7 @@ const driveData = [
         "name": "Front",
         "category": "ginger_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1f5-OT1q8WLSaPdx1MJN4QmpRIAePJYr4",
+        "image": "https://drive.google.com/thumbnail?id=1f5-OT1q8WLSaPdx1MJN4QmpRIAePJYr4&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3585,7 +3585,7 @@ const driveData = [
         "name": "Group",
         "category": "ginger_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1RutBpqXMgQAzjLNkFL3I1vRnFxXXi5Pw",
+        "image": "https://drive.google.com/thumbnail?id=1RutBpqXMgQAzjLNkFL3I1vRnFxXXi5Pw&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3595,7 +3595,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "ginger_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=129SlCTie4OEhXsv_Cgkyp-dlahm5n9Ab",
+        "image": "https://drive.google.com/thumbnail?id=129SlCTie4OEhXsv_Cgkyp-dlahm5n9Ab&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3605,7 +3605,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "ginger_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1lV2szCXAu2CTzUlmjTn6aPuk5S77tZWD",
+        "image": "https://drive.google.com/thumbnail?id=1lV2szCXAu2CTzUlmjTn6aPuk5S77tZWD&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3615,7 +3615,7 @@ const driveData = [
         "name": "Single",
         "category": "ginger_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1y-__c9gM411zOwCMd6etki9lElg1T-dK",
+        "image": "https://drive.google.com/thumbnail?id=1y-__c9gM411zOwCMd6etki9lElg1T-dK&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3625,7 +3625,7 @@ const driveData = [
         "name": "Top",
         "category": "ginger_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ndQv4lVhzOMKi8ao8UucGjLRPB363ASM",
+        "image": "https://drive.google.com/thumbnail?id=1ndQv4lVhzOMKi8ao8UucGjLRPB363ASM&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3635,7 +3635,7 @@ const driveData = [
         "name": "3D",
         "category": "gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ci5JuoJ9TXT_0X1vxsdw6qNznLq4JrWd",
+        "image": "https://drive.google.com/thumbnail?id=1ci5JuoJ9TXT_0X1vxsdw6qNznLq4JrWd&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3645,7 +3645,7 @@ const driveData = [
         "name": "Front",
         "category": "gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1e6tATonEaKAccnTPVeRwrWdLdGkHSCV4",
+        "image": "https://drive.google.com/thumbnail?id=1e6tATonEaKAccnTPVeRwrWdLdGkHSCV4&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3655,7 +3655,7 @@ const driveData = [
         "name": "Group",
         "category": "gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Pwg0smkfxZ2-DPq5ZypV6AcL0hPOYBfx",
+        "image": "https://drive.google.com/thumbnail?id=1Pwg0smkfxZ2-DPq5ZypV6AcL0hPOYBfx&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3665,7 +3665,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1xaLFFgcHlDhdl5i8SEPQg0h4UwFo5Gf5",
+        "image": "https://drive.google.com/thumbnail?id=1xaLFFgcHlDhdl5i8SEPQg0h4UwFo5Gf5&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3675,7 +3675,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=11vxWpuF-VJRGBl8Plgy0ya5SeQJZZaTj",
+        "image": "https://drive.google.com/thumbnail?id=11vxWpuF-VJRGBl8Plgy0ya5SeQJZZaTj&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3685,7 +3685,7 @@ const driveData = [
         "name": "Single",
         "category": "gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1DLFZwrA68-1_SMGlvEW8cWP3azklNFwh",
+        "image": "https://drive.google.com/thumbnail?id=1DLFZwrA68-1_SMGlvEW8cWP3azklNFwh&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3695,7 +3695,7 @@ const driveData = [
         "name": "Top",
         "category": "gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Lqmt5Ocx8ja-ceIXoj78T7BXzXhEMCAr",
+        "image": "https://drive.google.com/thumbnail?id=1Lqmt5Ocx8ja-ceIXoj78T7BXzXhEMCAr&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3705,7 +3705,7 @@ const driveData = [
         "name": "Front",
         "category": "gur_&amp;_saunf",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1-SKty6lZ0WeDUZqs1Zw4eNhPdt4NtqPs",
+        "image": "https://drive.google.com/thumbnail?id=1-SKty6lZ0WeDUZqs1Zw4eNhPdt4NtqPs&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3715,7 +3715,7 @@ const driveData = [
         "name": "3D",
         "category": "kalounji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1aI-3vz3Fox4GKqba29fbkbs63XCXqUhl",
+        "image": "https://drive.google.com/thumbnail?id=1aI-3vz3Fox4GKqba29fbkbs63XCXqUhl&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3725,7 +3725,7 @@ const driveData = [
         "name": "Front",
         "category": "kalounji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=14R4wSAfE1SH3RxdG4ZWDvFXm846mppi_",
+        "image": "https://drive.google.com/thumbnail?id=14R4wSAfE1SH3RxdG4ZWDvFXm846mppi_&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3735,7 +3735,7 @@ const driveData = [
         "name": "Group",
         "category": "kalounji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Y4U2lm3Zh_pajBnErNafIkhDVpMFz94H",
+        "image": "https://drive.google.com/thumbnail?id=1Y4U2lm3Zh_pajBnErNafIkhDVpMFz94H&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3745,7 +3745,7 @@ const driveData = [
         "name": "Ingridents",
         "category": "kalounji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1fygI8wKvmF0xNNy-JABXpwjFlhabtDuR",
+        "image": "https://drive.google.com/thumbnail?id=1fygI8wKvmF0xNNy-JABXpwjFlhabtDuR&sz=w1000",
         "description": "Fresh Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3755,7 +3755,7 @@ const driveData = [
         "name": "Nurtition Facts",
         "category": "kalounji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ASQlnWCMs7ZwxnFQxE1Naxq9GtkHWNz9",
+        "image": "https://drive.google.com/thumbnail?id=1ASQlnWCMs7ZwxnFQxE1Naxq9GtkHWNz9&sz=w1000",
         "description": "Fresh Nurtition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3765,7 +3765,7 @@ const driveData = [
         "name": "Single",
         "category": "kalounji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1e71gLTLyRVbZrrGbkDn-imQfsob53YZk",
+        "image": "https://drive.google.com/thumbnail?id=1e71gLTLyRVbZrrGbkDn-imQfsob53YZk&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3775,7 +3775,7 @@ const driveData = [
         "name": "Top",
         "category": "kalounji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1yRJLw0wtl3mxFKY5Zt4PXZtojdMQQ9wd",
+        "image": "https://drive.google.com/thumbnail?id=1yRJLw0wtl3mxFKY5Zt4PXZtojdMQQ9wd&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3785,7 +3785,7 @@ const driveData = [
         "name": "3D",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1DXir-Ot_ajsm5l5UnakS9Fo9c0idJgfS",
+        "image": "https://drive.google.com/thumbnail?id=1DXir-Ot_ajsm5l5UnakS9Fo9c0idJgfS&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3795,7 +3795,7 @@ const driveData = [
         "name": "Front",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1raRhPgDHygulvty2f1YwFqjjZRuF8ycF",
+        "image": "https://drive.google.com/thumbnail?id=1raRhPgDHygulvty2f1YwFqjjZRuF8ycF&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3805,7 +3805,7 @@ const driveData = [
         "name": "Group",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1qliklZJ_bD6Cv5QkOUwsMErJ4ZKWYHxG",
+        "image": "https://drive.google.com/thumbnail?id=1qliklZJ_bD6Cv5QkOUwsMErJ4ZKWYHxG&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3815,7 +3815,7 @@ const driveData = [
         "name": "Ingridents",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1WJBWHYJv7i8TpojkaBDzDc2i71s5iB3X",
+        "image": "https://drive.google.com/thumbnail?id=1WJBWHYJv7i8TpojkaBDzDc2i71s5iB3X&sz=w1000",
         "description": "Fresh Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3825,7 +3825,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1gg7QOa376k7kK-KZZnveZtTRy-A2byGQ",
+        "image": "https://drive.google.com/thumbnail?id=1gg7QOa376k7kK-KZZnveZtTRy-A2byGQ&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3835,7 +3835,7 @@ const driveData = [
         "name": "Single",
         "category": "mango",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1A6rVvmlCAhqsBDnxc_XCVidSJAEhWFfz",
+        "image": "https://drive.google.com/thumbnail?id=1A6rVvmlCAhqsBDnxc_XCVidSJAEhWFfz&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3845,7 +3845,7 @@ const driveData = [
         "name": "3 pcs",
         "category": "nan_khatai",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1hqEqV3xTpWQgNDRR1SOHx-gfEK3SBzKT",
+        "image": "https://drive.google.com/thumbnail?id=1hqEqV3xTpWQgNDRR1SOHx-gfEK3SBzKT&sz=w1000",
         "description": "Fresh 3 pcs from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3855,7 +3855,7 @@ const driveData = [
         "name": "3D",
         "category": "nan_khatai",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1AHjsxnPvXgqEzVSiPchJTXY6NTE0mxXj",
+        "image": "https://drive.google.com/thumbnail?id=1AHjsxnPvXgqEzVSiPchJTXY6NTE0mxXj&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3865,7 +3865,7 @@ const driveData = [
         "name": "Front",
         "category": "nan_khatai",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1vI-qbgUZGgS1UcnypjpTLk04wnvaqroA",
+        "image": "https://drive.google.com/thumbnail?id=1vI-qbgUZGgS1UcnypjpTLk04wnvaqroA&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3875,7 +3875,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "nan_khatai",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1UOKzJwzHa8OGXPiZ7gCtEFzSMtFf2fve",
+        "image": "https://drive.google.com/thumbnail?id=1UOKzJwzHa8OGXPiZ7gCtEFzSMtFf2fve&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3885,7 +3885,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "nan_khatai",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=18PDMrV6crQv5O-C3J578Me25DImpINDT",
+        "image": "https://drive.google.com/thumbnail?id=18PDMrV6crQv5O-C3J578Me25DImpINDT&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3895,7 +3895,7 @@ const driveData = [
         "name": "single pc",
         "category": "nan_khatai",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1vuN70VDbsciETTNmVbP6Y-M68KW272Cc",
+        "image": "https://drive.google.com/thumbnail?id=1vuN70VDbsciETTNmVbP6Y-M68KW272Cc&sz=w1000",
         "description": "Fresh single pc from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3905,7 +3905,7 @@ const driveData = [
         "name": "Top",
         "category": "nan_khatai",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1tTFMEwUHjL5VnjRiSTFczT2BaKyCj8YD",
+        "image": "https://drive.google.com/thumbnail?id=1tTFMEwUHjL5VnjRiSTFczT2BaKyCj8YD&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3915,7 +3915,7 @@ const driveData = [
         "name": "3D",
         "category": "no_sugar_added",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1qxKguFfWZoCPlv0qxO_E2GUSyhIKUTD_",
+        "image": "https://drive.google.com/thumbnail?id=1qxKguFfWZoCPlv0qxO_E2GUSyhIKUTD_&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3925,7 +3925,7 @@ const driveData = [
         "name": "Front",
         "category": "no_sugar_added",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1_K1B0Yz-9ildb1YbAkoBc3y-S9KyiIxE",
+        "image": "https://drive.google.com/thumbnail?id=1_K1B0Yz-9ildb1YbAkoBc3y-S9KyiIxE&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3935,7 +3935,7 @@ const driveData = [
         "name": "Group",
         "category": "no_sugar_added",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1LgVSDw5_BzJd7KXG8qAAczaUSB2AWExy",
+        "image": "https://drive.google.com/thumbnail?id=1LgVSDw5_BzJd7KXG8qAAczaUSB2AWExy&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3945,7 +3945,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "no_sugar_added",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=18BOgZSUHzQNLhEdqmwuadjEPb7NzFX1a",
+        "image": "https://drive.google.com/thumbnail?id=18BOgZSUHzQNLhEdqmwuadjEPb7NzFX1a&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3955,7 +3955,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "no_sugar_added",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1uH8p6F9zMsl5DHTxvN2ASfehNPMTNjE_",
+        "image": "https://drive.google.com/thumbnail?id=1uH8p6F9zMsl5DHTxvN2ASfehNPMTNjE_&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3965,7 +3965,7 @@ const driveData = [
         "name": "Single",
         "category": "no_sugar_added",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1QzeLXMAVPURieZaJa1k8d6ufy3iPffSV",
+        "image": "https://drive.google.com/thumbnail?id=1QzeLXMAVPURieZaJa1k8d6ufy3iPffSV&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3975,7 +3975,7 @@ const driveData = [
         "name": "Top",
         "category": "no_sugar_added",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1veGZbzH3XRDsYqo39CjjenN3Ne_nuUbl",
+        "image": "https://drive.google.com/thumbnail?id=1veGZbzH3XRDsYqo39CjjenN3Ne_nuUbl&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3985,7 +3985,7 @@ const driveData = [
         "name": "3D",
         "category": "sesame_&amp;_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Akkh0HY-CgR7Hk5ezcPUCexD_A-zH-zR",
+        "image": "https://drive.google.com/thumbnail?id=1Akkh0HY-CgR7Hk5ezcPUCexD_A-zH-zR&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -3995,7 +3995,7 @@ const driveData = [
         "name": "Front",
         "category": "sesame_&amp;_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1DA4gBKy6QFDC6UTVlGGyxhsOv9RxQnRe",
+        "image": "https://drive.google.com/thumbnail?id=1DA4gBKy6QFDC6UTVlGGyxhsOv9RxQnRe&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4005,7 +4005,7 @@ const driveData = [
         "name": "Group",
         "category": "sesame_&amp;_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=10wJTUGeLAsDVuRt3hkBhu1VBFTz_9OKJ",
+        "image": "https://drive.google.com/thumbnail?id=10wJTUGeLAsDVuRt3hkBhu1VBFTz_9OKJ&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4015,7 +4015,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "sesame_&amp;_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1rYblIwAPLsxge1JIVeNXalfG362H_jV4",
+        "image": "https://drive.google.com/thumbnail?id=1rYblIwAPLsxge1JIVeNXalfG362H_jV4&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4025,7 +4025,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "sesame_&amp;_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1MrrYUze2old6qSrR9B0JBVh-RbxTxdjC",
+        "image": "https://drive.google.com/thumbnail?id=1MrrYUze2old6qSrR9B0JBVh-RbxTxdjC&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4035,7 +4035,7 @@ const driveData = [
         "name": "Single",
         "category": "sesame_&amp;_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1p2U03ZKpcWmYIVTT4L5pgT3R-guJqk_m",
+        "image": "https://drive.google.com/thumbnail?id=1p2U03ZKpcWmYIVTT4L5pgT3R-guJqk_m&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4045,7 +4045,7 @@ const driveData = [
         "name": "Top",
         "category": "sesame_&amp;_gur",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=17U8DdSOG_md70gEZYBpc397xHDd4zDjZ",
+        "image": "https://drive.google.com/thumbnail?id=17U8DdSOG_md70gEZYBpc397xHDd4zDjZ&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4055,7 +4055,7 @@ const driveData = [
         "name": "3D",
         "category": "sooji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1GxbWuUNK-XrxP6WGNslU0c3u4TEtgt3-",
+        "image": "https://drive.google.com/thumbnail?id=1GxbWuUNK-XrxP6WGNslU0c3u4TEtgt3-&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4065,7 +4065,7 @@ const driveData = [
         "name": "Front",
         "category": "sooji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ZO-Mc0i-sjIBXdrqDixRAfdmcJst49vq",
+        "image": "https://drive.google.com/thumbnail?id=1ZO-Mc0i-sjIBXdrqDixRAfdmcJst49vq&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4075,7 +4075,7 @@ const driveData = [
         "name": "Ingridents",
         "category": "sooji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1tUnDoc-JO95MMnZhHBmFqPrz8VkCfT60",
+        "image": "https://drive.google.com/thumbnail?id=1tUnDoc-JO95MMnZhHBmFqPrz8VkCfT60&sz=w1000",
         "description": "Fresh Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4085,7 +4085,7 @@ const driveData = [
         "name": "Multiple pcs",
         "category": "sooji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1eo0Wjm7hAvurk5s9GBS0dEtucboHgZAv",
+        "image": "https://drive.google.com/thumbnail?id=1eo0Wjm7hAvurk5s9GBS0dEtucboHgZAv&sz=w1000",
         "description": "Fresh Multiple pcs from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4095,7 +4095,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "sooji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1sfZUeEg57BwkfTh4IOi0TtEpr-0RD9cY",
+        "image": "https://drive.google.com/thumbnail?id=1sfZUeEg57BwkfTh4IOi0TtEpr-0RD9cY&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4105,7 +4105,7 @@ const driveData = [
         "name": "Single pc",
         "category": "sooji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1xGjb-HNHajBUazxb3zMyzcx1lo7sIGDn",
+        "image": "https://drive.google.com/thumbnail?id=1xGjb-HNHajBUazxb3zMyzcx1lo7sIGDn&sz=w1000",
         "description": "Fresh Single pc from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4115,7 +4115,7 @@ const driveData = [
         "name": "Top",
         "category": "sooji",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=128gG9utdKKWfBiwGR4l5FY7_8LvPVzfH",
+        "image": "https://drive.google.com/thumbnail?id=128gG9utdKKWfBiwGR4l5FY7_8LvPVzfH&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4125,7 +4125,7 @@ const driveData = [
         "name": "3D",
         "category": "vegetarian_punjabi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1UZ4JiWOCu359de-w3OG72xbojNUzu7GY",
+        "image": "https://drive.google.com/thumbnail?id=1UZ4JiWOCu359de-w3OG72xbojNUzu7GY&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4135,7 +4135,7 @@ const driveData = [
         "name": "Front",
         "category": "vegetarian_punjabi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1xG9GPw_7XaynITQfA4I-GwJkbclG2vxd",
+        "image": "https://drive.google.com/thumbnail?id=1xG9GPw_7XaynITQfA4I-GwJkbclG2vxd&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4145,7 +4145,7 @@ const driveData = [
         "name": "Group",
         "category": "vegetarian_punjabi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Ezb6X3cJlgu4f7RqK2Gk6yOJf8PB6Ra_",
+        "image": "https://drive.google.com/thumbnail?id=1Ezb6X3cJlgu4f7RqK2Gk6yOJf8PB6Ra_&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4155,7 +4155,7 @@ const driveData = [
         "name": "Ingridents",
         "category": "vegetarian_punjabi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ls4GKqKtb1ImMPOwLnW1U1HuqOXkPxnV",
+        "image": "https://drive.google.com/thumbnail?id=1ls4GKqKtb1ImMPOwLnW1U1HuqOXkPxnV&sz=w1000",
         "description": "Fresh Ingridents from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4165,7 +4165,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "vegetarian_punjabi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1hA9sZQmLZjTwHppzv6f2MT4aPGFf_qcG",
+        "image": "https://drive.google.com/thumbnail?id=1hA9sZQmLZjTwHppzv6f2MT4aPGFf_qcG&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4175,7 +4175,7 @@ const driveData = [
         "name": "Single",
         "category": "vegetarian_punjabi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1If031xCX0yC8OwL_iUpJTi1PxV9dy4bU",
+        "image": "https://drive.google.com/thumbnail?id=1If031xCX0yC8OwL_iUpJTi1PxV9dy4bU&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4185,7 +4185,7 @@ const driveData = [
         "name": "Top",
         "category": "vegetarian_punjabi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1vW81VjK1QkfmtlWtvd6MPEi22y9I-33f",
+        "image": "https://drive.google.com/thumbnail?id=1vW81VjK1QkfmtlWtvd6MPEi22y9I-33f&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4195,7 +4195,7 @@ const driveData = [
         "name": "3D",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1JRyc6svcVjunaQdcDHE5iS-IbsrYq1VZ",
+        "image": "https://drive.google.com/thumbnail?id=1JRyc6svcVjunaQdcDHE5iS-IbsrYq1VZ&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4205,7 +4205,7 @@ const driveData = [
         "name": "Front",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1pgIKUbYEJLI2Q6hVrexRPXQwJXVo86O_",
+        "image": "https://drive.google.com/thumbnail?id=1pgIKUbYEJLI2Q6hVrexRPXQwJXVo86O_&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4215,7 +4215,7 @@ const driveData = [
         "name": "Multiple pcs",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1du5U_Sw9tlFNhXjhjgpPh9KFzKxKrpI6",
+        "image": "https://drive.google.com/thumbnail?id=1du5U_Sw9tlFNhXjhjgpPh9KFzKxKrpI6&sz=w1000",
         "description": "Fresh Multiple pcs from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4225,7 +4225,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1HGy8ZJgHL6yfFMbB51ZPBt61cCuwazvk",
+        "image": "https://drive.google.com/thumbnail?id=1HGy8ZJgHL6yfFMbB51ZPBt61cCuwazvk&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4235,7 +4235,7 @@ const driveData = [
         "name": "Single pc",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1xoABCnZFS8zXxd12D-G1HfXQbi__GuWX",
+        "image": "https://drive.google.com/thumbnail?id=1xoABCnZFS8zXxd12D-G1HfXQbi__GuWX&sz=w1000",
         "description": "Fresh Single pc from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4245,7 +4245,7 @@ const driveData = [
         "name": "Top",
         "category": "whole_wheat",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=15TwfI354c-o2IsvuO4iP6S0zClBRCkZo",
+        "image": "https://drive.google.com/thumbnail?id=15TwfI354c-o2IsvuO4iP6S0zClBRCkZo&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4255,7 +4255,7 @@ const driveData = [
         "name": "Front",
         "category": "zeera",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=19ucssYDIOFR84tAGEw4Az8qmawjFh0dK",
+        "image": "https://drive.google.com/thumbnail?id=19ucssYDIOFR84tAGEw4Az8qmawjFh0dK&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4265,7 +4265,7 @@ const driveData = [
         "name": "Group",
         "category": "zeera",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1VtnLbfkaEjEFkvrQxpeRvRxRHFPEJ8Qk",
+        "image": "https://drive.google.com/thumbnail?id=1VtnLbfkaEjEFkvrQxpeRvRxRHFPEJ8Qk&sz=w1000",
         "description": "Fresh Group from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4275,7 +4275,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "zeera",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1r7pSvIjRznzHzJqo8ledBfE_5MPVL16Q",
+        "image": "https://drive.google.com/thumbnail?id=1r7pSvIjRznzHzJqo8ledBfE_5MPVL16Q&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4285,7 +4285,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "zeera",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1MXUpF_Qpwab_vT21l7su4NgnPoOSUxnB",
+        "image": "https://drive.google.com/thumbnail?id=1MXUpF_Qpwab_vT21l7su4NgnPoOSUxnB&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4295,7 +4295,7 @@ const driveData = [
         "name": "Single",
         "category": "zeera",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=18r58Zoq23BUI28N0-aBjcUKr33t3MDd2",
+        "image": "https://drive.google.com/thumbnail?id=18r58Zoq23BUI28N0-aBjcUKr33t3MDd2&sz=w1000",
         "description": "Fresh Single from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4305,7 +4305,7 @@ const driveData = [
         "name": "Top",
         "category": "zeera",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1_gY06ZCvHgzS5os8GYPw1yBI6WUucTON",
+        "image": "https://drive.google.com/thumbnail?id=1_gY06ZCvHgzS5os8GYPw1yBI6WUucTON&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4315,7 +4315,7 @@ const driveData = [
         "name": "Pani Puri Ingredients",
         "category": "300_dpi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1KSAyUW1QBzwAYX5EGWJCD9YNZNMlDUce",
+        "image": "https://drive.google.com/thumbnail?id=1KSAyUW1QBzwAYX5EGWJCD9YNZNMlDUce&sz=w1000",
         "description": "Fresh Pani Puri Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4325,7 +4325,7 @@ const driveData = [
         "name": "Pani Puri Nutrition Facts",
         "category": "300_dpi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1zX1rQMLSkumywbUJQx6GxmXPJPsnZAlF",
+        "image": "https://drive.google.com/thumbnail?id=1zX1rQMLSkumywbUJQx6GxmXPJPsnZAlF&sz=w1000",
         "description": "Fresh Pani Puri Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4335,7 +4335,7 @@ const driveData = [
         "name": "Pani Puri Top View",
         "category": "300_dpi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1sjwqLLm_2iVuSzskySdjtBJ4YuObOnJr",
+        "image": "https://drive.google.com/thumbnail?id=1sjwqLLm_2iVuSzskySdjtBJ4YuObOnJr&sz=w1000",
         "description": "Fresh Pani Puri Top View from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4345,7 +4345,7 @@ const driveData = [
         "name": "Pani Puri 3D View",
         "category": "72_dpi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=14baCAMrjhNdQyodn8gfvNuY5cdAZNhUe",
+        "image": "https://drive.google.com/thumbnail?id=14baCAMrjhNdQyodn8gfvNuY5cdAZNhUe&sz=w1000",
         "description": "Fresh Pani Puri 3D View from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4355,7 +4355,7 @@ const driveData = [
         "name": "Pani Puri Front View",
         "category": "72_dpi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1nV_7vKzRVydYCQH5qI5wMAWjjUzORWqr",
+        "image": "https://drive.google.com/thumbnail?id=1nV_7vKzRVydYCQH5qI5wMAWjjUzORWqr&sz=w1000",
         "description": "Fresh Pani Puri Front View from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4365,7 +4365,7 @@ const driveData = [
         "name": "Pani Puri Ingredients",
         "category": "72_dpi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1E9AOckCkI6JjY1_wP2zeXj5dYsj1JYYc",
+        "image": "https://drive.google.com/thumbnail?id=1E9AOckCkI6JjY1_wP2zeXj5dYsj1JYYc&sz=w1000",
         "description": "Fresh Pani Puri Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4375,7 +4375,7 @@ const driveData = [
         "name": "Pani Puri Nutrition Facts",
         "category": "72_dpi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1u8zVuMkeJYMs68LZo9kQ1_PjM7a39IY_",
+        "image": "https://drive.google.com/thumbnail?id=1u8zVuMkeJYMs68LZo9kQ1_PjM7a39IY_&sz=w1000",
         "description": "Fresh Pani Puri Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4385,7 +4385,7 @@ const driveData = [
         "name": "Pani Puri Top View",
         "category": "72_dpi",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1R2MFAbELtZGwOW_SHmszciti9kzCVIIp",
+        "image": "https://drive.google.com/thumbnail?id=1R2MFAbELtZGwOW_SHmszciti9kzCVIIp&sz=w1000",
         "description": "Fresh Pani Puri Top View from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4395,7 +4395,7 @@ const driveData = [
         "name": "Front",
         "category": "kalounji_namak_para",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1gnT-gHS5R0VtzC1p0KrAWtRsrsxK7L7f",
+        "image": "https://drive.google.com/thumbnail?id=1gnT-gHS5R0VtzC1p0KrAWtRsrsxK7L7f&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4405,7 +4405,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "kalounji_namak_para",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1_DmefOGRr5T0yRwrO0R0_2BKcrx2sn_Q",
+        "image": "https://drive.google.com/thumbnail?id=1_DmefOGRr5T0yRwrO0R0_2BKcrx2sn_Q&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4415,7 +4415,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "kalounji_namak_para",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=18L-peZdACsffbYgL75Doh_abvzrC4K6t",
+        "image": "https://drive.google.com/thumbnail?id=18L-peZdACsffbYgL75Doh_abvzrC4K6t&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4425,7 +4425,7 @@ const driveData = [
         "name": "Top",
         "category": "kalounji_namak_para",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1UqedA4ATCuczo3c-Yryq2iucnAZqtgER",
+        "image": "https://drive.google.com/thumbnail?id=1UqedA4ATCuczo3c-Yryq2iucnAZqtgER&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4435,7 +4435,7 @@ const driveData = [
         "name": "Front",
         "category": "methi_namak_para",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1SZCpm1MKj4QFLW9nWRQty9PNmAe7G9SS",
+        "image": "https://drive.google.com/thumbnail?id=1SZCpm1MKj4QFLW9nWRQty9PNmAe7G9SS&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4445,7 +4445,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "methi_namak_para",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1x2Dh0hIFWi9Kur3905XrxH-aEcGnRFGc",
+        "image": "https://drive.google.com/thumbnail?id=1x2Dh0hIFWi9Kur3905XrxH-aEcGnRFGc&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4455,7 +4455,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "methi_namak_para",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1aZFjY_VwBHAJdgT9vrufiFeaR3Yx54ln",
+        "image": "https://drive.google.com/thumbnail?id=1aZFjY_VwBHAJdgT9vrufiFeaR3Yx54ln&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4465,7 +4465,7 @@ const driveData = [
         "name": "Top",
         "category": "methi_namak_para",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Orh_1bajD2BuOjlR8g00LcIu6A5R0Lgw",
+        "image": "https://drive.google.com/thumbnail?id=1Orh_1bajD2BuOjlR8g00LcIu6A5R0Lgw&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4475,7 +4475,7 @@ const driveData = [
         "name": "Front",
         "category": "namak_para",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1LBNrjC-D8MZhrFr9LGZwl0hilLuyuI01",
+        "image": "https://drive.google.com/thumbnail?id=1LBNrjC-D8MZhrFr9LGZwl0hilLuyuI01&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4485,7 +4485,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "namak_para",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1wXN9s7BvwEy2QRr0jpI5m1yaWWTnDBxv",
+        "image": "https://drive.google.com/thumbnail?id=1wXN9s7BvwEy2QRr0jpI5m1yaWWTnDBxv&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4495,7 +4495,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "namak_para",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Kzg5Hfl3U7-GvKxC0KNWI8BPTQrjfAb5",
+        "image": "https://drive.google.com/thumbnail?id=1Kzg5Hfl3U7-GvKxC0KNWI8BPTQrjfAb5&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4505,7 +4505,7 @@ const driveData = [
         "name": "Top",
         "category": "namak_para",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1_uqgUJ3Sn9LrtRZdQIsroMpVS1LWr6Yw",
+        "image": "https://drive.google.com/thumbnail?id=1_uqgUJ3Sn9LrtRZdQIsroMpVS1LWr6Yw&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4515,7 +4515,7 @@ const driveData = [
         "name": "3D",
         "category": "namak_para_1.5lbs",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1LLB_XnT58S4mwuScLiMWYn9fregASqS_",
+        "image": "https://drive.google.com/thumbnail?id=1LLB_XnT58S4mwuScLiMWYn9fregASqS_&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4525,7 +4525,7 @@ const driveData = [
         "name": "Front",
         "category": "namak_para_1.5lbs",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1zG5mY0rPUlWrKT5og0I-KJoPCwEB7nFD",
+        "image": "https://drive.google.com/thumbnail?id=1zG5mY0rPUlWrKT5og0I-KJoPCwEB7nFD&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4535,7 +4535,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "namak_para_1.5lbs",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=18EIcKVBavGUeYjCNJikIWhLG62ZyMksy",
+        "image": "https://drive.google.com/thumbnail?id=18EIcKVBavGUeYjCNJikIWhLG62ZyMksy&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4545,7 +4545,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "namak_para_1.5lbs",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1iyjq0B_7otM2eWo0e4qmUxZ_moRoFcT_",
+        "image": "https://drive.google.com/thumbnail?id=1iyjq0B_7otM2eWo0e4qmUxZ_moRoFcT_&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4555,7 +4555,7 @@ const driveData = [
         "name": "Top",
         "category": "namak_para_1.5lbs",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1GOLAUl26CWJ1gG0zCZSowJildSagsrcj",
+        "image": "https://drive.google.com/thumbnail?id=1GOLAUl26CWJ1gG0zCZSowJildSagsrcj&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4565,7 +4565,7 @@ const driveData = [
         "name": "Front",
         "category": "spicy_para",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1IdLF4at_h-YKNEGSFsd7ePW5MpYepkF4",
+        "image": "https://drive.google.com/thumbnail?id=1IdLF4at_h-YKNEGSFsd7ePW5MpYepkF4&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4575,7 +4575,7 @@ const driveData = [
         "name": "Ingredients",
         "category": "spicy_para",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1c-j1MDAG6fKVG8jPSJAuUE0Xzu2zgxRv",
+        "image": "https://drive.google.com/thumbnail?id=1c-j1MDAG6fKVG8jPSJAuUE0Xzu2zgxRv&sz=w1000",
         "description": "Fresh Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4585,7 +4585,7 @@ const driveData = [
         "name": "Nutrition Facts",
         "category": "spicy_para",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1z0KAA-wB51UNzs0V-wkvcXu2pzfbFFYd",
+        "image": "https://drive.google.com/thumbnail?id=1z0KAA-wB51UNzs0V-wkvcXu2pzfbFFYd&sz=w1000",
         "description": "Fresh Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4595,7 +4595,7 @@ const driveData = [
         "name": "Top",
         "category": "spicy_para",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1koX41lUk-39DYr4efeGxlzgNq4abG64T",
+        "image": "https://drive.google.com/thumbnail?id=1koX41lUk-39DYr4efeGxlzgNq4abG64T&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4605,7 +4605,7 @@ const driveData = [
         "name": "3D",
         "category": "sooji_milk\uf022tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=150AZnejEYk5uN7Xl2HjapFGpXJNtqo4s",
+        "image": "https://drive.google.com/thumbnail?id=150AZnejEYk5uN7Xl2HjapFGpXJNtqo4s&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4615,7 +4615,7 @@ const driveData = [
         "name": "Front",
         "category": "sooji_milk\uf022tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1nCnf3splExwgCjJRUJ9mJEAQn0oX1wj_",
+        "image": "https://drive.google.com/thumbnail?id=1nCnf3splExwgCjJRUJ9mJEAQn0oX1wj_&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4625,7 +4625,7 @@ const driveData = [
         "name": "Rusk 3 Piece",
         "category": "sooji_milk\uf022tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1bJ5-XUBLtKTVmYD5j5kwjmBaFRHpWijH",
+        "image": "https://drive.google.com/thumbnail?id=1bJ5-XUBLtKTVmYD5j5kwjmBaFRHpWijH&sz=w1000",
         "description": "Fresh Rusk 3 Piece from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4635,7 +4635,7 @@ const driveData = [
         "name": "Single Piece",
         "category": "sooji_milk\uf022tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1WnOVkIzg3xniCkq5PWnWVPqkUy_bw83x",
+        "image": "https://drive.google.com/thumbnail?id=1WnOVkIzg3xniCkq5PWnWVPqkUy_bw83x&sz=w1000",
         "description": "Fresh Single Piece from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4645,7 +4645,7 @@ const driveData = [
         "name": "Sooji Milk Tea Rusk Ingredients",
         "category": "sooji_milk\uf022tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=19jLzziSja9ontKT01rTm13BpRYUSKWa8",
+        "image": "https://drive.google.com/thumbnail?id=19jLzziSja9ontKT01rTm13BpRYUSKWa8&sz=w1000",
         "description": "Fresh Sooji Milk Tea Rusk Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4655,7 +4655,7 @@ const driveData = [
         "name": "Sooji Milk Tea Rusk Nutrition Facts",
         "category": "sooji_milk\uf022tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1SGJHgcfSu20okD7cUcI1AeNMwvrOPDUn",
+        "image": "https://drive.google.com/thumbnail?id=1SGJHgcfSu20okD7cUcI1AeNMwvrOPDUn&sz=w1000",
         "description": "Fresh Sooji Milk Tea Rusk Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4665,7 +4665,7 @@ const driveData = [
         "name": "Top",
         "category": "sooji_milk\uf022tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1WUClxxULxHESidkip--epMUKL269sDP6",
+        "image": "https://drive.google.com/thumbnail?id=1WUClxxULxHESidkip--epMUKL269sDP6&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4675,7 +4675,7 @@ const driveData = [
         "name": "3D",
         "category": "tasty_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1aK1kXXJ_VjTnfwTGvAa1mpkbSAyiu-xZ",
+        "image": "https://drive.google.com/thumbnail?id=1aK1kXXJ_VjTnfwTGvAa1mpkbSAyiu-xZ&sz=w1000",
         "description": "Fresh 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4685,7 +4685,7 @@ const driveData = [
         "name": "Front",
         "category": "tasty_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=179iCRknRcj9m5KkCxx1cjGnXN7kFk8yl",
+        "image": "https://drive.google.com/thumbnail?id=179iCRknRcj9m5KkCxx1cjGnXN7kFk8yl&sz=w1000",
         "description": "Fresh Front from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4695,7 +4695,7 @@ const driveData = [
         "name": "Rusk 3 Piece",
         "category": "tasty_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1tSVjzJqdsixkKrMQmIJ2C2A3gBgejnjb",
+        "image": "https://drive.google.com/thumbnail?id=1tSVjzJqdsixkKrMQmIJ2C2A3gBgejnjb&sz=w1000",
         "description": "Fresh Rusk 3 Piece from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4705,7 +4705,7 @@ const driveData = [
         "name": "Single Piece",
         "category": "tasty_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1pVqwhT1cq2A2arNCyHdM-pp8AI3F98Hl",
+        "image": "https://drive.google.com/thumbnail?id=1pVqwhT1cq2A2arNCyHdM-pp8AI3F98Hl&sz=w1000",
         "description": "Fresh Single Piece from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4715,7 +4715,7 @@ const driveData = [
         "name": "Tasty Tea Rusk Ingredients",
         "category": "tasty_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1oo7oNTtC8ovotAPEw76cPqVBsnk_0ebG",
+        "image": "https://drive.google.com/thumbnail?id=1oo7oNTtC8ovotAPEw76cPqVBsnk_0ebG&sz=w1000",
         "description": "Fresh Tasty Tea Rusk Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4725,7 +4725,7 @@ const driveData = [
         "name": "Tasty Tea Rusk Nutrition Facts",
         "category": "tasty_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=12ub7dwqEU_j7_iYZ7Bi1wINvJcuae6Kl",
+        "image": "https://drive.google.com/thumbnail?id=12ub7dwqEU_j7_iYZ7Bi1wINvJcuae6Kl&sz=w1000",
         "description": "Fresh Tasty Tea Rusk Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4735,7 +4735,7 @@ const driveData = [
         "name": "Top",
         "category": "tasty_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1_eMXa-uW3rhgSI3h6tFUc5h0eQUua9PI",
+        "image": "https://drive.google.com/thumbnail?id=1_eMXa-uW3rhgSI3h6tFUc5h0eQUua9PI&sz=w1000",
         "description": "Fresh Top from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4745,7 +4745,7 @@ const driveData = [
         "name": "Rusk 3 Piece",
         "category": "sooji_milk_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=10UoRVwGsHSaZx0K27hK0royviCt-qm9v",
+        "image": "https://drive.google.com/thumbnail?id=10UoRVwGsHSaZx0K27hK0royviCt-qm9v&sz=w1000",
         "description": "Fresh Rusk 3 Piece from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4755,7 +4755,7 @@ const driveData = [
         "name": "Single Piece",
         "category": "sooji_milk_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1CZ_i3ss50Oa7K3kcvixaN1jgF7DG2xvr",
+        "image": "https://drive.google.com/thumbnail?id=1CZ_i3ss50Oa7K3kcvixaN1jgF7DG2xvr&sz=w1000",
         "description": "Fresh Single Piece from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4765,7 +4765,7 @@ const driveData = [
         "name": "Sooji Milk Tea Rusk",
         "category": "sooji_milk_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1t28DCK-3sp2PORgNDLTHgcUE9MZn6oPp",
+        "image": "https://drive.google.com/thumbnail?id=1t28DCK-3sp2PORgNDLTHgcUE9MZn6oPp&sz=w1000",
         "description": "Fresh Sooji Milk Tea Rusk from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4775,7 +4775,7 @@ const driveData = [
         "name": "Sooji Milk Tea Rusk Ingredients",
         "category": "sooji_milk_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1iHUEiNbpbvunqDQxKUog3vNpgiFgm1ik",
+        "image": "https://drive.google.com/thumbnail?id=1iHUEiNbpbvunqDQxKUog3vNpgiFgm1ik&sz=w1000",
         "description": "Fresh Sooji Milk Tea Rusk Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4785,7 +4785,7 @@ const driveData = [
         "name": "Sooji Milk Tea Rusk Nutrition Facts",
         "category": "sooji_milk_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1EC1oQ9KXEkxytT_KoK_h7pnsk1M7RCqq",
+        "image": "https://drive.google.com/thumbnail?id=1EC1oQ9KXEkxytT_KoK_h7pnsk1M7RCqq&sz=w1000",
         "description": "Fresh Sooji Milk Tea Rusk Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4795,7 +4795,7 @@ const driveData = [
         "name": "Sooji Milk Tea Rusk",
         "category": "sooji_milk_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1f3GPKrta3aeQ39f75WoZVkw06qgCD8cY",
+        "image": "https://drive.google.com/thumbnail?id=1f3GPKrta3aeQ39f75WoZVkw06qgCD8cY&sz=w1000",
         "description": "Fresh Sooji Milk Tea Rusk from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4805,7 +4805,7 @@ const driveData = [
         "name": "Rusk 3 Piece",
         "category": "tasty_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1TNOs5y33Woq_Sf2OjnYovZqZyWNsCaru",
+        "image": "https://drive.google.com/thumbnail?id=1TNOs5y33Woq_Sf2OjnYovZqZyWNsCaru&sz=w1000",
         "description": "Fresh Rusk 3 Piece from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4815,7 +4815,7 @@ const driveData = [
         "name": "Single Piece",
         "category": "tasty_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=12s8_b3Abkwq1QycZqcc2smUCo0gyjQwY",
+        "image": "https://drive.google.com/thumbnail?id=12s8_b3Abkwq1QycZqcc2smUCo0gyjQwY&sz=w1000",
         "description": "Fresh Single Piece from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4825,7 +4825,7 @@ const driveData = [
         "name": "Tasty Tea Rusk 3D",
         "category": "tasty_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1Vk00Pzq12_Y-6wGKot3QfpcIDxbIAbLB",
+        "image": "https://drive.google.com/thumbnail?id=1Vk00Pzq12_Y-6wGKot3QfpcIDxbIAbLB&sz=w1000",
         "description": "Fresh Tasty Tea Rusk 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4835,7 +4835,7 @@ const driveData = [
         "name": "Tasty Tea Rusk",
         "category": "tasty_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1EbXDCrksN6DyZO2n1gG0yvAUJAmm9dEY",
+        "image": "https://drive.google.com/thumbnail?id=1EbXDCrksN6DyZO2n1gG0yvAUJAmm9dEY&sz=w1000",
         "description": "Fresh Tasty Tea Rusk from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4845,7 +4845,7 @@ const driveData = [
         "name": "Tasty Tea Rusk Ingredients",
         "category": "tasty_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1rcqUifV3LQPj9AZjqGtgpVPdTfxIsewQ",
+        "image": "https://drive.google.com/thumbnail?id=1rcqUifV3LQPj9AZjqGtgpVPdTfxIsewQ&sz=w1000",
         "description": "Fresh Tasty Tea Rusk Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4855,7 +4855,7 @@ const driveData = [
         "name": "Tasty Tea Rusk Nutrition Facts",
         "category": "tasty_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1JTskYEFlXEpF6ol-4dxg6NoA0cOeoOjq",
+        "image": "https://drive.google.com/thumbnail?id=1JTskYEFlXEpF6ol-4dxg6NoA0cOeoOjq&sz=w1000",
         "description": "Fresh Tasty Tea Rusk Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4865,7 +4865,7 @@ const driveData = [
         "name": "Tasty Tea Rusk",
         "category": "tasty_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=13K628lLR__X5gTHpuW8-pPoa1KOvB8qX",
+        "image": "https://drive.google.com/thumbnail?id=13K628lLR__X5gTHpuW8-pPoa1KOvB8qX&sz=w1000",
         "description": "Fresh Tasty Tea Rusk from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4875,7 +4875,7 @@ const driveData = [
         "name": "Rusk 3 Piece",
         "category": "whole_wheat_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1FxLX4BetN9QdTxH48RLJH_PN7E-uSXly",
+        "image": "https://drive.google.com/thumbnail?id=1FxLX4BetN9QdTxH48RLJH_PN7E-uSXly&sz=w1000",
         "description": "Fresh Rusk 3 Piece from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4885,7 +4885,7 @@ const driveData = [
         "name": "Single Piece",
         "category": "whole_wheat_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=18tKdZPxyyKo4ONxYHZahHsGoE6FfnAuQ",
+        "image": "https://drive.google.com/thumbnail?id=18tKdZPxyyKo4ONxYHZahHsGoE6FfnAuQ&sz=w1000",
         "description": "Fresh Single Piece from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4895,7 +4895,7 @@ const driveData = [
         "name": "Whole Wheat Tea Rusk 3D",
         "category": "whole_wheat_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1CfgINxdhv1TsIrQsWthC9o9QynW1QqP2",
+        "image": "https://drive.google.com/thumbnail?id=1CfgINxdhv1TsIrQsWthC9o9QynW1QqP2&sz=w1000",
         "description": "Fresh Whole Wheat Tea Rusk 3D from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4905,7 +4905,7 @@ const driveData = [
         "name": "Whole Wheat Tea Rusk",
         "category": "whole_wheat_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1LpXKB0L5Dx6UCY92WQwdG2yElFiAxr4x",
+        "image": "https://drive.google.com/thumbnail?id=1LpXKB0L5Dx6UCY92WQwdG2yElFiAxr4x&sz=w1000",
         "description": "Fresh Whole Wheat Tea Rusk from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4915,7 +4915,7 @@ const driveData = [
         "name": "Whole Wheat Tea Rusk Ingredients",
         "category": "whole_wheat_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1ytfWNEzeNMQ4Eyu8oOqpF7I0q4hSs0Fm",
+        "image": "https://drive.google.com/thumbnail?id=1ytfWNEzeNMQ4Eyu8oOqpF7I0q4hSs0Fm&sz=w1000",
         "description": "Fresh Whole Wheat Tea Rusk Ingredients from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4925,7 +4925,7 @@ const driveData = [
         "name": "Whole Wheat Tea Rusk Nutrition Facts",
         "category": "whole_wheat_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=1wxVAD3ZrynF90yV8wYLDspHHR-LuiTmD",
+        "image": "https://drive.google.com/thumbnail?id=1wxVAD3ZrynF90yV8wYLDspHHR-LuiTmD&sz=w1000",
         "description": "Fresh Whole Wheat Tea Rusk Nutrition Facts from our bakery.",
         "rating": 4.5,
         "reviews": 10
@@ -4935,7 +4935,7 @@ const driveData = [
         "name": "Whole Wheat Tea Rusk",
         "category": "whole_wheat_tea_rusk",
         "price": 0,
-        "image": "https://drive.google.com/uc?id=112M62ArjqHuCwrL5oDqH91DXM6Zi6BiE",
+        "image": "https://drive.google.com/thumbnail?id=112M62ArjqHuCwrL5oDqH91DXM6Zi6BiE&sz=w1000",
         "description": "Fresh Whole Wheat Tea Rusk from our bakery.",
         "rating": 4.5,
         "reviews": 10
