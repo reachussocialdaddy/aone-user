@@ -196,3 +196,58 @@
     font-size: 14px;
 }
 
+
+@media (max-width: 768px) {
+    .about-content {
+        padding: 60px 0;
+    }
+
+    .about-story {
+        grid-template-columns: 1fr;
+        gap: 40px;
+        margin-bottom: 60px;
+        text-align: center;
+    }
+
+    .about-img {
+        max-width: 400px;
+        margin: 0 auto;
+    }
+
+    .experience-badge {
+        width: 100px;
+        height: 100px;
+        bottom: -10px;
+        right: -10px;
+    }
+
+    .experience-badge span {
+        font-size: 28px;
+    }
+
+    .about-text h2 {
+        font-size: 28px;
+    }
+
+    .about-features {
+        align-items: center;
+    }
+
+    .about-feature {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .team-section, .locations-section {
+        padding: 60px 0;
+    }
+
+    .team-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .locations-grid {
+        grid-template-columns: 1fr;
+    }
+}

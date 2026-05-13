@@ -1678,30 +1678,35 @@ img {
     }
 
     .menu-hero-stats {
-        gap: 24px;
+        gap: 15px;
+        flex-wrap: wrap;
+        justify-content: center;
     }
 
     .category-tabs {
-        gap: 8px;
+        overflow-x: auto;
+        white-space: nowrap;
+        padding-bottom: 10px;
+        -webkit-overflow-scrolling: touch;
+        justify-content: flex-start;
+        gap: 12px;
     }
 
     .cat-tab {
-        padding: 10px 16px;
-        font-size: 13px;
-    }
-
-    .cat-emoji {
-        font-size: 16px;
+        flex: 0 0 auto;
+        padding: 12px 20px;
     }
 
     .menu-toolbar {
         flex-direction: column;
-        align-items: flex-start;
+        gap: 20px;
+        align-items: center;
+        text-align: center;
     }
 
     .products-grid {
         grid-template-columns: repeat(2, 1fr);
-        gap: 16px;
+        gap: 15px;
     }
 
     .product-img {
@@ -1709,45 +1714,41 @@ img {
     }
 
     .product-info {
-        padding: 16px;
+        padding: 15px;
     }
 
     .product-info h3 {
-        font-size: 15px;
+        font-size: 14px;
+        margin-bottom: 5px;
     }
 
     .product-price {
-        font-size: 18px;
+        font-size: 16px;
     }
 
     .add-to-cart {
-        padding: 8px 16px;
+        width: 100%;
+        margin-top: 10px;
+        padding: 10px;
         font-size: 12px;
     }
 
     .featured-banner-content {
-        padding: 40px 24px;
-    }
-
-    .newsletter-box {
-        padding: 40px 24px;
-    }
-
-    .newsletter-form {
-        flex-direction: column;
+        padding: 40px 20px;
     }
 
     .footer-grid {
         grid-template-columns: 1fr;
-        gap: 32px;
+        gap: 40px;
+        text-align: center;
+    }
+
+    .footer-col a, .footer-col li {
+        justify-content: center;
     }
 
     .cart-sidebar {
         width: 100%;
-    }
-
-    .modal-info {
-        padding: 28px;
     }
 }
 
@@ -1756,12 +1757,13 @@ img {
         grid-template-columns: 1fr;
     }
 
-    .menu-controls {
-        width: 100%;
+    .menu-hero h1 {
+        font-size: 28px;
     }
 
-    .price-filter-inline {
-        flex: 1;
+    .cat-tab {
+        padding: 10px 15px;
+        font-size: 12px;
     }
 }
 

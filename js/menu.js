@@ -220,8 +220,164 @@ const products = [
         badgeType: null,
         rating: 4.7,
         reviews: 145
+    },
+    // GOOGLE DRIVE PRODUCTS
+    {
+        id: 101,
+        name: "Bread Pakora",
+        category: "snacks",
+        price: 0,
+        image: "https://drive.google.com/uc?id=16yPatZpmVqi6At2b6_aEloU6_pKSiGKG",
+        description: "Freshly made bread pakora, a perfect savory snack.",
+        rating: 4.8,
+        reviews: 120
+    },
+    {
+        id: 102,
+        name: "Mix Pakora",
+        category: "snacks",
+        price: 0,
+        image: "https://drive.google.com/uc?id=1aSY0xtxtYYEZrxXdSFngvvnSzf69KUNh",
+        description: "Delicious mixed vegetable pakoras, crispy and flavorful.",
+        rating: 4.7,
+        reviews: 95
+    },
+    {
+        id: 103,
+        name: "Onion Rings",
+        category: "snacks",
+        price: 0,
+        image: "https://drive.google.com/uc?id=19GPEvlp1agKQW34MDEuVku7dZ9LRN7sA",
+        description: "Crispy fried onion rings, a classic favorite.",
+        rating: 4.6,
+        reviews: 80
+    },
+    {
+        id: 104,
+        name: "Paneer Pakora",
+        category: "snacks",
+        price: 0,
+        image: "https://drive.google.com/uc?id=1fNhdQd65J69_aNKN0OV1MT9tPmFOZyo2",
+        description: "Traditional paneer pakoras with a spiced chickpea batter.",
+        rating: 4.9,
+        reviews: 150
+    },
+    {
+        id: 105,
+        name: "Samosa",
+        category: "snacks",
+        price: 0,
+        image: "https://drive.google.com/uc?id=13bI2QBquW9O7gOZAnL6OA-RI4a4OrrCd",
+        description: "Authentic handmade samosas filled with spiced potatoes and peas.",
+        rating: 5.0,
+        reviews: 300
+    },
+    {
+        id: 106,
+        name: "Spring Roll",
+        category: "snacks",
+        price: 0,
+        image: "https://drive.google.com/uc?id=1mec0OFYsoLi-mW2xHVU_RKPE6oRRCt46",
+        description: "Crispy vegetable spring rolls, served with dipping sauce.",
+        rating: 4.7,
+        reviews: 110
+    },
+    {
+        id: 107,
+        name: "Tikki",
+        category: "snacks",
+        price: 0,
+        image: "https://drive.google.com/uc?id=17mVtAyB9-1TJlJIHOLLe_3Rg9XpoMl80",
+        description: "Crispy potato tikki, perfectly seasoned and fried.",
+        rating: 4.8,
+        reviews: 140
+    },
+    {
+        id: 108,
+        name: "Veg Pakora",
+        category: "snacks",
+        price: 0,
+        image: "https://drive.google.com/uc?id=1mcRpZbcOxQVqWndpKT1In6Vy2WN1AY8w",
+        description: "Assorted vegetable pakoras, a great party snack.",
+        rating: 4.6,
+        reviews: 85
+    },
+    {
+        id: 201,
+        name: "Round Biscuits",
+        category: "biscuits",
+        price: 0,
+        image: "https://drive.google.com/uc?id=1rKUQjZoI1qzfgmKLdoZdlypFC1fKhSkD",
+        description: "Assorted round biscuits, perfect for tea time.",
+        rating: 4.7,
+        reviews: 60
+    },
+    {
+        id: 202,
+        name: "Rectangular Biscuits",
+        category: "biscuits",
+        price: 0,
+        image: "https://drive.google.com/uc?id=1ehIVkS_NAJPT-LRjeAkIPIQQnKeB6ATX",
+        description: "Classic rectangular biscuits with a buttery crunch.",
+        rating: 4.5,
+        reviews: 45
+    },
+    {
+        id: 203,
+        name: "Rusk (Tasty Tea Rusk)",
+        category: "biscuits",
+        price: 0,
+        image: "https://drive.google.com/uc?id=11Kokp-bdU00LZKMzFG40xpb4uLzXdE6H",
+        description: "Crunchy tea rusk, the perfect companion for your morning chai.",
+        rating: 4.8,
+        reviews: 75
+    },
+    {
+        id: 301,
+        name: "Regular Celebration Cake",
+        category: "cake",
+        price: 0,
+        image: "https://drive.google.com/uc?id=1knbzoX0QNbq3vp_34nqrgZVzbKnk44xP",
+        description: "Freshly baked regular cake for all your celebrations.",
+        rating: 4.9,
+        reviews: 200
+    },
+    {
+        id: 302,
+        name: "Single Tier Custom Cake",
+        category: "cake",
+        price: 0,
+        image: "https://drive.google.com/uc?id=1aThYCLwe6lsVDYkw6ho8gIi9jqNw_wv6",
+        description: "Elegant single tier cake, customizable for your needs.",
+        rating: 5.0,
+        reviews: 150
+    },
+    {
+        id: 303,
+        name: "2 Tier Wedding Cake",
+        category: "cake",
+        price: 0,
+        image: "https://drive.google.com/uc?id=18tnlpmeGsY3GRAu5W95uSZnEfYVIBEsn",
+        description: "Beautiful 2 tier cake, perfect for weddings and anniversaries.",
+        rating: 5.0,
+        reviews: 85
+    },
+    {
+        id: 305,
+        name: "Gourmet Cupcakes",
+        category: "cake",
+        price: 0,
+        image: "https://drive.google.com/uc?id=17w-_-JAWdl8KVDb6gisLmfz_wVByNhIv",
+        description: "Assorted gourmet cupcakes, baked fresh daily.",
+        rating: 4.8,
+        reviews: 180
     }
 ];
+
+// Add Drive Products if they exist
+if (typeof allDriveProducts !== 'undefined') {
+    products.push(...allDriveProducts);
+}
 
 // Cart State
 let cart = JSON.parse(localStorage.getItem('a1_cart')) || [];
@@ -293,12 +449,14 @@ function createProductCard(product, index) {
                        product.badgeType === 'popular' ? 'badge-popular' : '';
     
     const categoryEmojis = {
-        bread: '🥖',
-        pastry: '🥐',
-        cake: '🍰',
-        cookie: '🍪',
-        donut: '🍩',
-        pie: '🥧'
+        bread: '🥖', pastry: '🥐', cake: '🍰', cookie: '🍪', donut: '🍩', pie: '🥧',
+        snacks: '🥟', biscuits: '🍪', pani_puri: '🥙', cakes: '🎂',
+        single_tier: '🎂', "2_tier": '🎂', "3_tier": '🎂', "4_tier": '🎂', "5_tier": '🎂',
+        cup_cakes: '🧁', round_biscuits: '🍪', rectangular_biscuits: '🍪',
+        cake_slice: '🍰', cream_rolls: '🥐', cup_cake_clamshell: '🧁',
+        kids: '🎈', pastries_in_clamshell: '🍰', pudding_cups: '🍮',
+        biscuits_2.5lbs: '🍪', biscuits_340gms: '🍪', biscuits_5lbs: '🍪', biscuits_700g: '🍪',
+        regular_cakes: '🎂', sooji_milk_rusk: '🥖', tasty_tea_rusk: '🥖', whole_wheat_tea_rusk: '🥖'
     };
 
     return `
@@ -414,8 +572,14 @@ function quickView(productId) {
     if (!product) return;
 
     const categoryEmojis = {
-        bread: '🥖', pastry: '🥐', cake: '🍰',
-        cookie: '🍪', donut: '🍩', pie: '🥧'
+        bread: '🥖', pastry: '🥐', cake: '🍰', cookie: '🍪', donut: '🍩', pie: '🥧',
+        snacks: '🥟', biscuits: '🍪', pani_puri: '🥙', cakes: '🎂',
+        single_tier: '🎂', "2_tier": '🎂', "3_tier": '🎂', "4_tier": '🎂', "5_tier": '🎂',
+        cup_cakes: '🧁', round_biscuits: '🍪', rectangular_biscuits: '🍪',
+        cake_slice: '🍰', cream_rolls: '🥐', cup_cake_clamshell: '🧁',
+        kids: '🎈', pastries_in_clamshell: '🍰', pudding_cups: '🍮',
+        biscuits_2.5lbs: '🍪', biscuits_340gms: '🍪', biscuits_5lbs: '🍪', biscuits_700g: '🍪',
+        regular_cakes: '🎂', sooji_milk_rusk: '🥖', tasty_tea_rusk: '🥖', whole_wheat_tea_rusk: '🥖'
     };
 
     if (modalBody) {
