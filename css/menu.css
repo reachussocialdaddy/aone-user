@@ -1122,6 +1122,14 @@ img {
     margin-bottom: 10px;
 }
 
+.sub-category-label {
+    font-size: 11px;
+    opacity: 0.7;
+    text-transform: capitalize;
+    font-weight: 500;
+    margin-left: 4px;
+}
+
 .product-info h3 {
     font-size: 18px;
     margin-bottom: 8px;
@@ -1419,6 +1427,48 @@ img {
 .modal-img {
     height: 100%;
     min-height: 450px;
+    display: flex;
+    flex-direction: column;
+}
+
+.img-count {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    background: rgba(0, 0, 0, 0.6);
+    color: var(--white);
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight: 600;
+    z-index: 2;
+}
+
+.modal-thumbnails {
+    display: flex;
+    gap: 10px;
+    padding: 15px;
+    background: var(--light-gray);
+    overflow-x: auto;
+    border-radius: 0 0 0 var(--radius-lg);
+}
+
+.modal-thumbnails img {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 8px;
+    cursor: pointer;
+    border: 2px solid transparent;
+    transition: var(--transition);
+}
+
+.modal-thumbnails img:hover {
+    border-color: var(--primary-light);
+}
+
+.modal-thumbnails img.active {
+    border-color: var(--primary);
 }
 
 .modal-img img {

@@ -389,7 +389,8 @@ function initCounters() {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
                 const target = parseInt(entry.target.dataset.target);
-                animateCounter(entry.target, target);
+                const suffix = entry.target.textContent.replace(/[0-9]/g, '').trim();
+                animateCounter(entry.target, target, suffix);
                 observer.unobserve(entry.target);
             }
         });
@@ -398,16 +399,16 @@ function initCounters() {
     counters.forEach(counter => observer.observe(counter));
 }
 
-function animateCounter(element, target) {
+function animateCounter(element, target, suffix = '+') {
     let current = 0;
     const increment = target / 50;
     const timer = setInterval(() => {
         current += increment;
         if (current >= target) {
-            element.textContent = target + (target >= 100 ? '+' : 'M+');
+            element.textContent = target + suffix;
             clearInterval(timer);
         } else {
-            element.textContent = Math.floor(current);
+            element.textContent = Math.floor(current) + suffix;
         }
     }, 30);
 }
