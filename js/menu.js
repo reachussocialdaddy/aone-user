@@ -4,7 +4,7 @@
 
 // SUPABASE CONFIGURATION
 const supabaseUrl = 'https://zawspjereggsjcdfyqaa.supabase.co';
-const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdWJhc2UiLCJzZWIiOiJlZnl6Inphd3NwamVyZWdnczJjZGZ5cWFhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg3ODc1OTAsImV4cCI6MjA5NDM2MzU5MH0.dNvPVD3-LwDmmNKBy1hWcx-IXymMsJAjv-E2bLY6tDE';
+const supabaseKey = 'sb_publishable_acXhrX9ErLJDunYp91rODQ_8HpYi6kH';
 const _supabase = supabase.createClient(supabaseUrl, supabaseKey);
 
 // Global category mapping
@@ -154,8 +154,8 @@ function createProductCard(product, index) {
         <div class="product-card" data-id="${product.id}" style="animation-delay: ${index * 0.05}s">
             ${product.badge ? `<span class="product-badge ${badgeClass}">${product.badge}</span>` : ''}
             <div class="product-img">
-                <img src="${product.images[0]}" alt="${product.name}" loading="lazy">
-                ${product.images.length > 1 ? `<span class="img-count"><i class="fas fa-images"></i> ${product.images.length}</span>` : ''}
+                <img src="${(product.images && product.images.length > 0) ? product.images[0] : 'assets/placeholder.jpg'}" alt="${product.name}" loading="lazy">
+                ${(product.images && product.images.length > 1) ? `<span class="img-count"><i class="fas fa-images"></i> ${product.images.length}</span>` : ''}
                 <div class="product-actions">
                     <button class="product-action-btn" onclick="quickView(${product.id})" title="Quick View">
                         <i class="fas fa-eye"></i>
@@ -277,8 +277,8 @@ function quickView(productId) {
     if (modalBody) {
         modalBody.innerHTML = `
             <div class="modal-img">
-                <img id="mainModalImg" src="${product.images[0]}" alt="${product.name}">
-                ${product.images.length > 1 ? `
+                <img id="mainModalImg" src="${(product.images && product.images.length > 0) ? product.images[0] : 'assets/placeholder.jpg'}" alt="${product.name}">
+                ${(product.images && product.images.length > 1) ? `
                 <div class="modal-thumbnails">
                     ${product.images.map((img, i) => `
                         <img src="${img}" alt="${product.name} ${i+1}" onclick="document.getElementById('mainModalImg').src='${img}'" class="${i === 0 ? 'active' : ''}">

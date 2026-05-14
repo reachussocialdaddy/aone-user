@@ -268,7 +268,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 li.classList.toggle('active', li.dataset.filter === filterParam);
             });
         }
-        renderMenuProducts(filterParam || 'all');
+        // Only render if menu.js isn't handling it via Supabase
+        if (typeof loadProducts === 'undefined') {
+            renderMenuProducts(filterParam || 'all');
+        }
         initScrollEffects();
     } else {
         initScrollEffects();
