@@ -9,7 +9,7 @@ products = [];
 // ========================================
 // DRIVE PRODUCTS DATA (Inlined for reliability)
 // ========================================
-const driveData = const driveData = const driveData = const driveData = [
+const driveData = [
     {
         "id": 1000,
         "name": "Bread Pakora",
@@ -156,13 +156,13 @@ const driveData = const driveData = const driveData = const driveData = [
     },
     {
         "id": 1020,
-        "name": "Mr&amp;Mrs",
+        "name": "Mr&Mrs",
         "category": "3_tier",
         "price": 0,
         "images": [
             "https://drive.google.com/thumbnail?id=1pqSOKhaOeSyozsNWotUCoTOEs4aJWn3L&sz=w1000"
         ],
-        "description": "Fresh Mr&amp;Mrs from our bakery.",
+        "description": "Fresh Mr&Mrs from our bakery.",
         "rating": 4.5,
         "reviews": 10
     },
@@ -1176,7 +1176,8 @@ const driveData = const driveData = const driveData = const driveData = [
         "category": "kalounji",
         "price": 0,
         "images": [
-            "https://drive.google.com/thumbnail?id=1vJNWLCkMelRNkk_focUPMeAdAmS8ft2A&sz=w1000"
+            "https://drive.google.com/thumbnail?id=1vJNWLCkMelRNkk_focUPMeAdAmS8ft2A&sz=w1000",
+            "https://drive.google.com/thumbnail?id=1ASQlnWCMs7ZwxnFQxE1Naxq9GtkHWNz9&sz=w1000"
         ],
         "description": "Fresh Kalounji from our bakery.",
         "rating": 4.5,
@@ -1226,22 +1227,11 @@ const driveData = const driveData = const driveData = const driveData = [
         "images": [
             "https://drive.google.com/thumbnail?id=1fwnYRsrGe9L7cU5eirDimuVsI5QWkDYY&sz=w1000",
             "https://drive.google.com/thumbnail?id=10_Ror1c9RkMuySIamiKOPAvafCtvqB2r&sz=w1000",
-            "https://drive.google.com/thumbnail?id=1ynxy81AHGBPtFynW-AzQHEnERGYjDTSF&sz=w1000"
-        ],
-        "description": "Fresh Vegetarian Punjabi from our bakery.",
-        "rating": 4.5,
-        "reviews": 10
-    },
-    {
-        "id": 1224,
-        "name": "Fact",
-        "category": "vegetarian_punjabi",
-        "price": 0,
-        "images": [
+            "https://drive.google.com/thumbnail?id=1ynxy81AHGBPtFynW-AzQHEnERGYjDTSF&sz=w1000",
             "https://drive.google.com/thumbnail?id=1lXifrRtOGHNsvHjsUbvm57x25W2HrZLM&sz=w1000",
             "https://drive.google.com/thumbnail?id=1tpgcNdRT1OvXjukuOgSS0Nq2YPrfMEK3&sz=w1000"
         ],
-        "description": "Fresh Fact from our bakery.",
+        "description": "Fresh Vegetarian Punjabi from our bakery.",
         "rating": 4.5,
         "reviews": 10
     },
@@ -1403,18 +1393,6 @@ const driveData = const driveData = const driveData = const driveData = [
         "reviews": 10
     },
     {
-        "id": 1374,
-        "name": "Nurtition",
-        "category": "kalounji",
-        "price": 0,
-        "images": [
-            "https://drive.google.com/thumbnail?id=1ASQlnWCMs7ZwxnFQxE1Naxq9GtkHWNz9&sz=w1000"
-        ],
-        "description": "Fresh Nurtition from our bakery.",
-        "rating": 4.5,
-        "reviews": 10
-    },
-    {
         "id": 1438,
         "name": "Kalounji Namak Para",
         "category": "kalounji_namak_para",
@@ -1476,56 +1454,34 @@ const driveData = const driveData = const driveData = const driveData = [
     },
     {
         "id": 1459,
-        "name": "Sooji Milk\uf022Tea Rusk",
+        "name": "Sooji Milk Tea Rusk",
         "category": "sooji_milk\uf022tea_rusk",
         "price": 0,
         "images": [
-            "https://drive.google.com/thumbnail?id=150AZnejEYk5uN7Xl2HjapFGpXJNtqo4s&sz=w1000"
+            "https://drive.google.com/thumbnail?id=150AZnejEYk5uN7Xl2HjapFGpXJNtqo4s&sz=w1000",
+            "https://drive.google.com/thumbnail?id=19jLzziSja9ontKT01rTm13BpRYUSKWa8&sz=w1000",
+            "https://drive.google.com/thumbnail?id=1t28DCK-3sp2PORgNDLTHgcUE9MZn6oPp&sz=w1000"
         ],
-        "description": "Fresh Sooji Milk\uf022Tea Rusk from our bakery.",
+        "description": "Fresh Sooji Milk Tea Rusk from our bakery.",
         "rating": 4.5,
         "reviews": 10
     },
     {
         "id": 1461,
-        "name": "Rusk 3 Piece",
+        "name": "Sooji Milk\uf022Tea Rusk",
         "category": "sooji_milk\uf022tea_rusk",
         "price": 0,
         "images": [
             "https://drive.google.com/thumbnail?id=1bJ5-XUBLtKTVmYD5j5kwjmBaFRHpWijH&sz=w1000",
             "https://drive.google.com/thumbnail?id=1tSVjzJqdsixkKrMQmIJ2C2A3gBgejnjb&sz=w1000",
             "https://drive.google.com/thumbnail?id=10UoRVwGsHSaZx0K27hK0royviCt-qm9v&sz=w1000",
-            "https://drive.google.com/thumbnail?id=1FxLX4BetN9QdTxH48RLJH_PN7E-uSXly&sz=w1000"
-        ],
-        "description": "Fresh Rusk 3 Piece from our bakery.",
-        "rating": 4.5,
-        "reviews": 10
-    },
-    {
-        "id": 1462,
-        "name": "Piece",
-        "category": "sooji_milk\uf022tea_rusk",
-        "price": 0,
-        "images": [
+            "https://drive.google.com/thumbnail?id=1FxLX4BetN9QdTxH48RLJH_PN7E-uSXly&sz=w1000",
             "https://drive.google.com/thumbnail?id=1WnOVkIzg3xniCkq5PWnWVPqkUy_bw83x&sz=w1000",
             "https://drive.google.com/thumbnail?id=1pVqwhT1cq2A2arNCyHdM-pp8AI3F98Hl&sz=w1000",
             "https://drive.google.com/thumbnail?id=1CZ_i3ss50Oa7K3kcvixaN1jgF7DG2xvr&sz=w1000",
             "https://drive.google.com/thumbnail?id=18tKdZPxyyKo4ONxYHZahHsGoE6FfnAuQ&sz=w1000"
         ],
-        "description": "Fresh Piece from our bakery.",
-        "rating": 4.5,
-        "reviews": 10
-    },
-    {
-        "id": 1463,
-        "name": "Sooji Milk Tea Rusk",
-        "category": "sooji_milk\uf022tea_rusk",
-        "price": 0,
-        "images": [
-            "https://drive.google.com/thumbnail?id=19jLzziSja9ontKT01rTm13BpRYUSKWa8&sz=w1000",
-            "https://drive.google.com/thumbnail?id=1t28DCK-3sp2PORgNDLTHgcUE9MZn6oPp&sz=w1000"
-        ],
-        "description": "Fresh Sooji Milk Tea Rusk from our bakery.",
+        "description": "Fresh Sooji Milk\uf022Tea Rusk from our bakery.",
         "rating": 4.5,
         "reviews": 10
     },
