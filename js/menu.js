@@ -922,23 +922,12 @@ const driveData = [
         "category": "pani_puri",
         "price": 0,
         "images": [
-            "https://drive.google.com/thumbnail?id=1KlcoSNqke0sub_ReOneL4EqD_D6Tr60Y&sz=w1000"
-        ],
-        "description": "Fresh Pani Puri full from our bakery.",
-        "rating": 4.5,
-        "reviews": 10
-    },
-    {
-        "id": 1090,
-        "name": "Pani Puri",
-        "category": "pani_puri",
-        "price": 0,
-        "images": [
+            "https://drive.google.com/thumbnail?id=1KlcoSNqke0sub_ReOneL4EqD_D6Tr60Y&sz=w1000",
             "https://drive.google.com/thumbnail?id=1hVLGto9qzWDDc0R2FaRMja_RuhAZ0oZ7&sz=w1000",
             "https://drive.google.com/thumbnail?id=1KSAyUW1QBzwAYX5EGWJCD9YNZNMlDUce&sz=w1000",
             "https://drive.google.com/thumbnail?id=14baCAMrjhNdQyodn8gfvNuY5cdAZNhUe&sz=w1000"
         ],
-        "description": "Fresh Pani Puri from our bakery.",
+        "description": "Fresh Pani Puri full from our bakery.",
         "rating": 4.5,
         "reviews": 10
     },
