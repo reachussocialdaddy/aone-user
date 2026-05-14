@@ -1469,6 +1469,16 @@ img {
 
 .modal-thumbnails img.active {
     border-color: var(--primary);
+    opacity: 1;
+}
+
+.loading-state {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 100px 0;
+    font-size: 1.2rem;
+    color: var(--text-light);
+    font-weight: 500;
 }
 
 .modal-img img {
