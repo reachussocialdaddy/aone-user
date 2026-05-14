@@ -11,9 +11,6 @@ const supabaseUrl = 'https://zawspjereggsjcdfyqaa.supabase.co';
 const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdWJhc2UiLCJzZWIiOiJlZnl6Inphd3NwamVyZWdnczJjZGZ5cWFhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg3ODc1OTAsImV4cCI6MjA5NDM2MzU5MH0.dNvPVD3-LwDmmNKBy1hWcx-IXymMsJAjv-E2bLY6tDE';
 const _supabase = supabase.createClient(supabaseUrl, supabaseKey);
 
-// Product Data
-products = [];
-
 // Mapping and Injecting
 const categoryMap = {
     'single_tier': 'cake', '2_tier': 'cake', '3_tier': 'cake', '4_tier': 'cake', '5_tier': 'cake',
