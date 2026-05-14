@@ -1,17 +1,13 @@
 // ========================================
 // A-ONE BAKERY - MENU PAGE JAVASCRIPT
-// Independent | No Global Dependencies
 // ========================================
 
-// Product Data
-// ========================================
 // SUPABASE CONFIGURATION
-// ========================================
 const supabaseUrl = 'https://zawspjereggsjcdfyqaa.supabase.co';
 const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdWJhc2UiLCJzZWIiOiJlZnl6Inphd3NwamVyZWdnczJjZGZ5cWFhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg3ODc1OTAsImV4cCI6MjA5NDM2MzU5MH0.dNvPVD3-LwDmmNKBy1hWcx-IXymMsJAjv-E2bLY6tDE';
 const _supabase = supabase.createClient(supabaseUrl, supabaseKey);
 
-// Mapping and Injecting
+// Global category mapping
 const categoryMap = {
     'single_tier': 'cake', '2_tier': 'cake', '3_tier': 'cake', '4_tier': 'cake', '5_tier': 'cake',
     'kids': 'cake', 'regular_cakes': 'cake', 'black_forest': 'cake', 'chocolate': 'cake', 
@@ -37,14 +33,17 @@ async function loadProducts() {
 
         if (error) throw error;
 
-        products = data.map(p => {
-            const mappedCategory = categoryMap[p.category] || p.category;
-            return {
-                ...p,
-                subCategory: p.sub_category !== mappedCategory ? p.sub_category : null,
-                category: mappedCategory
-            };
-        });
+        // Populate the global products array (declared in global.js)
+        if (typeof products !== 'undefined') {
+            products = data.map(p => {
+                const mappedCategory = categoryMap[p.category] || p.category;
+                return {
+                    ...p,
+                    subCategory: p.sub_category !== mappedCategory ? p.sub_category : null,
+                    category: mappedCategory
+                };
+            });
+        }
 
         // Update the Varieties counter dynamically
         const varietyStat = document.querySelector('.stat-num[data-target="493"]');
@@ -55,7 +54,7 @@ async function loadProducts() {
 
         // Trigger initial render
         if (typeof renderProducts === 'function') {
-            renderProducts(products);
+            renderProducts('all');
         }
         
     } catch (err) {
