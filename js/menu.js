@@ -12,7 +12,7 @@ const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdWJhc2UiLC
 const _supabase = supabase.createClient(supabaseUrl, supabaseKey);
 
 // Product Data
-let products = [];
+products = [];
 
 // Mapping and Injecting
 const categoryMap = {
