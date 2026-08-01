@@ -18,10 +18,10 @@ document.addEventListener('dragstart', (e) => {
 
 // Product Data
 let products = [
-    // --- COOKIES ---
+    // ==================== COOKIES / BISCUITS ====================
     {
         id: 1,
-        name: "Desi Ghee Premium Cookies",
+        name: "Desi Ghee Cookies",
         category: "Cookies",
         price: 6.99,
         image: "assets/products/desi_ghee_cookies_fresh.png",
@@ -34,7 +34,7 @@ let products = [
     },
     {
         id: 2,
-        name: "Royal Cashew Cookies",
+        name: "Cashew Biscuits",
         category: "Cookies",
         price: 7.49,
         image: "assets/products/cashew_cookies_fresh.png",
@@ -47,7 +47,7 @@ let products = [
     },
     {
         id: 3,
-        name: "Crunchy Coconut Cookies",
+        name: "Coconut Biscuits",
         category: "Cookies",
         price: 6.49,
         image: "assets/products/coconut_cookies_fresh.png",
@@ -60,7 +60,7 @@ let products = [
     },
     {
         id: 4,
-        name: "Fresh Mango Cookies",
+        name: "Mango Biscuits",
         category: "Cookies",
         price: 6.99,
         image: "assets/products/mango_cookies_fresh.png",
@@ -73,7 +73,7 @@ let products = [
     },
     {
         id: 5,
-        name: "Tangy Orange Cookies",
+        name: "Tangy Orange Biscuits",
         category: "Cookies",
         price: 6.99,
         image: "assets/products/orange_cookies_fresh.png",
@@ -86,7 +86,7 @@ let products = [
     },
     {
         id: 6,
-        name: "Royal Pistachio Cookies",
+        name: "Royal Pista Biscuits",
         category: "Cookies",
         price: 7.99,
         image: "assets/products/pista_cookies_fresh.png",
@@ -99,20 +99,7 @@ let products = [
     },
     {
         id: 7,
-        name: "Tutti Fruity Special Cookies",
-        category: "Cookies",
-        price: 6.99,
-        image: "assets/products/tutti_fruity_cookies_fresh.png",
-        images: ["assets/products/tutti_fruity_cookies_fresh.png"],
-        description: "Colorful candied fruits blended into buttery cookie dough. A nostalgic favorite.",
-        badge: "Kids Favorite",
-        badgeType: "popular",
-        rating: 4.9,
-        reviews: 350
-    },
-    {
-        id: 8,
-        name: "Flax Seed & Gur Cookies",
+        name: "Flax Seed Gur Cookies",
         category: "Cookies",
         price: 7.29,
         image: "assets/products/flax_seed_gur_cookies_fresh.png",
@@ -124,8 +111,8 @@ let products = [
         reviews: 175
     },
     {
-        id: 9,
-        name: "Ginger Gur Warm Cookies",
+        id: 8,
+        name: "Ginger Gur Cookies",
         category: "Cookies",
         price: 7.29,
         image: "assets/products/ginger_gur_cookies_fresh.png",
@@ -137,8 +124,8 @@ let products = [
         reviews: 130
     },
     {
-        id: 10,
-        name: "Traditional Gur Jaggery Cookies",
+        id: 9,
+        name: "Gur Jaggery Cookies",
         category: "Cookies",
         price: 6.99,
         image: "assets/products/gur_jaggery_cookies_fresh.png",
@@ -150,20 +137,20 @@ let products = [
         reviews: 215
     },
     {
-        id: 11,
-        name: "Kalounji Seeds Healthy Cookies",
+        id: 10,
+        name: "Kalounji Seeds Cookies",
         category: "Cookies",
         price: 6.99,
         image: "assets/products/kalounji_cookies_fresh.png",
         images: ["assets/products/kalounji_cookies_fresh.png"],
-        description: "A aromatic savory-sweet combination featuring black nigella (kalounji) seeds.",
+        description: "An aromatic savory-sweet combination featuring black nigella (kalounji) seeds.",
         badge: "Specialty",
         badgeType: "new",
         rating: 4.8,
         reviews: 140
     },
     {
-        id: 12,
+        id: 11,
         name: "A-One Regular Bakery Biscuits",
         category: "Cookies",
         price: 5.99,
@@ -176,8 +163,8 @@ let products = [
         reviews: 410
     },
     {
-        id: 13,
-        name: "A-One Sooji Crunch Biscuits",
+        id: 12,
+        name: "A-One Sooji Biscuits",
         category: "Cookies",
         price: 6.29,
         image: "assets/products/a1_sooji_biscuits.png",
@@ -189,7 +176,7 @@ let products = [
         reviews: 290
     },
     {
-        id: 14,
+        id: 13,
         name: "Traditional Nan Khatai",
         category: "Cookies",
         price: 6.99,
@@ -202,21 +189,21 @@ let products = [
         reviews: 512
     },
     {
-        id: 15,
-        name: "Zeera Cumin Savory Cookies",
+        id: 14,
+        name: "Almond Cookies",
         category: "Cookies",
-        price: 6.29,
+        price: 6.99,
         image: "assets/products/a1_zeera_biscuits.png",
         images: ["assets/products/a1_zeera_biscuits.png"],
-        description: "Roasted cumin seeds embedded in a buttery, lightly salted cookie dough.",
+        description: "Rich crunchy almond biscuits perfect with your daily tea.",
         badge: "Best Seller",
         badgeType: "popular",
         rating: 4.9,
         reviews: 388
     },
     {
-        id: 16,
-        name: "Whole Wheat Healthy Biscuits",
+        id: 15,
+        name: "Whole Wheat Biscuits",
         category: "Cookies",
         price: 6.49,
         image: "assets/products/a1_whole_wheat_biscuits.png",
@@ -228,8 +215,8 @@ let products = [
         reviews: 195
     },
     {
-        id: 17,
-        name: "Family Pack Assorted Cookies Box",
+        id: 16,
+        name: "Family Pack Assorted Cookies Box 1",
         category: "Cookies",
         price: 12.99,
         image: "assets/products/big_box_cookies_pack_1.png",
@@ -241,8 +228,8 @@ let products = [
         reviews: 260
     },
     {
-        id: 18,
-        name: "Grand Bakery Deluxe Selection",
+        id: 17,
+        name: "Grand Bakery Deluxe Selection 2",
         category: "Cookies",
         price: 13.99,
         image: "assets/products/big_box_cookies_pack_2.png",
@@ -254,8 +241,8 @@ let products = [
         reviews: 180
     },
     {
-        id: 40,
-        name: "A-One Special Gift Cookie Box",
+        id: 18,
+        name: "A-One Special Gift Cookie Box 3",
         category: "Cookies",
         price: 14.49,
         image: "assets/products/big_box_cookies_pack_3.png",
@@ -267,8 +254,8 @@ let products = [
         reviews: 145
     },
     {
-        id: 41,
-        name: "Royal Bakery Assorted Box",
+        id: 19,
+        name: "Royal Bakery Assorted Box 4",
         category: "Cookies",
         price: 13.99,
         image: "assets/products/big_box_cookies_pack_4.png",
@@ -280,8 +267,8 @@ let products = [
         reviews: 162
     },
     {
-        id: 42,
-        name: "Premium Celebration Cookie Box",
+        id: 20,
+        name: "Premium Celebration Cookie Box 5",
         category: "Cookies",
         price: 14.99,
         image: "assets/products/big_box_cookies_pack_5.png",
@@ -293,21 +280,21 @@ let products = [
         reviews: 198
     },
     {
-        id: 43,
-        name: "Festive Variety Cookie Collection",
+        id: 21,
+        name: "Festive Variety Cookie Collection 6",
         category: "Cookies",
         price: 13.49,
         image: "assets/products/big_box_cookies_pack_6.png",
         images: ["assets/products/big_box_cookies_pack_6.png"],
-        description: "Festive tin pack of authentic baked treats prepared with traditional recipes.",
+        description: "Festive pack of authentic baked treats prepared with traditional recipes.",
         badge: "Festive",
         badgeType: "popular",
         rating: 4.9,
         reviews: 174
     },
     {
-        id: 44,
-        name: "Mega Bakery Treats Box",
+        id: 22,
+        name: "Mega Bakery Treats Box 7",
         category: "Cookies",
         price: 15.99,
         image: "assets/products/big_box_cookies_pack_7.png",
@@ -319,9 +306,37 @@ let products = [
         reviews: 210
     },
 
-    // --- TEA RUSKS ---
+    // ==================== CAKE RUSK ====================
     {
-        id: 19,
+        id: 23,
+        name: "Tutti Frutti Cake Rusk",
+        category: "Cake Rusk",
+        price: 5.99,
+        image: "assets/products/tutti_fruity_cookies_fresh.png",
+        images: ["assets/products/tutti_fruity_cookies_fresh.png"],
+        description: "Rich sponge cake slices with candied fruits, double baked into sweet crunchy toast.",
+        badge: "Best Seller",
+        badgeType: "popular",
+        rating: 5.0,
+        reviews: 390
+    },
+    {
+        id: 24,
+        name: "Coconut Cake Rusk Special",
+        category: "Cake Rusk",
+        price: 5.99,
+        image: "assets/products/coconut_cake_rusk_0.jpg",
+        images: ["assets/products/coconut_cake_rusk_0.jpg"],
+        description: "Twice baked cake rusks dusted with sweet toasted coconut flakes.",
+        badge: "Specialty",
+        badgeType: "new",
+        rating: 4.9,
+        reviews: 210
+    },
+
+    // ==================== TEA RUSKS ====================
+    {
+        id: 25,
         name: "Sooji Milk Tea Rusk",
         category: "Tea Rusks",
         price: 4.99,
@@ -334,21 +349,21 @@ let products = [
         reviews: 420
     },
     {
-        id: 20,
-        name: "Premium Sooji Milk Rusk Special",
+        id: 26,
+        name: "Sooji Milk Rusk Pack 2",
         category: "Tea Rusks",
         price: 5.29,
         image: "assets/products/sooji_milk_rusk_fresh_2.png",
         images: ["assets/products/sooji_milk_rusk_fresh_2.png"],
-        description: "Extra crispy double-baked rusk crafted for rich dunking experience.",
+        description: "Extra crispy double-baked rusk crafted for a rich dunking experience.",
         badge: "Popular",
         badgeType: "popular",
         rating: 4.8,
         reviews: 310
     },
     {
-        id: 21,
-        name: "Whole Wheat Healthy Rusk",
+        id: 27,
+        name: "Whole Wheat Tea Rusk",
         category: "Tea Rusks",
         price: 4.99,
         image: "assets/products/whole_wheat_rusk_fresh.png",
@@ -360,8 +375,8 @@ let products = [
         reviews: 230
     },
     {
-        id: 22,
-        name: "Wheat Rusk Crispy Pack",
+        id: 28,
+        name: "Wheat Tea Rusk Pack 2",
         category: "Tea Rusks",
         price: 5.19,
         image: "assets/products/wheat_rusk_fresh_2.png",
@@ -373,7 +388,7 @@ let products = [
         reviews: 190
     },
     {
-        id: 23,
+        id: 29,
         name: "A-One Tasty Tea Rusk",
         category: "Tea Rusks",
         price: 4.49,
@@ -386,8 +401,8 @@ let products = [
         reviews: 480
     },
     {
-        id: 24,
-        name: "Gold Selection Tea Rusk",
+        id: 30,
+        name: "Tasty Tea Rusk Pack 2",
         category: "Tea Rusks",
         price: 4.79,
         image: "assets/products/tasty_tea_rusk_fresh_2.png",
@@ -399,37 +414,9 @@ let products = [
         reviews: 165
     },
 
-    // --- CAKE RUSK ---
+    // ==================== BHUJIYA AND OTHERS ====================
     {
-        id: 25,
-        name: "Tutti Frutti Cake Rusk",
-        category: "Cake Rusk",
-        price: 5.99,
-        image: "assets/products/tutti_frutti_cake_rusk_0.jpg",
-        images: ["assets/products/tutti_frutti_cake_rusk_0.jpg"],
-        description: "Rich sponge cake slices baked twice into irresistible sweet, crunchy toast.",
-        badge: "Best Seller",
-        badgeType: "popular",
-        rating: 5.0,
-        reviews: 390
-    },
-    {
-        id: 26,
-        name: "Coconut Cake Rusk Special",
-        category: "Cake Rusk",
-        price: 5.99,
-        image: "assets/products/coconut_cake_rusk_0.jpg",
-        images: ["assets/products/coconut_cake_rusk_0.jpg"],
-        description: "Twice baked cake rusks dusted with sweet coconut flakes.",
-        badge: "Specialty",
-        badgeType: "new",
-        rating: 4.9,
-        reviews: 210
-    },
-
-    // --- BHUJIYA AND OTHERS ---
-    {
-        id: 27,
+        id: 31,
         name: "Classic Namak Para",
         category: "Bhujiya and others",
         price: 4.49,
@@ -442,8 +429,8 @@ let products = [
         reviews: 370
     },
     {
-        id: 28,
-        name: "Golden Namak Para Pack",
+        id: 32,
+        name: "Golden Namak Para Pack 1",
         category: "Bhujiya and others",
         price: 4.49,
         image: "assets/products/namak_para_fresh_1.png",
@@ -455,8 +442,8 @@ let products = [
         reviews: 290
     },
     {
-        id: 29,
-        name: "Namak Para Family Pack",
+        id: 33,
+        name: "Namak Para Family Pack 2",
         category: "Bhujiya and others",
         price: 6.99,
         image: "assets/products/namak_para_fresh_2.png",
@@ -468,8 +455,8 @@ let products = [
         reviews: 220
     },
     {
-        id: 30,
-        name: "Kalounji Nigella Para",
+        id: 34,
+        name: "Kalounji Namak Para",
         category: "Bhujiya and others",
         price: 4.79,
         image: "assets/products/kalounji_para_fresh.png",
@@ -481,8 +468,8 @@ let products = [
         reviews: 185
     },
     {
-        id: 31,
-        name: "Methi Fenugreek Namak Para",
+        id: 35,
+        name: "Methi Namak Para",
         category: "Bhujiya and others",
         price: 4.79,
         image: "assets/products/methi_para_fresh.png",
@@ -494,8 +481,8 @@ let products = [
         reviews: 155
     },
     {
-        id: 32,
-        name: "Spicy Chatpata Para",
+        id: 36,
+        name: "Spicy Chatpata Para 1",
         category: "Bhujiya and others",
         price: 4.99,
         image: "assets/products/spicy_para_fresh_1.png",
@@ -507,8 +494,8 @@ let products = [
         reviews: 280
     },
     {
-        id: 33,
-        name: "Hot & Tangy Spicy Para",
+        id: 37,
+        name: "Hot & Tangy Spicy Para 2",
         category: "Bhujiya and others",
         price: 4.99,
         image: "assets/products/spicy_para_fresh_2.png",
@@ -520,7 +507,7 @@ let products = [
         reviews: 140
     },
     {
-        id: 34,
+        id: 38,
         name: "Crispy Mathri Para",
         category: "Bhujiya and others",
         price: 4.49,
@@ -533,7 +520,7 @@ let products = [
         reviews: 205
     },
     {
-        id: 35,
+        id: 39,
         name: "Authentic Pani Puri Kit",
         category: "Bhujiya and others",
         price: 3.99,
@@ -546,10 +533,10 @@ let products = [
         reviews: 340
     },
 
-    // --- CREAMROLLS ---
+    // ==================== CREAMROLLS ====================
     {
-        id: 36,
-        name: "Vanilla Cream Rolls Pack",
+        id: 40,
+        name: "Vanilla Cream Rolls",
         category: "Creamrolls",
         price: 3.99,
         image: "assets/products/cream_roll_col_1_dish.png",
@@ -561,8 +548,8 @@ let products = [
         reviews: 295
     },
     {
-        id: 37,
-        name: "Royal Cream Rolls Selection",
+        id: 41,
+        name: "Royal Cream Rolls",
         category: "Creamrolls",
         price: 3.99,
         image: "assets/products/cream_roll_col_2_dish.png",
@@ -574,7 +561,7 @@ let products = [
         reviews: 210
     },
     {
-        id: 38,
+        id: 42,
         name: "Chocolate Cream Rolls",
         category: "Creamrolls",
         price: 4.29,
@@ -587,7 +574,7 @@ let products = [
         reviews: 260
     },
     {
-        id: 39,
+        id: 43,
         name: "Strawberry Cream Rolls",
         category: "Creamrolls",
         price: 4.29,
