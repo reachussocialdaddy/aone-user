@@ -253,6 +253,71 @@ let products = [
         rating: 5.0,
         reviews: 180
     },
+    {
+        id: 40,
+        name: "A-One Special Gift Cookie Box",
+        category: "Cookies",
+        price: 14.49,
+        image: "assets/products/big_box_cookies_pack_3.png",
+        images: ["assets/products/big_box_cookies_pack_3.png"],
+        description: "Handcrafted bakery cookie assortment in a special gift box packaging.",
+        badge: "Gift Box",
+        badgeType: "popular",
+        rating: 4.9,
+        reviews: 145
+    },
+    {
+        id: 41,
+        name: "Royal Bakery Assorted Box",
+        category: "Cookies",
+        price: 13.99,
+        image: "assets/products/big_box_cookies_pack_4.png",
+        images: ["assets/products/big_box_cookies_pack_4.png"],
+        description: "A rich collection of melt-in-your-mouth bakery cookies and traditional biscuits.",
+        badge: "Popular",
+        badgeType: "popular",
+        rating: 4.8,
+        reviews: 162
+    },
+    {
+        id: 42,
+        name: "Premium Celebration Cookie Box",
+        category: "Cookies",
+        price: 14.99,
+        image: "assets/products/big_box_cookies_pack_5.png",
+        images: ["assets/products/big_box_cookies_pack_5.png"],
+        description: "Celebration-ready bakery pack featuring roasted cashew, almond, and ghee cookies.",
+        badge: "Premium",
+        badgeType: "new",
+        rating: 5.0,
+        reviews: 198
+    },
+    {
+        id: 43,
+        name: "Festive Variety Cookie Collection",
+        category: "Cookies",
+        price: 13.49,
+        image: "assets/products/big_box_cookies_pack_6.png",
+        images: ["assets/products/big_box_cookies_pack_6.png"],
+        description: "Festive tin pack of authentic baked treats prepared with traditional recipes.",
+        badge: "Festive",
+        badgeType: "popular",
+        rating: 4.9,
+        reviews: 174
+    },
+    {
+        id: 44,
+        name: "Mega Bakery Treats Box",
+        category: "Cookies",
+        price: 15.99,
+        image: "assets/products/big_box_cookies_pack_7.png",
+        images: ["assets/products/big_box_cookies_pack_7.png"],
+        description: "Our largest assorted cookie box packed with top customer favorite bakery varieties.",
+        badge: "Mega Pack",
+        badgeType: "popular",
+        rating: 5.0,
+        reviews: 210
+    },
 
     // --- TEA RUSKS ---
     {
