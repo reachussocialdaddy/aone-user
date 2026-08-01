@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>A-ONE Bakery | Canada's Finest Bakery</title>
+    <title>A One Bakery | Canada's Finest Bakery Chain - Fresh Baked Goods & Treats</title>
+    <link rel="canonical" href="https://aonebakery.vercel.app/">
+    <meta name="description" content="Discover A One Bakery - Canada's finest bakery offering fresh cookies, rusks, creamrolls, namak para, and custom cakes.">
     <link rel="stylesheet" href="css/global.css">
     <link rel="stylesheet" href="css/index.css">
     <link
@@ -26,7 +28,7 @@
     <nav class="navbar" id="navbar">
         <div class="nav-container">
             <a href="index.html" class="logo">
-                <img src="assets/a-one-logo1.png" alt="A-ONE Bakery Logo" class="nav-logo-img">
+                <img src="assets/a-one-logo1.png" alt="A One Bakery Logo" class="nav-logo-img">
             </a>
             <ul class="nav-links">
                 <li><a href="index.html">Home</a></li>
@@ -37,13 +39,13 @@
             <div class="nav-actions">
                 <a href="bulkorderenquiry.html" class="bulk-order-btn">For Bulk Orders</a>
                 <a href="menu.html" class="order-asap-btn">ORDER ASAP</a>
-                <button class="search-btn" id="searchBtn"><i class="fas fa-search"></i></button>
+                <button class="search-btn" id="searchBtn" aria-label="Open Search"><i class="fas fa-search"></i></button>
                 <button class="user-btn"><i class="far fa-user"></i></button>
-                <button class="cart-btn" id="cartBtn">
+                <button class="cart-btn" id="cartBtn" aria-label="View Shopping Cart">
                     <i class="fas fa-shopping-cart"></i>
                     <span class="cart-count" id="cartCount">0</span>
                 </button>
-                <button class="mobile-menu-btn" id="mobileMenuBtn">
+                <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Toggle Mobile Menu">
                     <span></span><span></span><span></span>
                 </button>
             </div>
@@ -53,7 +55,7 @@
     <!-- Search Overlay -->
     <div class="search-overlay" id="searchOverlay">
         <div class="search-content">
-            <button class="close-search" id="closeSearch"><i class="fas fa-times"></i></button>
+            <button class="close-search" id="closeSearch" aria-label="Close Search"><i class="fas fa-times"></i></button>
             <input type="text" placeholder="Search our delicious collection..." id="searchInput">
             <div class="search-results" id="searchResults"></div>
         </div>
@@ -63,7 +65,7 @@
     <div class="cart-sidebar" id="cartSidebar">
         <div class="cart-header">
             <h3>Your Cart</h3>
-            <button class="close-cart" id="closeCart"><i class="fas fa-times"></i></button>
+            <button class="close-cart" id="closeCart" aria-label="Close Shopping Cart"><i class="fas fa-times"></i></button>
         </div>
         <div class="cart-items" id="cartItems">
             <div class="empty-cart">
@@ -84,7 +86,7 @@
 
     <!-- Mobile Menu -->
     <div class="mobile-menu" id="mobileMenu">
-        <button class="close-mobile" id="closeMobile"><i class="fas fa-times"></i></button>
+        <button class="close-mobile" id="closeMobile" aria-label="Close Mobile Menu"><i class="fas fa-times"></i></button>
         <ul>
             <li><a href="index.html">Home</a></li>
             <li><a href="menu.html">Our Menu</a></li>
@@ -122,12 +124,12 @@
             </div>
 
             <div class="slider-controls">
-                <button class="slider-arrow prev"><i class="fas fa-chevron-left"></i></button>
+                <button class="slider-arrow prev" aria-label="Previous Slide"><i class="fas fa-chevron-left"></i></button>
                 <div class="slider-dots">
                     <span class="dot active"></span>
                     <span class="dot"></span>
                 </div>
-                <button class="slider-arrow next"><i class="fas fa-chevron-right"></i></button>
+                <button class="slider-arrow next" aria-label="Next Slide"><i class="fas fa-chevron-right"></i></button>
             </div>
         </section>
 
@@ -137,14 +139,14 @@
                 <div class="categories-header">
                     <div class="header-left">
                         <h2 class="carousel-title">Our Collection</h2>
-                        <p class="carousel-desc">For more than 29 years, A-ONE Bakery has been making Canada's favorite baked goods the old-fashioned way: from scratch, in small batches, and using the finest ingredients.</p>
+                        <p class="carousel-desc">For more than 29 years, A One Bakery has been making Canada's favorite baked goods the old-fashioned way: from scratch, in small batches, and using the finest ingredients.</p>
                         <div class="header-actions">
                             <a href="menu.html" class="view-more-link">VIEW MORE</a>
                         </div>
                     </div>
                     <div class="carousel-controls">
-                        <button class="arrow-btn prev-cat" id="prevCat"><i class="fas fa-chevron-left"></i></button>
-                        <button class="arrow-btn next-cat" id="nextCat"><i class="fas fa-chevron-right"></i></button>
+                        <button class="arrow-btn prev-cat" id="prevCat" aria-label="Previous Category"><i class="fas fa-chevron-left"></i></button>
+                        <button class="arrow-btn next-cat" id="nextCat" aria-label="Next Category"><i class="fas fa-chevron-right"></i></button>
                     </div>
                 </div>
 
@@ -174,8 +176,8 @@
                 </div>
 
                 <div class="slider-nav-arrows">
-                    <button class="arrow-btn prev-fav" id="prevFav"><i class="fas fa-chevron-left"></i></button>
-                    <button class="arrow-btn next-fav" id="nextFav"><i class="fas fa-chevron-right"></i></button>
+                    <button class="arrow-btn prev-fav" id="prevFav" aria-label="Previous Product"><i class="fas fa-chevron-left"></i></button>
+                    <button class="arrow-btn next-fav" id="nextFav" aria-label="Next Product"><i class="fas fa-chevron-right"></i></button>
                 </div>
             </div>
         </section>
@@ -187,7 +189,7 @@
                 <div class="promo-bg" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/a-one-logo1.png');"></div>
                 <div class="promo-content">
                     <span class="promo-tag" style="background: #1A1A1A;">Newsletter</span>
-                    <h2>Join the A-ONE Family</h2>
+                    <h2>Join the A One Family</h2>
                     <p>Subscribe for exclusive offers, new product alerts, and baking tips.</p>
                     <form class="card-newsletter-form" id="cardNewsletterForm">
                         <input type="email" placeholder="Enter your email address" required>
@@ -200,7 +202,7 @@
         <!-- Video Marquee Section -->
         <section class="video-showcase-section">
             <div class="section-header" style="margin-bottom: 40px;">
-                <span class="section-tag" style="color: var(--logo-red);"><i class="fas fa-video"></i> A-ONE Bakery on Socials</span>
+                <span class="section-tag" style="color: var(--logo-red);"><i class="fas fa-video"></i> A One Bakery on Socials</span>
                 <h2 class="section-title">Fresh from the Oven</h2>
             </div>
             
@@ -287,7 +289,7 @@
                 <div class="footer-max-content">
                     <div class="footer-max-left">
                         <div class="footer-max-logo">
-                            <img src="assets/a-one-logo1.png" alt="A-ONE Bakery Logo" class="logo-image-max">
+                            <img src="assets/a-one-logo1.png" alt="A One Bakery Logo" class="logo-image-max">
                         </div>
                     </div>
                     <div class="footer-max-right">
@@ -329,7 +331,7 @@
                     </div>
                 </div>
                 <div class="footer-legal-max">
-                    <p>&copy; 2026 A-ONE BAKERY | DESIGNED BY SOCIAL DADDY</p>
+                    <p>&copy; 2026 A One Bakery | DESIGNED BY SOCIAL DADDY</p>
                     <p>PROUDLY CANADIAN <i class="fas fa-maple-leaf"></i></p>
                 </div>
             </div>

@@ -1,5 +1,5 @@
 // ========================================
-// A-ONE BAKERY - MAIN JAVASCRIPT
+// A One Bakery - MAIN JAVASCRIPT
 // Canada's Finest Bakery Chain
 // ========================================
 
@@ -151,7 +151,7 @@ let products = [
     },
     {
         id: 11,
-        name: "A-One Regular Bakery Biscuits",
+        name: "A One Regular Bakery Biscuits",
         category: "Cookies",
         price: 5.99,
         image: "assets/products/a1_regular_biscuits.png",
@@ -164,7 +164,7 @@ let products = [
     },
     {
         id: 12,
-        name: "A-One Sooji Biscuits",
+        name: "A One Sooji Biscuits",
         category: "Cookies",
         price: 6.29,
         image: "assets/products/a1_sooji_biscuits.png",
@@ -242,7 +242,7 @@ let products = [
     },
     {
         id: 18,
-        name: "A-One Special Gift Cookie Box 3",
+        name: "A One Special Gift Cookie Box 3",
         category: "Cookies",
         price: 14.49,
         image: "assets/products/big_box_cookies_pack_3.png",
@@ -389,7 +389,7 @@ let products = [
     },
     {
         id: 29,
-        name: "A-One Tasty Tea Rusk",
+        name: "A One Tasty Tea Rusk",
         category: "Tea Rusks",
         price: 4.49,
         image: "assets/products/tasty_tea_rusk_fresh.png",
@@ -1218,7 +1218,7 @@ function initEventListeners() {
             return;
         }
 
-        const orderNum = '#A1-' + Date.now().toString().slice(-6);
+        const orderNum = '#A One-' + Date.now().toString().slice(-6);
         const totalAmount = cart.reduce((sum, item) => sum + (item.price * item.quantity), 0) * 1.13; // with tax
         
         try {

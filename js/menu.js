@@ -1,5 +1,5 @@
 // ========================================
-// A-ONE BAKERY - MENU PAGE JAVASCRIPT
+// A One Bakery - MENU PAGE JAVASCRIPT
 // ========================================
 
 // SUPABASE CONFIGURATION

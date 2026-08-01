@@ -38,19 +38,24 @@ document.addEventListener('DOMContentLoaded', () => {
             const checkboxGrid = document.getElementById('categoryCheckboxes');
             if (!checkboxGrid || !_supabase) return;
 
+            const fallbackCategories = ['Cookies', 'Tea Rusks', 'Cake Rusk', 'Creamrolls', 'Bhujiya and others'];
             try {
-                const { data, error } = await _supabase.from('products').select('category').neq('status', 'hidden');
-                if (error) throw error;
-
-                const uniqueCategories = [...new Set(data.map(p => p.category).filter(Boolean))].sort();
-                
-                checkboxGrid.innerHTML = uniqueCategories.map(cat => `
-                    <label class="checkbox-label"><input type="checkbox" name="product_interests" value="${cat}"> ${cat}</label>
-                `).join('');
-
+                if (_supabase) {
+                    const { data, error } = await _supabase.from('products').select('category').neq('status', 'hidden');
+                    if (!error && data && data.length > 0) {
+                        const uniqueCategories = [...new Set(data.map(p => p.category).filter(Boolean))].sort();
+                        checkboxGrid.innerHTML = uniqueCategories.map(cat => `
+                            <label class="checkbox-label"><input type="checkbox" name="product_interests" value="${cat}"> ${cat}</label>
+                        `).join('');
+                        return;
+                    }
+                }
             } catch (err) {
-                console.error('Error fetching categories for bulk order:', err);
+                console.warn('Using local fallback categories for bulk order:', err);
             }
+            checkboxGrid.innerHTML = fallbackCategories.map(cat => `
+                <label class="checkbox-label"><input type="checkbox" name="product_interests" value="${cat}"> ${cat}</label>
+            `).join('');
         }
         loadDynamicCategories();
 
