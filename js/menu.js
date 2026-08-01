@@ -60,7 +60,19 @@ async function loadProducts() {
         }
         
     } catch (err) {
-        console.error('Error loading products from Supabase:', err);
+        console.warn('Using local product catalog for menu page:', err);
+        const varietyStat = document.getElementById('totalVarieties') || document.querySelector('.stat-num[data-target="493"]');
+        if (varietyStat && typeof products !== 'undefined') {
+            varietyStat.setAttribute('data-target', products.length);
+            if (typeof animateCounter === 'function') {
+                animateCounter(varietyStat, products.length, '+');
+            } else {
+                varietyStat.textContent = products.length + '+';
+            }
+        }
+        if (typeof renderProducts === 'function') {
+            renderProducts('all');
+        }
     }
 }
 

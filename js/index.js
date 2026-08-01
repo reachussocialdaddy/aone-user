@@ -222,7 +222,39 @@ const supabaseKeyIndex = 'sb_publishable_acXhrX9ErLJDunYp91rODQ_8HpYi6kH';
 const _supabaseIndex = typeof supabase !== 'undefined' ? supabase.createClient(supabaseUrlIndex, supabaseKeyIndex) : null;
 
 async function loadIndexProducts() {
-    if (!_supabaseIndex) return;
+    function renderLocalCategories() {
+        const categoriesSlider = document.getElementById('categoriesSlider');
+        if (!categoriesSlider) return;
+
+        const categoryImages = {
+            'Cookies': 'assets/categories/cookies.jpg',
+            'Tea Rusks': 'assets/categories/tea_rusk.jpg',
+            'Cake Rusk': 'assets/categories/cake_rusk.jpg',
+            'Bhujiya and others': 'assets/categories/bhujiya.jpg',
+            'Creamrolls': 'assets/categories/creamroll.jpg'
+        };
+
+        const cats = ['Cookies', 'Tea Rusks', 'Cake Rusk', 'Creamrolls', 'Bhujiya and others'];
+
+        categoriesSlider.innerHTML = cats.map(cat => {
+            const imgUrl = categoryImages[cat] || 'assets/categories/cookies.jpg';
+            return `
+            <div class="category-card" data-category="${cat}" onclick="window.location.href='menu.html?filter=${encodeURIComponent(cat)}'" style="cursor:pointer">
+                <div class="category-img">
+                    <img src="${imgUrl}" alt="${cat}">
+                </div>
+                <h3 class="category-title">${cat}</h3>
+            </div>
+            `;
+        }).join('');
+    }
+
+    if (!_supabaseIndex) {
+        renderLocalCategories();
+        if (typeof renderFeaturedProducts === 'function') renderFeaturedProducts();
+        return;
+    }
+
     try {
         const { data, error } = await _supabaseIndex
             .from('products')
@@ -231,60 +263,22 @@ async function loadIndexProducts() {
 
         if (error) throw error;
 
-        if (typeof products !== 'undefined') {
-            products = data.filter(p => p.status !== 'hidden'); // Remove hidden products
-            
-            // Randomly shuffle products for the featured slider
+        if (typeof products !== 'undefined' && data && data.length > 0) {
+            products = data.filter(p => p.status !== 'hidden');
             products.sort(() => 0.5 - Math.random());
-        }// Render Dynamic Categories
-        const categoriesSlider = document.getElementById('categoriesSlider');
-        if (categoriesSlider) {
-            // Extract unique categories directly from raw data (unmapped)
-            let rawCategories = [...new Set(data.map(p => p.category).filter(Boolean))];
-            
-            // Custom sort order
-            const categoryOrder = [
-                'cookies',
-                'cake rusk',
-                'tea rusk',
-                'creamroll',
-                'bhujiya'
-            ];
-            
-            rawCategories.sort((a, b) => {
-                let indexA = categoryOrder.findIndex(c => a.toLowerCase().includes(c));
-                let indexB = categoryOrder.findIndex(c => b.toLowerCase().includes(c));
-                if (indexA === -1) indexA = 999;
-                if (indexB === -1) indexB = 999;
-                return indexA === indexB ? a.localeCompare(b) : indexA - indexB;
-            });
-            
-            // Generate HTML for each category
-            categoriesSlider.innerHTML = rawCategories.map(cat => {
-                const safeName = cat.replace(/[^a-zA-Z0-9]/g, '_').toLowerCase();
-                const defaultFallback = "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&q=80&w=600";
-                const imgUrl = `https://zawspjereggsjcdfyqaa.supabase.co/storage/v1/object/public/product-images/categories/${safeName}.jpg?t=${Date.now()}`;
-                
-                return `
-                <div class="category-card" data-category="${cat}" onclick="window.location.href='menu.html'" style="cursor:pointer">
-                    <div class="category-img">
-                        <img src="${imgUrl}" onerror="this.onerror=null; this.src='${defaultFallback}';" alt="${cat}">
-                    </div>
-                    <h3 class="category-title">${cat}</h3>
-                </div>
-                `;
-            }).join('');
         }
 
-
+        renderLocalCategories();
 
         if (typeof renderFeaturedProducts === 'function') {
             renderFeaturedProducts();
         }
-
-        // Secret menu is now statically set in HTML
     } catch (err) {
-        console.error('Error loading products for index page:', err);
+        console.warn('Using local product catalog for index page:', err);
+        renderLocalCategories();
+        if (typeof renderFeaturedProducts === 'function') {
+            renderFeaturedProducts();
+        }
     }
 }
 
