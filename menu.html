@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Menu | A-ONE Bakery — Canada's Finest</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;900&family=Inter:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/menu.css">
+</head>
+
+<body>
+
+    <!-- Announcement Bar -->
+    <div class="announcement-bar">
+        <p>🧁 ORDER DESSERTS FOR LOCAL PICK UP OR DELIVERY 🧁</p>
+    </div>
+
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="logo">
+                <img src="assets/a-one-logo1.png" alt="A-ONE Bakery Logo" class="nav-logo-img">
+            </a>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="menu.html" class="active">Our Menu</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <div class="nav-actions">
+                <a href="bulkorderenquiry.html" class="bulk-order-btn">For Bulk Orders</a>
+                <a href="menu.html" class="order-asap-btn">ORDER ASAP</a>
+                <button class="search-btn" id="searchBtn"><i class="fas fa-search"></i></button>
+                <button class="user-btn"><i class="far fa-user"></i></button>
+                <button class="cart-btn" id="cartBtn">
+                    <i class="fas fa-shopping-cart"></i>
+                    <span class="cart-count" id="cartCount">0</span>
+                </button>
+                <button class="mobile-menu-btn" id="mobileMenuBtn">
+                    <span></span><span></span><span></span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Search Overlay -->
+    <div class="search-overlay" id="searchOverlay">
+        <div class="search-content">
+            <button class="close-search" id="closeSearch"><i class="fas fa-times"></i></button>
+            <input type="text" placeholder="Search our delicious collection..." id="searchInput">
+            <div class="search-results" id="searchResults"></div>
+        </div>
+    </div>
+
+    <!-- Cart Sidebar -->
+    <div class="cart-sidebar" id="cartSidebar">
+        <div class="cart-header">
+            <h3>🛒 Your Cart</h3>
+            <button class="close-cart" id="closeCart"><i class="fas fa-times"></i></button>
+        </div>
+        <div class="cart-items" id="cartItems">
+            <div class="empty-cart">
+                <div class="empty-cart-emoji">🧺</div>
+                <p>Your cart is empty</p>
+                <span>Add some delicious items!</span>
+            </div>
+        </div>
+        <div class="cart-footer">
+            <div class="cart-total">
+                <span>Total</span>
+                <span id="cartTotal">$0.00</span>
+            </div>
+            <button class="checkout-btn" id="checkoutBtn">Proceed to Checkout 🡢</button>
+        </div>
+    </div>
+    <div class="cart-overlay" id="cartOverlay"></div>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobileMenu">
+        <button class="close-mobile" id="closeMobile"><i class="fas fa-times"></i></button>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="menu.html">Our Menu</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </div>
+
+    <!-- Toast Notification -->
+    <div class="toast" id="toast">
+        <span class="toast-emoji">✅</span>
+        <span id="toastMessage">Item added to cart!</span>
+    </div>
+
+    <!-- ========== MENU HERO ========== -->
+    <section class="menu-hero">
+        <div class="menu-hero-bg">
+            <div class="floating-emoji emoji-1">🧁</div>
+            <div class="floating-emoji emoji-2">🍰</div>
+            <div class="floating-emoji emoji-3">🥐</div>
+            <div class="floating-emoji emoji-4">🍩</div>
+            <div class="floating-emoji emoji-5">🍪</div>
+            <div class="floating-emoji emoji-6">🥖</div>
+        </div>
+        <div class="menu-hero-content">
+            <span class="menu-hero-tag">✨ Fresh Daily</span>
+            <h1>Our Delicious Menu</h1>
+            <p>Handcrafted with love, baked with passion. Every item is made fresh in our Canadian kitchens.</p>
+            <div class="menu-hero-stats">
+                <div class="menu-stat">
+                    <span class="stat-num" id="totalVarieties" style="opacity: 1;">...</span>
+                    <span class="stat-label">Varieties</span>
+                </div>
+                <div class="menu-stat">
+                    <span class="stat-num" data-target="100">100%</span>
+                    <span class="stat-label">Fresh Daily</span>
+                </div>
+                <div class="menu-stat">
+                    <span class="stat-num" data-target="29">29+</span>
+                    <span class="stat-label">Years Baking</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ========== CATEGORY TABS ========== -->
+    <section class="category-tabs-section">
+        <div class="container">
+            <div class="category-tabs" id="categoryTabs">
+                <button class="cat-tab active" data-filter="all">
+                    <span class="cat-emoji">🍽️</span>
+                    <span>All Items</span>
+                </button>
+                <button class="cat-tab" data-filter="Cookies">
+                    <span class="cat-emoji">🍪</span>
+                    <span>Cookies</span>
+                </button>
+                <button class="cat-tab" data-filter="Cake Rusk">
+                    <span class="cat-emoji">🍞</span>
+                    <span>Cake Rusk</span>
+                </button>
+                <button class="cat-tab" data-filter="Tea Rusks">
+                    <span class="cat-emoji">☕</span>
+                    <span>Tea Rusks</span>
+                </button>
+                <button class="cat-tab" data-filter="Creamrolls">
+                    <span class="cat-emoji">🥐</span>
+                    <span>Creamrolls</span>
+                </button>
+                <button class="cat-tab" data-filter="Bhujiya and others">
+                    <span class="cat-emoji">🥨</span>
+                    <span>Bhujiya & Others</span>
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- ========== MENU CONTENT ========== -->
+    <section class="menu-content-section">
+        <div class="container">
+            <div class="menu-toolbar">
+                <div class="menu-results">
+                    <span id="menuCount">Showing all items</span>
+                    <span class="menu-count-badge" id="menuCountBadge">493</span>
+                </div>
+                <div class="menu-controls">
+                    <div class="price-filter-inline">
+                        <label>Max Price: <strong id="priceValue">$50</strong></label>
+                        <input type="range" min="0" max="50" value="50" id="priceRange">
+                    </div>
+                    <div class="menu-sort">
+                        <select id="sortSelect">
+                            <option value="popular">🔥 Most Popular</option>
+                            <option value="price-low">💰 Price: Low to High</option>
+                            <option value="price-high">💰 Price: High to Low</option>
+                            <option value="newest">✨ Newest</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Products Grid -->
+            <div class="products-grid" id="menuProducts"></div>
+
+            <!-- Empty State -->
+            <div class="empty-products" id="emptyProducts" style="display: none;">
+                <div class="empty-emoji">😢</div>
+                <h3>No items found</h3>
+                <p>Try adjusting your filters or search for something else!</p>
+                <button class="btn btn-primary" onclick="resetFilters()">View All Items</button>
+            </div>
+        </div>
+    </section>
+
+
+
+    <!-- ========== NEWSLETTER ========== -->
+    <section class="menu-newsletter">
+        <div class="container">
+            <div class="newsletter-box">
+                <div class="newsletter-content">
+                    <span class="newsletter-emoji">💌</span>
+                    <h3>Join the A-One Family</h3>
+                    <p>Get exclusive offers, new flavor alerts & birthday treats!</p>
+                    <form class="newsletter-form" id="newsletterForm">
+                        <input type="email" placeholder="your@email.com" required>
+                        <button type="submit" class="btn btn-primary">Subscribe ✨</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Premium Footer Section -->
+    <footer class="main-footer">
+        <!-- Call to Action Grid -->
+        <div class="footer-cta-container">
+            <div class="footer-grid-bg" id="footerInteractiveGrid">
+                <!-- Interactive Floating Icons -->
+                <div class="interactive-icon-wrapper icon-1"><img src="assets/icon21.png" class="interactive-icon" alt="Icon 11"></div>
+                <div class="interactive-icon-wrapper icon-2"><img src="assets/icon22.png" class="interactive-icon" alt="Icon 12"></div>
+                <div class="interactive-icon-wrapper icon-3"><img src="assets/icon23.png" class="interactive-icon" alt="Icon 13"></div>
+                <div class="interactive-icon-wrapper icon-4"><img src="assets/icon24.png" class="interactive-icon" alt="Icon 14"></div>
+                <div class="interactive-icon-wrapper icon-5"><img src="assets/icon25.png" class="interactive-icon" alt="Icon 15"></div>
+                
+                <div class="cta-wrapper">
+                    <a href="menu.html" class="cta-pill-btn">Order Now</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer Info -->
+        <div class="footer-bottom-max">
+            <div class="container">
+                <div class="footer-max-content">
+                    <div class="footer-max-left">
+                        <div class="footer-max-logo">
+                            <img src="assets/a-one-logo1.png" alt="A-ONE Bakery Logo" class="logo-image-max">
+                        </div>
+                    </div>
+                    <div class="footer-max-right">
+                        <div class="footer-links-grid">
+                            <!-- Quick Links -->
+                            <div class="footer-col">
+                                <h4>Quick Links</h4>
+                                <ul>
+                                    <li><a href="index.html">🏠 Home</a></li>
+                                    <li><a href="menu.html">🍰 Our Menu</a></li>
+                                    <li><a href="about.html">📖 About Us</a></li>
+                                    <li><a href="contact.html">📞 Contact</a></li>
+                                </ul>
+                            </div>
+                            
+                            <!-- Categories -->
+                            <div class="footer-col">
+                                <h4>Categories</h4>
+                                <ul>
+                                    <li><a href="menu.html?filter=Cookies">🍪 Cookies</a></li>
+                                    <li><a href="menu.html?filter=Cake%20Rusk">🍞 Cake Rusk</a></li>
+                                    <li><a href="menu.html?filter=Tea%20Rusks">☕ Tea Rusks</a></li>
+                                    <li><a href="menu.html?filter=Creamrolls">🥐 Creamrolls</a></li>
+                                    <li><a href="menu.html?filter=Bhujiya%20and%20others">🥨 Bhujiya & Others</a></li>
+                                </ul>
+                            </div>
+                            
+                            <!-- Contact -->
+                            <div class="footer-col">
+                                <h4>Contact</h4>
+                                <ul class="contact-info">
+                                    <li><span class="footer-icon">📍</span> <span class="footer-text">1075 Lorimar Drive Unit 1-5,<br>Mississauga, ON</span></li>
+                                    <li><span class="footer-icon">📞</span> <span class="footer-text">1-905-564-2663</span></li>
+                                    <li><span class="footer-icon">✉️</span> <span class="footer-text">info@aonecakes.com</span></li>
+                                    <li><span class="footer-icon">🕒</span> <span class="footer-text">Mon-Sun: 10AM - 6PM</span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-legal-max">
+                    <p>&copy; 2026 A-ONE BAKERY | DESIGNED BY SOCIAL DADDY</p>
+                    <p>PROUDLY CANADIAN <i class="fas fa-maple-leaf"></i></p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Product Quick View Modal -->
+    <div class="modal" id="productModal">
+        <div class="modal-content">
+            <button class="modal-close" id="modalClose"><i class="fas fa-times"></i></button>
+            <div class="modal-body" id="modalBody"></div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="js/global.js"></script>
+    <script src="js/menu.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A-ONE Bakery | Canada's Finest Bakery</title>
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;900&family=Inter:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body class="">
+
+
+
+    <!-- Announcement Bar -->
+    <div class="announcement-bar">
+        <p>ORDER DESSERTS FOR LOCAL PICK UP OR DELIVERY</p>
+    </div>
+
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="logo">
+                <img src="assets/a-one-logo1.png" alt="A-ONE Bakery Logo" class="nav-logo-img">
+            </a>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="menu.html">Our Menu</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <div class="nav-actions">
+                <a href="bulkorderenquiry.html" class="bulk-order-btn">For Bulk Orders</a>
+                <a href="menu.html" class="order-asap-btn">ORDER ASAP</a>
+                <button class="search-btn" id="searchBtn"><i class="fas fa-search"></i></button>
+                <button class="user-btn"><i class="far fa-user"></i></button>
+                <button class="cart-btn" id="cartBtn">
+                    <i class="fas fa-shopping-cart"></i>
+                    <span class="cart-count" id="cartCount">0</span>
+                </button>
+                <button class="mobile-menu-btn" id="mobileMenuBtn">
+                    <span></span><span></span><span></span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Search Overlay -->
+    <div class="search-overlay" id="searchOverlay">
+        <div class="search-content">
+            <button class="close-search" id="closeSearch"><i class="fas fa-times"></i></button>
+            <input type="text" placeholder="Search our delicious collection..." id="searchInput">
+            <div class="search-results" id="searchResults"></div>
+        </div>
+    </div>
+
+    <!-- Cart Sidebar -->
+    <div class="cart-sidebar" id="cartSidebar">
+        <div class="cart-header">
+            <h3>Your Cart</h3>
+            <button class="close-cart" id="closeCart"><i class="fas fa-times"></i></button>
+        </div>
+        <div class="cart-items" id="cartItems">
+            <div class="empty-cart">
+                <i class="fas fa-shopping-basket"></i>
+                <p>Your cart is empty</p>
+                <span>Add some delicious items!</span>
+            </div>
+        </div>
+        <div class="cart-footer">
+            <div class="cart-total">
+                <span>Total</span>
+                <span id="cartTotal">$0.00</span>
+            </div>
+            <button class="checkout-btn" id="checkoutBtn">Proceed to Checkout</button>
+        </div>
+    </div>
+    <div class="cart-overlay" id="cartOverlay"></div>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobileMenu">
+        <button class="close-mobile" id="closeMobile"><i class="fas fa-times"></i></button>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="menu.html">Our Menu</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </div>
+
+    <!-- Toast Notification -->
+    <div class="toast" id="toast">
+        <i class="fas fa-check-circle"></i>
+        <span id="toastMessage">Item added to cart!</span>
+    </div>
+
+    
+<!-- ========== HOME PAGE ========== -->
+    <section class="page active" id="home">
+
+        <!-- Hero Section -->
+        <section class="hero-section">
+            <div class="hero-slider">
+                <!-- Slide 1 -->
+                <div class="slide active">
+                    <div class="hero-image-container">
+                        <img src="assets/newheade11.jpeg" alt="Freshly Baked Delights">
+                    </div>
+                </div>
+
+                <!-- Slide 2 -->
+                <div class="slide">
+                    <div class="hero-image-container">
+                        <img src="assets/newheader12.jpeg" alt="Gourmet Cakes">
+                    </div>
+                </div>
+            </div>
+
+            <div class="slider-controls">
+                <button class="slider-arrow prev"><i class="fas fa-chevron-left"></i></button>
+                <div class="slider-dots">
+                    <span class="dot active"></span>
+                    <span class="dot"></span>
+                </div>
+                <button class="slider-arrow next"><i class="fas fa-chevron-right"></i></button>
+            </div>
+        </section>
+
+        <!-- Categories Section -->
+        <section class="categories-section">
+            <div class="container">
+                <div class="categories-header">
+                    <div class="header-left">
+                        <h2 class="carousel-title">Our Collection</h2>
+                        <p class="carousel-desc">For more than 29 years, A-ONE Bakery has been making Canada's favorite baked goods the old-fashioned way: from scratch, in small batches, and using the finest ingredients.</p>
+                        <div class="header-actions">
+                            <a href="menu.html" class="view-more-link">VIEW MORE</a>
+                        </div>
+                    </div>
+                    <div class="carousel-controls">
+                        <button class="arrow-btn prev-cat" id="prevCat"><i class="fas fa-chevron-left"></i></button>
+                        <button class="arrow-btn next-cat" id="nextCat"><i class="fas fa-chevron-right"></i></button>
+                    </div>
+                </div>
+
+                <div class="categories-slider-wrapper">
+                    <div class="categories-slider" id="categoriesSlider">
+                        <!-- Dynamic Categories Injected via JS -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Featured Products (Best Sellers) -->
+        <section class="featured-slider-section">
+            <div class="container">
+                <div class="carousel-header centered">
+                    <h2 class="carousel-title">Treats for any Occasion</h2>
+                    <p class="carousel-desc">We've got you covered for any holiday, special occasion, or cause for celebration.</p>
+                    <div class="header-actions">
+                        <a href="menu.html" class="view-more-link">VIEW MORE</a>
+                    </div>
+                </div>
+                
+                <div class="featured-slider-wrapper">
+                    <div class="featured-slider" id="featuredSlider">
+                        <!-- Populated by JS -->
+                    </div>
+                </div>
+
+                <div class="slider-nav-arrows">
+                    <button class="arrow-btn prev-fav" id="prevFav"><i class="fas fa-chevron-left"></i></button>
+                    <button class="arrow-btn next-fav" id="nextFav"><i class="fas fa-chevron-right"></i></button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Promo Banner -->
+        <section class="promo-section-wrapper">
+            <!-- Card 2 -->
+            <div class="promo-card promo-card-alt">
+                <div class="promo-bg" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/a-one-logo1.png');"></div>
+                <div class="promo-content">
+                    <span class="promo-tag" style="background: #1A1A1A;">Newsletter</span>
+                    <h2>Join the A-ONE Family</h2>
+                    <p>Subscribe for exclusive offers, new product alerts, and baking tips.</p>
+                    <form class="card-newsletter-form" id="cardNewsletterForm">
+                        <input type="email" placeholder="Enter your email address" required>
+                        <button type="submit" class="btn btn-white">Subscribe</button>
+                    </form>
+                    <p style="font-size: 11px; margin-top: 10px; opacity: 0.7;">By subscribing, you agree to our Privacy Policy.</p>
+                </div>
+            </div>
+        </section>
+        <!-- Video Marquee Section -->
+        <section class="video-showcase-section">
+            <div class="section-header" style="margin-bottom: 40px;">
+                <span class="section-tag" style="color: var(--logo-red);"><i class="fas fa-video"></i> A-ONE Bakery on Socials</span>
+                <h2 class="section-title">Fresh from the Oven</h2>
+            </div>
+            
+            <div class="video-marquee-container">
+                <div class="video-marquee-track">
+                    <!-- Original 7 Videos -->
+                    <div class="video-card"><video autoplay muted loop playsinline class="showcase-video" src="assets/vid11 (1).mp4"></video></div>
+                    <div class="video-card"><video autoplay muted loop playsinline class="showcase-video" src="assets/vid11 (2).mp4"></video></div>
+                    <div class="video-card"><video autoplay muted loop playsinline class="showcase-video" src="assets/vid11 (3).mp4"></video></div>
+                    <div class="video-card"><video autoplay muted loop playsinline class="showcase-video" src="assets/vid11 (4).mp4"></video></div>
+                    <div class="video-card"><video autoplay muted loop playsinline class="showcase-video" src="assets/vid11 (5).mp4"></video></div>
+                    <div class="video-card"><video autoplay muted loop playsinline class="showcase-video" src="assets/vid11 (6).mp4"></video></div>
+                    <div class="video-card"><video autoplay muted loop playsinline class="showcase-video" src="assets/vid11 (7).mp4"></video></div>
+                    
+                    <!-- Duplicated 7 Videos for Seamless Infinite Scroll -->
+                    <div class="video-card"><video autoplay muted loop playsinline class="showcase-video" src="assets/vid11 (1).mp4"></video></div>
+                    <div class="video-card"><video autoplay muted loop playsinline class="showcase-video" src="assets/vid11 (2).mp4"></video></div>
+                    <div class="video-card"><video autoplay muted loop playsinline class="showcase-video" src="assets/vid11 (3).mp4"></video></div>
+                    <div class="video-card"><video autoplay muted loop playsinline class="showcase-video" src="assets/vid11 (4).mp4"></video></div>
+                    <div class="video-card"><video autoplay muted loop playsinline class="showcase-video" src="assets/vid11 (5).mp4"></video></div>
+                    <div class="video-card"><video autoplay muted loop playsinline class="showcase-video" src="assets/vid11 (6).mp4"></video></div>
+                    <div class="video-card"><video autoplay muted loop playsinline class="showcase-video" src="assets/vid11 (7).mp4"></video></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Secret Menu Reveal Section -->
+        <section class="secret-menu-section" id="secretMenu">
+            <div class="sticky-reveal-container">
+                <div class="hidden-content" id="secretContent" style="background-image: url('assets/mysterynew.jpeg');">
+                    <div class="hidden-bg-overlay"></div>
+                    <div class="hidden-text-content">
+                        <span class="secret-tag">NEW</span>
+                        <h2 class="secret-title" id="secretTitle">Explore Our New Launches</h2>
+                        <p class="secret-desc" id="secretDesc">Discover our latest amazing baked goods.</p>
+                        <a href="menu.html" class="btn btn-primary" style="margin-top: 20px;">Order Now</a>
+                    </div>
+                </div>
+                
+                <!-- Pastel Grid Overlay -->
+                <div class="pastel-grid-overlay" id="pastelGrid">
+                    <!-- 9 boxes in a 3x3 grid -->
+                    <div class="pastel-box box-1" style="background: #FFD1DC;"></div>
+                    <div class="pastel-box box-2" style="background: #FFDFBA;"></div>
+                    <div class="pastel-box box-3" style="background: #FFFFBA;"></div>
+                    <div class="pastel-box box-4" style="background: #BAFFC9;"></div>
+                    <div class="pastel-box box-5" style="background: #BAE1FF;"></div>
+                    <div class="pastel-box box-6" style="background: #E8B4B8;"></div>
+                    <div class="pastel-box box-7" style="background: #E2F0CB;"></div>
+                    <div class="pastel-box box-8" style="background: #FFB7B2;"></div>
+                    <div class="pastel-box box-9" style="background: #E0BBE4;"></div>
+                </div>
+                
+                <div class="scroll-instruction" id="scrollInstruction">
+                    <p>Scroll down to reveal...</p>
+                    <i class="fas fa-chevron-down"></i>
+                </div>
+            </div>
+        </section>
+
+    </section>
+
+    <!-- Premium Footer Section -->
+    <footer class="main-footer">
+        <!-- Call to Action Grid -->
+        <div class="footer-cta-container">
+            <div class="footer-grid-bg" id="footerInteractiveGrid">
+                <!-- Interactive Floating Icons -->
+                <div class="interactive-icon-wrapper icon-1"><img src="assets/icon21.png" class="interactive-icon" alt="Icon 11"></div>
+                <div class="interactive-icon-wrapper icon-2"><img src="assets/icon22.png" class="interactive-icon" alt="Icon 12"></div>
+                <div class="interactive-icon-wrapper icon-3"><img src="assets/icon23.png" class="interactive-icon" alt="Icon 13"></div>
+                <div class="interactive-icon-wrapper icon-4"><img src="assets/icon24.png" class="interactive-icon" alt="Icon 14"></div>
+                <div class="interactive-icon-wrapper icon-5"><img src="assets/icon25.png" class="interactive-icon" alt="Icon 15"></div>
+                
+                <div class="cta-wrapper">
+                    <a href="menu.html" class="cta-pill-btn">Order Now</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer Info -->
+        <div class="footer-bottom-max">
+            <div class="container">
+                <div class="footer-max-content">
+                    <div class="footer-max-left">
+                        <div class="footer-max-logo">
+                            <img src="assets/a-one-logo1.png" alt="A-ONE Bakery Logo" class="logo-image-max">
+                        </div>
+                    </div>
+                    <div class="footer-max-right">
+                        <div class="footer-links-grid">
+                            <!-- Quick Links -->
+                            <div class="footer-col">
+                                <h4>Quick Links</h4>
+                                <ul>
+                                    <li><a href="index.html">🏠 Home</a></li>
+                                    <li><a href="menu.html">🍰 Our Menu</a></li>
+                                    <li><a href="about.html">📖 About Us</a></li>
+                                    <li><a href="contact.html">📞 Contact</a></li>
+                                </ul>
+                            </div>
+                            
+                            <!-- Categories -->
+                            <div class="footer-col">
+                                <h4>Categories</h4>
+                                <ul>
+                                    <li><a href="menu.html?filter=Cookies">🍪 Cookies</a></li>
+                                    <li><a href="menu.html?filter=Cake%20Rusk">🍞 Cake Rusk</a></li>
+                                    <li><a href="menu.html?filter=Tea%20Rusks">☕ Tea Rusks</a></li>
+                                    <li><a href="menu.html?filter=Creamrolls">🥐 Creamrolls</a></li>
+                                    <li><a href="menu.html?filter=Bhujiya%20and%20others">🥨 Bhujiya & Others</a></li>
+                                </ul>
+                            </div>
+                            
+                            <!-- Contact -->
+                            <div class="footer-col">
+                                <h4>Contact</h4>
+                                <ul class="contact-info">
+                                    <li><span class="footer-icon">📍</span> <span class="footer-text">1075 Lorimar Drive Unit 1-5,<br>Mississauga, ON</span></li>
+                                    <li><span class="footer-icon">📞</span> <span class="footer-text">1-905-564-2663</span></li>
+                                    <li><span class="footer-icon">✉️</span> <span class="footer-text">info@aonecakes.com</span></li>
+                                    <li><span class="footer-icon">🕒</span> <span class="footer-text">Mon-Sun: 10AM - 6PM</span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-legal-max">
+                    <p>&copy; 2026 A-ONE BAKERY | DESIGNED BY SOCIAL DADDY</p>
+                    <p>PROUDLY CANADIAN <i class="fas fa-maple-leaf"></i></p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Product Quick View Modal -->
+    <div class="modal" id="productModal">
+        <div class="modal-content">
+            <button class="modal-close" id="modalClose"><i class="fas fa-times"></i></button>
+            <div class="modal-body" id="modalBody"></div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="js/global.js"></script>
+    <script src="js/index.js"></script>
+</body>
+
+</html>

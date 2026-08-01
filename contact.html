@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A-ONE BAKERY | Canada's Finest Bakery</title>
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/contact.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;900&family=Inter:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+
+    <!-- Announcement Bar -->
+    <div class="announcement-bar">
+        <p>ORDER DESSERTS FOR LOCAL PICK UP OR DELIVERY</p>
+    </div>
+
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="logo">
+                <img src="assets/a-one-logo1.png" alt="A-ONE Bakery Logo" class="nav-logo-img">
+            </a>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="menu.html">Our Menu</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <div class="nav-actions">
+                <a href="bulkorderenquiry.html" class="bulk-order-btn">For Bulk Orders</a>
+                <a href="menu.html" class="order-asap-btn">ORDER ASAP</a>
+                <button class="search-btn" id="searchBtn"><i class="fas fa-search"></i></button>
+                <button class="user-btn"><i class="far fa-user"></i></button>
+                <button class="cart-btn" id="cartBtn">
+                    <i class="fas fa-shopping-cart"></i>
+                    <span class="cart-count" id="cartCount">0</span>
+                </button>
+                <button class="mobile-menu-btn" id="mobileMenuBtn">
+                    <span></span><span></span><span></span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Search Overlay -->
+    <div class="search-overlay" id="searchOverlay">
+        <div class="search-content">
+            <button class="close-search" id="closeSearch"><i class="fas fa-times"></i></button>
+            <input type="text" placeholder="Search our delicious collection..." id="searchInput">
+            <div class="search-results" id="searchResults"></div>
+        </div>
+    </div>
+
+    <!-- Cart Sidebar -->
+    <div class="cart-sidebar" id="cartSidebar">
+        <div class="cart-header">
+            <h3>Your Cart</h3>
+            <button class="close-cart" id="closeCart"><i class="fas fa-times"></i></button>
+        </div>
+        <div class="cart-items" id="cartItems">
+            <div class="empty-cart">
+                <i class="fas fa-shopping-basket"></i>
+                <p>Your cart is empty</p>
+                <span>Add some delicious items!</span>
+            </div>
+        </div>
+        <div class="cart-footer">
+            <div class="cart-total">
+                <span>Total</span>
+                <span id="cartTotal">$0.00</span>
+            </div>
+            <button class="checkout-btn" id="checkoutBtn">Proceed to Checkout</button>
+        </div>
+    </div>
+    <div class="cart-overlay" id="cartOverlay"></div>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobileMenu">
+        <button class="close-mobile" id="closeMobile"><i class="fas fa-times"></i></button>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="menu.html">Our Menu</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact.html" class="nav-link active">Contact</a></li>
+        </ul>
+    </div>
+
+    <!-- Toast Notification -->
+    <div class="toast" id="toast">
+        <i class="fas fa-check-circle"></i>
+        <span id="toastMessage">Item added to cart!</span>
+    </div>
+
+    
+<!-- ========== CONTACT PAGE ========== -->
+    <section class="page" id="contact">
+        <div class="page-header contact-header">
+            <div class="page-header-bg"></div>
+            <div class="page-header-content">
+                <span class="page-tag">Get in Touch</span>
+                <h1>Contact Us</h1>
+                <p>We'd love to hear from you</p>
+            </div>
+        </div>
+
+        <div class="contact-container">
+            <div class="container">
+                <div class="contact-grid">
+                    <div class="contact-info">
+                        <h2>Visit Our Flagship Store</h2>
+                        <p>Come experience the aroma of freshly baked goods and meet our passionate team.</p>
+
+                        <div class="contact-details">
+                            <div class="contact-item">
+                                <i class="fas fa-map-marker-alt"></i>
+                                <div>
+                                    <h4>Address</h4>
+                                    <p>1075 LORIMAR DRIVE Unit 1-5<br>Mississauga ON, L5S 1N2</p>
+                                </div>
+                            </div>
+                            <div class="contact-item">
+                                <i class="fas fa-phone"></i>
+                                <div>
+                                    <h4>Phone</h4>
+                                    <p>1-905-564-2663</p>
+                                </div>
+                            </div>
+                            <div class="contact-item">
+                                <i class="fas fa-envelope"></i>
+                                <div>
+                                    <h4>Email</h4>
+                                    <p>info@aonecakes.com</p>
+                                </div>
+                            </div>
+                            <div class="contact-item">
+                                <i class="fas fa-clock"></i>
+                                <div>
+                                    <h4>Hours</h4>
+                                    <p>Mon-Sun: 10AM - 6PM</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="social-links">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-tiktok"></i></a>
+                        </div>
+                    </div>
+
+                    <div class="contact-form-wrapper">
+                        <form class="contact-form" id="contactForm">
+                            <h3>Send us a Message</h3>
+                            <div class="form-group">
+                                <input type="text" placeholder="Your Name" required>
+                                <i class="fas fa-user"></i>
+                            </div>
+                            <div class="form-group">
+                                <input type="email" placeholder="Your Email" required>
+                                <i class="fas fa-envelope"></i>
+                            </div>
+                            <div class="form-group">
+                                <input type="tel" placeholder="Phone Number">
+                                <i class="fas fa-phone"></i>
+                            </div>
+                            <div class="form-group">
+                                <select>
+                                    <option>General Inquiry</option>
+                                    <option>Custom Order</option>
+                                    <option>Catering</option>
+                                    <option>Feedback</option>
+                                    <option>Franchise</option>
+                                </select>
+                                <i class="fas fa-tag"></i>
+                            </div>
+                            <div class="form-group">
+                                <textarea placeholder="Your Message" rows="5" required></textarea>
+                                <i class="fas fa-comment"></i>
+                            </div>
+                            <button type="submit" class="btn btn-primary btn-full">
+                                <span>Send Message</span>
+                                <i class="fas fa-paper-plane"></i>
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </section>
+<!-- Premium Footer Section -->
+    <footer class="main-footer">
+        <!-- Call to Action Grid -->
+        <div class="footer-cta-container">
+            <div class="footer-grid-bg" id="footerInteractiveGrid">
+                <!-- Interactive Floating Icons -->
+                <div class="interactive-icon-wrapper icon-1"><img src="assets/icon21.png" class="interactive-icon" alt="Icon 11"></div>
+                <div class="interactive-icon-wrapper icon-2"><img src="assets/icon22.png" class="interactive-icon" alt="Icon 12"></div>
+                <div class="interactive-icon-wrapper icon-3"><img src="assets/icon23.png" class="interactive-icon" alt="Icon 13"></div>
+                <div class="interactive-icon-wrapper icon-4"><img src="assets/icon24.png" class="interactive-icon" alt="Icon 14"></div>
+                <div class="interactive-icon-wrapper icon-5"><img src="assets/icon25.png" class="interactive-icon" alt="Icon 15"></div>
+                
+                <div class="cta-wrapper">
+                    <a href="menu.html" class="cta-pill-btn">Order Now</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer Info -->
+        <div class="footer-bottom-max">
+            <div class="container">
+                <div class="footer-max-content">
+                    <div class="footer-max-left">
+                        <div class="footer-max-logo">
+                            <img src="assets/a-one-logo1.png" alt="A-ONE Bakery Logo" class="logo-image-max">
+                        </div>
+                    </div>
+                    <div class="footer-max-right">
+                        <div class="footer-links-grid">
+                            <!-- Quick Links -->
+                            <div class="footer-col">
+                                <h4>Quick Links</h4>
+                                <ul>
+                                    <li><a href="index.html">🏠 Home</a></li>
+                                    <li><a href="menu.html">🍰 Our Menu</a></li>
+                                    <li><a href="about.html">📖 About Us</a></li>
+                                    <li><a href="contact.html">📞 Contact</a></li>
+                                </ul>
+                            </div>
+                            
+                            <!-- Categories -->
+                            <div class="footer-col">
+                                <h4>Categories</h4>
+                                <ul>
+                                    <li><a href="menu.html?filter=Cookies">🍪 Cookies</a></li>
+                                    <li><a href="menu.html?filter=Cake%20Rusk">🍞 Cake Rusk</a></li>
+                                    <li><a href="menu.html?filter=Tea%20Rusks">☕ Tea Rusks</a></li>
+                                    <li><a href="menu.html?filter=Creamrolls">🥐 Creamrolls</a></li>
+                                    <li><a href="menu.html?filter=Bhujiya%20and%20others">🥨 Bhujiya & Others</a></li>
+                                </ul>
+                            </div>
+                            
+                            <!-- Contact -->
+                            <div class="footer-col">
+                                <h4>Contact</h4>
+                                <ul class="contact-info">
+                                    <li><span class="footer-icon">📍</span> <span class="footer-text">1075 Lorimar Drive Unit 1-5,<br>Mississauga, ON</span></li>
+                                    <li><span class="footer-icon">📞</span> <span class="footer-text">1-905-564-2663</span></li>
+                                    <li><span class="footer-icon">✉️</span> <span class="footer-text">info@aonecakes.com</span></li>
+                                    <li><span class="footer-icon">🕒</span> <span class="footer-text">Mon-Sun: 10AM - 6PM</span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-legal-max">
+                    <p>&copy; 2026 A-ONE BAKERY | DESIGNED BY SOCIAL DADDY</p>
+                    <p>PROUDLY CANADIAN <i class="fas fa-maple-leaf"></i></p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Product Quick View Modal -->
+    <div class="modal" id="productModal">
+        <div class="modal-content">
+            <button class="modal-close" id="modalClose"><i class="fas fa-times"></i></button>
+            <div class="modal-body" id="modalBody"></div>
+        </div>
+    </div>
+
+    <script src="js/global.js"></script>
+    <script src="js/contact.js"></script>
+</body>
+
+</html>
